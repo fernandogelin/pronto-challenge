@@ -1,0 +1,180 @@
+.body {
+  background-color: #FCFCFC;
+  padding-top: 2em;
+}
+h1, h2, h3, h4 {
+  font-family: 'Bitter', serif !important;
+}
+.typeset .epsilon, .typeset h5 {
+  font-family: 'Bitter', serif !important;
+  font-size: 1.3em !important;
+  color: #003B49 !important;
+}
+.fa-background {
+  font-size: 27em;
+  position: absolute;
+  color:#68D2DF;
+}
+.fa-bicycle {
+  top: 1em;
+  right: -0.3em;
+}
+.fa-home {
+  padding-top: 0.3em;
+  right: -0.3em;
+}
+.fa-calendar {
+  left:-0.2em;
+  top:4.8em;
+}
+.fa-clock-o {
+  right:-0.2em;
+}
+.fa-cloud {
+  left:-0.2em;
+  font-size: 20em;
+}
+.fa-map-marker {
+  left:-0.2em;
+}
+.circular {
+  margin-left: 25%;
+}
+p {
+  font-family: 'Titillium Web', sans-serif !important;
+}
+.jumbotron {
+  height: 100vh;
+  text-align: center;
+  background-color: transparent;
+}
+.pronto-image {
+  height: 100%;
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  background-image: url('../images/pronto.gif');
+  background-size: cover;
+}
+.title {
+  position: relative;
+  top: 15%;
+}
+.title h1{
+  font-size: 4em;
+  color: #8EDD65;
+  text-shadow: 1px 1px 1px #ABAAAA;
+}
+.title p{
+  font-size: 2rem;
+  padding-top: 2rem;
+  color: #fff;
+}
+.fa-angle-double-down {
+  font-weight: lighter;
+  position: relative;
+  top: 2em;
+  color: #fff;
+}
+.icon-down {
+  opacity: 0.3;
+}
+.flash {
+  animation-duration: 10s !important;
+
+}
+.fadeInDown, .fadeInUp {
+  animation-duration: 1s !important;
+}
+.card-columns {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+#stations {
+  height: 400px;
+  width: 100%;
+ }
+#routes {
+  height: 400px;
+  width: 100%;
+ }
+.leaflet-marker-icon, .leaflet-marker-shadow {
+    visibility: hidden;
+  }
+#bipartite {
+  height: 650px;
+}
+#bipartite svg text{
+	font-size:12px;
+}
+rect.highlight {
+	color: gray;
+}
+.q11{fill:rgb(0, 0, 0)!important}
+.q10{fill:rgb(0, 29, 43)!important}
+.q9{fill:rgb(0, 59, 73)!important}
+.q8{fill:rgb(0, 79, 93)!important}
+.q7{fill:rgb(0, 99, 113)!important}
+.q6{fill:rgb(0, 119, 133)!important}
+.q5{fill:rgb(0, 139, 153)!important}
+.q4{fill:rgb(0, 159, 173)!important}
+.q3{fill:rgb(0, 189, 203)!important}
+.q2{fill:rgb(0, 209, 223)!important}
+.q1{fill:#97F7FD!important}
+
+.graph-label {
+  font-family: 'Titillium Web';
+  font-size:12px !important;
+}
+textpath {
+  font-family: 'Bitter';
+  font-size: 2em;
+}
+.graph-legend {
+  visibility: hidden;
+}
+
+.c3 svg {
+    font-family: 'Titillium Web' !important;
+}
+.btn {
+  font-family: 'Titillium Web';
+  font-size: 0.7em;
+}
+.btn-sm {
+    margin-bottom: 1em;
+}
+.card-title {
+  text-align: center;
+  padding-bottom: 1em;
+  color: #8EDD65 !important;
+  font-size: 2em !important;
+  text-shadow: 1px 1px 1px #ABAAAA;
+}
+.weather-image {
+  margin: 0;
+  padding: 0;
+  padding-left: 17px;
+}
+.weather-text {
+  padding-left: 3em;
+}
+.card {
+  background-color: rgba(255,255,255,0.85) !important;
+}
+footer {
+  height: 15em;
+  background-color: #003C4B;
+  text-align:center;
+  z-index:2;
+}
+.col-md-3 {
+  top: 5em;
+  left:2em;
+  color: #00BDCB;
+}
+.copy {
+  padding-top: 8em;
+  color: #00BDCB;
+}

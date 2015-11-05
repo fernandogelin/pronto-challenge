@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+#map {
+  height: 1000px;
+  width: 100%;
+  position: fixed;
+ }
+ .header {
+   text-align: center;
+   padding: 14px;
+ }
+ .leaflet-popup-pane, .leaflet-control {
+    visibility: hidden;
+  }
+  .leaflet-marker-icon, .leaflet-marker-shadow {
+    visibility: hidden;
+  }
+  rect.bordered {
+        stroke: #E6E6E6;
+        stroke-width:2px;
+      }
+
+      text.mono {
+        font-size: 9pt;
+        font-family: Consolas, courier;
+        fill: #aaa;
+      }
+
+      text.axis-workweek {
+        fill: #000;
+      }
+
+      text.axis-worktime {
+        fill: #000;
+      }
+</style>
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+<script src="https://rawgithub.com/leaflet-extras/leaflet-providers/master/leaflet-providers.js"></script>
+<script src="http://www.liedman.net/leaflet-routing-machine/dist/leaflet-routing-machine.min.js"></script>
+<script src="http://www.liedman.net/lrm-mapbox/dist/lrm-mapbox-1.0.3.min.js"></script>
+<script src="http://rawgit.com/jashkenas/coffee-script/master/extras/coffee-script.js"></script>
+
+<script type="text/coffeescript">
+map = L.map('map').setView [47.637139, -122.335529]
+
+L.tileLayer.provider('MapBox', {id: 'fernandogelin.6e8ee4d4', accessToken: 'pk.eyJ1IjoiZmVybmFuZG9nZWxpbiIsImEiOiIyOWEzM2M5MTZmNmI0YjJjMTdkMTBiZDJjYjE3YTlhZCJ9.nJZf5CLZ57PXvcFGQ1KdOQ'}).addTo(map)
+
+
+data = d3.csv '2015_station_data.csv', (error, dataset) ->
+  dataset.forEach (d) ->
+    d.lat = +d.lat
+    d.long = +d.long
+    popup = "<b>" + d.name + "</b>"
+    circle = L.circle([d.lat,d.long], 10, {fillOpacity:1}).addTo(map)
+    circle.bindPopup(popup, closeButton:false).openPopup()
+    circle.on 'mouseover', (e) ->
+        this.openPopup()
+    circle.on 'mouseout', (e) ->
+        this.closePopup()
+
+routes = d3.csv 'routes.csv', (error, dataset) ->
+	dataset.forEach (d) ->
+		d.from_lat = +d.from_lat
+		d.from_long = +d.from_long
+		d.to_lat = +d.to_lat
+		d.to_long = +d.to_long
+		d.freq = +d.freq
+		L.Routing.control({
+			waypoints: [L.latLng(d.from_lat, d.from_long), L.latLng(d.to_lat, d.to_long)]
+			router: L.Routing.mapbox('pk.eyJ1IjoiZmVybmFuZG9nZWxpbiIsImEiOiIyOWEzM2M5MTZmNmI0YjJjMTdkMTBiZDJjYjE3YTlhZCJ9.nJZf5CLZ57PXvcFGQ1KdOQ', profile:"mapbox.cycling")
+			routeWhileDragging: false
+			lineOptions:
+				styles: [{color: '#8EDD65', opacity: 0.1, weight: 3}]
+			}).addTo(map)
+
+</script>
+
+
+<div id="map"></div>
+<div id="chart"></div>
+<div id="dataset-picker">
+</div>
+</body>

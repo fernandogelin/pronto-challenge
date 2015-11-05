@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+h3 {
+  font-family: "Bitter", serif !important;
+  color: #8EDD65 !important;
+}
+p {
+  font-family: "Titillium Web", sans-serif !important;
+  color: #003B49 !important;
+}
+#map {
+  height: 1000px;
+  width: 100%;
+  position: fixed;
+ }
+ .header {
+   text-align: center;
+   padding: 14px;
+ }
+ .leaflet-popup-pane, .leaflet-control {
+    visibility: hidden;
+  }
+  .leaflet-marker-icon, .leaflet-marker-shadow {
+    visibility: hidden;
+  }
+.card, .card-block {
+  position: absolute !important;
+  bottom: 2em;
+  left:2em;
+  background-color: white !important;
+}
+.btn {
+  background-color: white !important;
+  border-color: #003B49 !important;
+  border-width: thin; !important;
+  border-radius: 0 !important;
+  color: #003B49 !important;
+  font-size: 0.8em !important;
+}
+.btn:hover {
+  background-color: #003B49 !important;
+  color: white !important;
+}
+
+
+</style>
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+<link rel="stylesheet" href="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap.css" media="screen">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link href='https://fonts.googleapis.com/css?family=Bitter:400,400italic,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+<div id="map"></div>
+
+<div class="card card-block" style="width: 22rem;">
+  <h3 class="card-title">Special title treatment</h3>
+  <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+  <a href="#" class="btn btn-primary"><span class="fa fa-chevron-left">&nbsp;&nbsp;</span>BACK</a>
+</div>
+
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+<script src="https://rawgithub.com/leaflet-extras/leaflet-providers/master/leaflet-providers.js"></script>
+<script src="http://www.liedman.net/leaflet-routing-machine/dist/leaflet-routing-machine.min.js"></script>
+<script src="http://www.liedman.net/lrm-mapbox/dist/lrm-mapbox-1.0.3.min.js"></script>
+<script src="http://rawgit.com/jashkenas/coffee-script/master/extras/coffee-script.js"></script>
+<script type="text/coffeescript">
+map = L.map('map').setView [47.617105, -122.335278], 13
+
+L.tileLayer.provider('MapBox', {id: 'fernandogelin.6e8ee4d4', accessToken: 'pk.eyJ1IjoiZmVybmFuZG9nZWxpbiIsImEiOiIyOWEzM2M5MTZmNmI0YjJjMTdkMTBiZDJjYjE3YTlhZCJ9.nJZf5CLZ57PXvcFGQ1KdOQ'}).addTo(map)
+
+routes = d3.csv 'routes_1000.csv', (error, dataset) ->
+	dataset.forEach (d) ->
+		d.from_lat = +d.from_lat
+		d.from_long = +d.from_long
+		d.to_lat = +d.to_lat
+		d.to_long = +d.to_long
+		d.freq = +d.freq
+		L.Routing.control({
+      fitSelectedRoutes: ''
+      waypointMode: 'snap'
+			waypoints: [L.latLng(d.from_lat, d.from_long), L.latLng(d.to_lat, d.to_long)]
+			router: L.Routing.mapbox('pk.eyJ1IjoiZmVybmFuZG9nZWxpbiIsImEiOiIyOWEzM2M5MTZmNmI0YjJjMTdkMTBiZDJjYjE3YTlhZCJ9.nJZf5CLZ57PXvcFGQ1KdOQ', profile:"mapbox.cycling")
+			routeWhileDragging: false
+			lineOptions:
+				styles: [{color: '#8EDD65', opacity: 0.05, weight: 3}]
+			}).addTo(map)
+
+</script>
+</html>

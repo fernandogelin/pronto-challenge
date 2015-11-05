@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html class>
+<head>
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=1">
+  <link href='https://fonts.googleapis.com/css?family=Cousine:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Bitter:400,400italic,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap.css" media="screen">
+	<link href="bower_components/sassline/assets/css/style.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.css" />
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
+	<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css"/>
+	<link href="css/c3.css" rel="stylesheet" type="text/css">
+<title>Pronto Chalange</title>
+
+<body class="typeset">
+
+<div class="pronto-image"></div>
+
+<div class="jumbotron jumbotron-fluid">
+	<div class="title">
+		<h1 class="display-4 animated fadeInDown">Pronto Cycle Share</h1>
+		<p class="lead animated fadeInUp">a year of rides in Seattle</p>
+		<p class="icon-down">
+			<span class="fa fa-angle-double-down fa-3x animated infinite flash">
+			</span>
+		</p>
+	</div>
+</div>
+<div class="body">
+<span class="fa fa-bicycle fa-background"></span>
+
+<div class="container">
+	<div class="card overview">
+		<h4 class="card-title">Overview</h4>
+		<div class="row">
+		  <div class="col-md-4">
+			<div id="donut"></div>
+		  </div>
+		  <div class="col-md-4">
+			<div id="donut2"></div>
+		  </div>
+		  <div class="col-md-4">
+			<div id="bar"></div>
+		  </div>
+		</div>
+	</div>
+</div>
+
+<span class="fa fa-map-marker fa-background"></span>
+
+<div class="container">
+	<div class="row">
+	  <div class="col-md-6">
+			<div class="card">
+        <img class="card-img-top" src="images/stations.png" alt="Card image cap">
+        <div class="card-block">
+	        <h4 class="card-title">Most popular stations</h4>
+	        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+	        <a href="stations.html" class="btn btn-secondary-outline">MORE</a>
+       </div>
+     </div>
+    </div>
+	  <div class="col-md-6">
+			<div class="card">
+       <img class="card-img-top" src="images/routes.png" alt="Card image cap">
+       <div class="card-block">
+         <h4 class="card-title">Most popular routes</h4>
+         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+         <a href="routes.html" class="btn btn-secondary-outline">MORE</a>
+       </div>
+     </div>
+	  </div>
+	</div>
+</div>
+
+<span class="fa fa-home fa-background"></span>
+<div class="container">
+	<div class="card">
+		<div class="card-block">
+		<div class="row">
+			<div class="col-md-4">
+				<h4 class="card-title blue-title">Neighborhoods</h4>
+				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			</div>
+		  <div class="col-md-8">
+		  <div id="bipartite"></div>
+		  </div>
+	  </div>
+	</div>
+</div>
+</div>
+
+<span class="fa fa-calendar fa-background"></span>
+
+<div class="container">
+	<div class="card">
+		<h4 class="card-title blue-title">Day-by-day</h4>
+			<div class="row card-block">
+				<div class="col-md-4">
+					<h5 class="card-title blue-title">Members</h5>
+					<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				</div>
+				<div class="col-md-8">
+					<button type="button" class="btn btn-secondary-outline btn-sm" id="previous"><span class="fa fa-angle-left"></span></button>
+					<button type="button" class="btn btn-secondary-outline btn-sm" id="next"><span class="fa fa-angle-right"></span></button>
+					<div class="content-main calendar" id="cal-annual"></div>
+			</div>
+				<div class="row card-block">
+					<div class="col-md-4">
+						<h5 class="card-title blue-title">Day-pass holders</h5>
+						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					</div>
+					<div class="col-md-8">
+						<button type="button" class="btn btn-secondary-outline btn-sm" id="previous2"><span class="fa fa-angle-left"></span></button>
+						<button type="button" class="btn btn-secondary-outline btn-sm" id="next2"><span class="fa fa-angle-right"></span></button>
+						<div class="content-main calendar" id="cal-short"></div>
+				  </div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<span class="fa fa-clock-o fa-background"></span>
+
+<div class="container">
+	<div class="card">
+		<div class="row">
+			<h4 class="card-title blue-title">Hour-by-hour</h4>
+		  <div class="col-md-4 card-block">
+				<h5 class="card-title blue-title">Members</h5>
+		    <div id="circular-annual-am" class="circular"></div>
+		    <div id="circular-annual-pm" class="circular"></div>
+		  </div>
+			<div class="col-md-4 card-block">
+				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			</div>
+			<div class="col-md-4 card-block">
+				<h5 class="card-title blue-title">Day-pass holders</h5>
+				<div id="circular-short-am" class="circular"></div>
+				<div id="circular-short-pm" class="circular"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<span class="fa fa-cloud fa-background"></span>
+
+<div class="container">
+	<div class="card">
+		<div class="row">
+			<div class="col-md-5 card-block weather-image">
+				<img class="card-img" src="images/weather.png"/>
+			</div>
+			<div class="col-md-7 card-block weather-text">
+				<h4 class="card-title">Weather impact</h4>
+				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<a href="weather.html "class="btn btn-secondary-outline">MORE</a>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</body>
+
+<footer>
+		<div class="row">
+			<div class="col-md-1">
+			</div>
+			<div class="col-md-3">
+				<span class="fa fa-github-square fa-4x"></span>
+			</div>
+			<div class="col-md-3">
+				<span class="fa fa-linkedin-square fa-4x"></span>
+		 </div>
+		 <div class="col-md-3">
+			 <span class="fa fa-user fa-4x"></span>
+		 </div>
+		 <div class="col-md-1">
+		 </div>
+	</div>
+	<div class="copy">
+	<p>Copyright © Fernando Gelin 2015-2016</p>
+  </div>
+</footer>
+
+<script src="http://d3js.org/d3.v3.js"></script>
+<script src="js/c3.min.js"></script>
+<script src="http://rawgit.com/jashkenas/coffee-script/master/extras/coffee-script.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.min.js"></script>
+<script src="js/bipartite.js"></script>
+<script src="js/circularHeatChart.js"></script>
+<script src="js/plots.js"></script>
+<script type="text/coffeescript" src="js/plots.coffee"></script>
+</html>
