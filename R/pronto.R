@@ -1,5 +1,5 @@
 # set working directory
-setwd("/Users/fernandogelin/Dropbox/pronto-data/")
+setwd("/Users/fernandogelin/Dropbox/pronto-challenge/data/")
 
 # load required libraries
 library(reshape2)
@@ -290,11 +290,14 @@ m <- data.table("fromto"=paste(chord_matrix$from, chord_matrix$to, sep="_"))
 m_freq <- as.data.table(plyr::count(m, vars="fromto"))
 m_split <- m_freq[,c("from","to") := tstrsplit(as.character(fromto), "_", fixed = T)]
 m_split[,"fromto":=NULL]
+
+write.csv(m_split, "stationMatrix.csv")
+
 cooc_matrix <- dcast(m_split, to ~ from, value.var = "freq")
 cooc_matrix <- as.data.frame(cooc_matrix)
 cooc_matrix[is.na(cooc_matrix)] <- 0
 
-#per region
+#per neigborhood
 chord_matrix_region <- chord_matrix[,"from":= gsub("\\d+","", from)]
 chord_matrix_region <- chord_matrix[,"to":= gsub("\\d+","", to)]
 k <- data.table("fromto"=paste(chord_matrix_region$from, chord_matrix_region$to, sep="_"))

@@ -1,0 +1,1001 @@
+"","from","to","from_id","to_id","freq","from_lat","from_long","to_lat","to_long"
+"1","Pier 69 / Alaskan Way & Clay St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","WF-01","WF-04",1361,47.614315,-122.354093,47.607702,-122.34165
+"2","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","Pier 69 / Alaskan Way & Clay St","WF-04","WF-01",955,47.607702,-122.34165,47.614315,-122.354093
+"3","2nd Ave & Pine St","3rd Ave & Broad St","CBD-13","BT-01",574,47.610185,-122.339641,47.618418,-122.350964
+"4","3rd Ave & Broad St","2nd Ave & Pine St","BT-01","CBD-13",565,47.618418,-122.350964,47.610185,-122.339641
+"5","2nd Ave & Vine St","2nd Ave & Pine St","BT-03","CBD-13",506,47.615829,-122.348564,47.610185,-122.339641
+"6","3rd Ave & Broad St","Pier 69 / Alaskan Way & Clay St","BT-01","WF-01",504,47.618418,-122.350964,47.614315,-122.354093
+"7","REI / Yale Ave N & John St","Pine St & 9th Ave","SLU-01","SLU-16",504,47.619859,-122.330304,47.613715,-122.331777
+"8","Dexter Ave N & Aloha St","PATH / 9th Ave & Westlake Ave","SLU-02","SLU-07",503,47.627735,-122.342232,47.61832,-122.338913
+"9","3rd Ave & Broad St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","BT-01","WF-04",484,47.618418,-122.350964,47.607702,-122.34165
+"10","Pier 69 / Alaskan Way & Clay St","1st Ave & Marion St","WF-01","CBD-05",482,47.614315,-122.354093,47.604058,-122.3358
+"11","Pine St & 9th Ave","REI / Yale Ave N & John St","SLU-16","SLU-01",479,47.613715,-122.331777,47.619859,-122.330304
+"12","E Harrison St & Broadway Ave E","Pine St & 9th Ave","CH-02","SLU-16",473,47.622063,-122.321251,47.613715,-122.331777
+"13","E Pine St & 16th Ave","E Harrison St & Broadway Ave E","CH-07","CH-02",466,47.61533,-122.311752,47.622063,-122.321251
+"14","Pier 69 / Alaskan Way & Clay St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","WF-01","PS-05",465,47.614315,-122.354093,47.598994,-122.329684
+"15","REI / Yale Ave N & John St","Westlake Ave & 6th Ave","SLU-01","SLU-15",462,47.619859,-122.330304,47.613628,-122.337341
+"16","E Pine St & 16th Ave","Pine St & 9th Ave","CH-07","SLU-16",454,47.61533,-122.311752,47.613715,-122.331777
+"17","PATH / 9th Ave & Westlake Ave","Dexter Ave N & Aloha St","SLU-07","SLU-02",447,47.61832,-122.338913,47.627735,-122.342232
+"18","3rd Ave & Broad St","2nd Ave & Spring St","BT-01","CBD-06",442,47.618418,-122.350964,47.60595,-122.335768
+"19","E Harrison St & Broadway Ave E","Cal Anderson Park / 11th Ave & Pine St","CH-02","CH-08",437,47.622063,-122.321251,47.615486,-122.318245
+"20","Summit Ave E & E Republican St","Pine St & 9th Ave","CH-03","SLU-16",436,47.623367,-122.325279,47.613715,-122.331777
+"21","Cal Anderson Park / 11th Ave & Pine St","E Harrison St & Broadway Ave E","CH-08","CH-02",427,47.615486,-122.318245,47.622063,-122.321251
+"22","2nd Ave & Vine St","Republican St & Westlake Ave N","BT-03","SLU-04",423,47.615829,-122.348564,47.623165,-122.338203
+"23","1st Ave & Marion St","Pier 69 / Alaskan Way & Clay St","CBD-05","WF-01",415,47.604058,-122.3358,47.614315,-122.354093
+"24","Lake Union Park / Valley St & Boren Ave N","E Blaine St & Fairview Ave E","SLU-17","EL-03",414,47.626041,-122.335831,47.634831,-122.326634
+"25","Harvard Ave & E Pine St","E Harrison St & Broadway Ave E","CH-09","CH-02",408,47.615517,-122.322083,47.622063,-122.321251
+"26","6th Ave & Blanchard St","9th Ave N & Mercer St","BT-04","DPD-01",404,47.616094,-122.341102,47.624298,-122.339617
+"27","Westlake Ave & 6th Ave","Republican St & Westlake Ave N","SLU-15","SLU-04",401,47.613628,-122.337341,47.623165,-122.338203
+"28","Pine St & 9th Ave","PATH / 9th Ave & Westlake Ave","SLU-16","SLU-07",395,47.613715,-122.331777,47.61832,-122.338913
+"29","Westlake Ave & 6th Ave","Dexter Ave N & Aloha St","SLU-15","SLU-02",390,47.613628,-122.337341,47.627735,-122.342232
+"30","2nd Ave & Pine St","Occidental Park / Occidental Ave S & S Washington St","CBD-13","PS-04",360,47.610185,-122.339641,47.600757,-122.332946
+"31","Occidental Park / Occidental Ave S & S Washington St","2nd Ave & Pine St","PS-04","CBD-13",354,47.600757,-122.332946,47.610185,-122.339641
+"32","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","Pier 69 / Alaskan Way & Clay St","PS-05","WF-01",353,47.598994,-122.329684,47.614315,-122.354093
+"33","E Pine St & 16th Ave","2nd Ave & Pine St","CH-07","CBD-13",348,47.61533,-122.311752,47.610185,-122.339641
+"34","REI / Yale Ave N & John St","PATH / 9th Ave & Westlake Ave","SLU-01","SLU-07",344,47.619859,-122.330304,47.61832,-122.338913
+"35","Westlake Ave & 6th Ave","9th Ave N & Mercer St","SLU-15","DPD-01",343,47.613628,-122.337341,47.624298,-122.339617
+"36","2nd Ave & Spring St","3rd Ave & Broad St","CBD-06","BT-01",340,47.60595,-122.335768,47.618418,-122.350964
+"37","E Blaine St & Fairview Ave E","Lake Union Park / Valley St & Boren Ave N","EL-03","SLU-17",338,47.634831,-122.326634,47.626041,-122.335831
+"38","2nd Ave & Pine St","1st Ave & Marion St","CBD-13","CBD-05",336,47.610185,-122.339641,47.604058,-122.3358
+"39","Key Arena / 1st Ave N & Harrison St","1st Ave & Marion St","SLU-19","CBD-05",334,47.622277,-122.35523,47.604058,-122.3358
+"40","15th Ave E & E Thomas St","E Harrison St & Broadway Ave E","CH-05","CH-02",328,47.620712,-122.312805,47.622063,-122.321251
+"41","E Pine St & 16th Ave","15th Ave E & E Thomas St","CH-07","CH-05",328,47.61533,-122.311752,47.620712,-122.312805
+"42","9th Ave N & Mercer St","PATH / 9th Ave & Westlake Ave","DPD-01","SLU-07",321,47.624298,-122.339617,47.61832,-122.338913
+"43","E Harrison St & Broadway Ave E","Harvard Ave & E Pine St","CH-02","CH-09",320,47.622063,-122.321251,47.615517,-122.322083
+"44","Dexter Ave N & Aloha St","Republican St & Westlake Ave N","SLU-02","SLU-04",318,47.627735,-122.342232,47.623165,-122.338203
+"45","12th Ave & NE Campus Pkwy","UW Engineering Library / E Stevens Way NE & Jefferson Rd","UD-04","UW-06",315,47.656395,-122.31562,47.654613,-122.304863
+"46","Summit Ave E & E Republican St","7th Ave & Union St","CH-03","CBD-03",313,47.623367,-122.325279,47.610731,-122.332447
+"47","15th Ave E & E Thomas St","Cal Anderson Park / 11th Ave & Pine St","CH-05","CH-08",310,47.620712,-122.312805,47.615486,-122.318245
+"48","2nd Ave & Vine St","Westlake Ave & 6th Ave","BT-03","SLU-15",305,47.615829,-122.348564,47.613628,-122.337341
+"49","Republican St & Westlake Ave N","2nd Ave & Vine St","SLU-04","BT-03",305,47.623165,-122.338203,47.615829,-122.348564
+"50","2nd Ave & Spring St","Occidental Park / Occidental Ave S & S Washington St","CBD-06","PS-04",300,47.60595,-122.335768,47.600757,-122.332946
+"51","Bellevue Ave & E Pine St","2nd Ave & Spring St","CH-12","CBD-06",300,47.615456,-122.326729,47.60595,-122.335768
+"52","Republican St & Westlake Ave N","Westlake Ave & 6th Ave","SLU-04","SLU-15",299,47.623165,-122.338203,47.613628,-122.337341
+"53","Westlake Ave & 6th Ave","REI / Yale Ave N & John St","SLU-15","SLU-01",296,47.613628,-122.337341,47.619859,-122.330304
+"54","Summit Ave & E Denny Way","Summit Ave E & E Republican St","CH-01","CH-03",294,47.618633,-122.325249,47.623367,-122.325279
+"55","15th Ave E & E Thomas St","E Pine St & 16th Ave","CH-05","CH-07",292,47.620712,-122.312805,47.61533,-122.311752
+"56","Westlake Ave & 6th Ave","3rd Ave & Broad St","SLU-15","BT-01",292,47.613628,-122.337341,47.618418,-122.350964
+"57","Children's Hospital / Sandpoint Way NE & 40th Ave NE","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","DPD-03","UD-01",290,47.663509,-122.284119,47.666145,-122.301491
+"58","9th Ave N & Mercer St","6th Ave & Blanchard St","DPD-01","BT-04",286,47.624298,-122.339617,47.616094,-122.341102
+"59","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","3rd Ave & Broad St","WF-04","BT-01",285,47.607702,-122.34165,47.618418,-122.350964
+"60","Cal Anderson Park / 11th Ave & Pine St","2nd Ave & Spring St","CH-08","CBD-06",284,47.615486,-122.318245,47.60595,-122.335768
+"61","E Harrison St & Broadway Ave E","2nd Ave & Pine St","CH-02","CBD-13",284,47.622063,-122.321251,47.610185,-122.339641
+"62","15th Ave E & E Thomas St","7th Ave & Union St","CH-05","CBD-03",283,47.620712,-122.312805,47.610731,-122.332447
+"63","Summit Ave & E Denny Way","Occidental Park / Occidental Ave S & S Washington St","CH-01","PS-04",279,47.618633,-122.325249,47.600757,-122.332946
+"64","Pier 69 / Alaskan Way & Clay St","Occidental Park / Occidental Ave S & S Washington St","WF-01","PS-04",277,47.614315,-122.354093,47.600757,-122.332946
+"65","Republican St & Westlake Ave N","Dexter Ave N & Aloha St","SLU-04","SLU-02",277,47.623165,-122.338203,47.627735,-122.342232
+"66","Summit Ave & E Denny Way","7th Ave & Union St","CH-01","CBD-03",277,47.618633,-122.325249,47.610731,-122.332447
+"67","2nd Ave & Blanchard St","Key Arena / 1st Ave N & Harrison St","BT-05","SLU-19",276,47.61311,-122.344208,47.622277,-122.35523
+"68","E Pine St & 16th Ave","REI / Yale Ave N & John St","CH-07","SLU-01",275,47.61533,-122.311752,47.619859,-122.330304
+"69","Pine St & 9th Ave","Republican St & Westlake Ave N","SLU-16","SLU-04",274,47.613715,-122.331777,47.623165,-122.338203
+"70","Westlake Ave & 6th Ave","PATH / 9th Ave & Westlake Ave","SLU-15","SLU-07",274,47.613628,-122.337341,47.61832,-122.338913
+"71","Seattle University / E Columbia St & 12th Ave","2nd Ave & Pine St","FH-04","CBD-13",271,47.609239,-122.316651,47.610185,-122.339641
+"72","3rd Ave & Broad St","Westlake Ave & 6th Ave","BT-01","SLU-15",270,47.618418,-122.350964,47.613628,-122.337341
+"73","2nd Ave & Vine St","2nd Ave & Spring St","BT-03","CBD-06",267,47.615829,-122.348564,47.60595,-122.335768
+"74","2nd Ave & Pine St","Pier 69 / Alaskan Way & Clay St","CBD-13","WF-01",266,47.610185,-122.339641,47.614315,-122.354093
+"75","E Pine St & 16th Ave","PATH / 9th Ave & Westlake Ave","CH-07","SLU-07",265,47.61533,-122.311752,47.61832,-122.338913
+"76","2nd Ave & Vine St","9th Ave N & Mercer St","BT-03","DPD-01",263,47.615829,-122.348564,47.624298,-122.339617
+"77","REI / Yale Ave N & John St","Republican St & Westlake Ave N","SLU-01","SLU-04",263,47.619859,-122.330304,47.623165,-122.338203
+"78","Summit Ave E & E Republican St","Summit Ave & E Denny Way","CH-03","CH-01",261,47.623367,-122.325279,47.618633,-122.325249
+"79","2nd Ave & Pine St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","CBD-13","PS-05",260,47.610185,-122.339641,47.598994,-122.329684
+"80","3rd Ave & Broad St","PATH / 9th Ave & Westlake Ave","BT-01","SLU-07",260,47.618418,-122.350964,47.61832,-122.338913
+"81","3rd Ave & Broad St","REI / Yale Ave N & John St","BT-01","SLU-01",257,47.618418,-122.350964,47.619859,-122.330304
+"82","Frye Art Museum / Terry Ave & Columbia St","Cal Anderson Park / 11th Ave & Pine St","FH-01","CH-08",256,47.607281,-122.324783,47.615486,-122.318245
+"83","Summit Ave & E Denny Way","Pine St & 9th Ave","CH-01","SLU-16",256,47.618633,-122.325249,47.613715,-122.331777
+"84","2nd Ave & Pine St","PATH / 9th Ave & Westlake Ave","CBD-13","SLU-07",255,47.610185,-122.339641,47.61832,-122.338913
+"85","2nd Ave & Pine St","Key Arena / 1st Ave N & Harrison St","CBD-13","SLU-19",254,47.610185,-122.339641,47.622277,-122.35523
+"86","12th Ave & E Mercer St","Cal Anderson Park / 11th Ave & Pine St","CH-15","CH-08",253,47.624142,-122.316811,47.615486,-122.318245
+"87","Cal Anderson Park / 11th Ave & Pine St","Pine St & 9th Ave","CH-08","SLU-16",253,47.615486,-122.318245,47.613715,-122.331777
+"88","E Pine St & 16th Ave","Cal Anderson Park / 11th Ave & Pine St","CH-07","CH-08",253,47.61533,-122.311752,47.615486,-122.318245
+"89","Key Arena / 1st Ave N & Harrison St","Pier 69 / Alaskan Way & Clay St","SLU-19","WF-01",253,47.622277,-122.35523,47.614315,-122.354093
+"90","Cal Anderson Park / 11th Ave & Pine St","2nd Ave & Pine St","CH-08","CBD-13",252,47.615486,-122.318245,47.610185,-122.339641
+"91","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","E Blaine St & Fairview Ave E","EL-01","EL-03",251,47.627643,-122.332576,47.634831,-122.326634
+"92","3rd Ave & Broad St","2nd Ave & Blanchard St","BT-01","BT-05",250,47.618418,-122.350964,47.61311,-122.344208
+"93","Occidental Park / Occidental Ave S & S Washington St","2nd Ave & Spring St","PS-04","CBD-06",249,47.600757,-122.332946,47.60595,-122.335768
+"94","Occidental Park / Occidental Ave S & S Washington St","Pier 69 / Alaskan Way & Clay St","PS-04","WF-01",249,47.600757,-122.332946,47.614315,-122.354093
+"95","PATH / 9th Ave & Westlake Ave","9th Ave N & Mercer St","SLU-07","DPD-01",249,47.61832,-122.338913,47.624298,-122.339617
+"96","Dexter Ave N & Aloha St","Westlake Ave & 6th Ave","SLU-02","SLU-15",247,47.627735,-122.342232,47.613628,-122.337341
+"97","Pine St & 9th Ave","2nd Ave & Pine St","SLU-16","CBD-13",246,47.613715,-122.331777,47.610185,-122.339641
+"98","Harvard Ave & E Pine St","Pine St & 9th Ave","CH-09","SLU-16",245,47.615517,-122.322083,47.613715,-122.331777
+"99","REI / Yale Ave N & John St","3rd Ave & Broad St","SLU-01","BT-01",245,47.619859,-122.330304,47.618418,-122.350964
+"100","E Harrison St & Broadway Ave E","E Pine St & 16th Ave","CH-02","CH-07",244,47.622063,-122.321251,47.61533,-122.311752
+"101","Pier 69 / Alaskan Way & Clay St","3rd Ave & Broad St","WF-01","BT-01",243,47.614315,-122.354093,47.618418,-122.350964
+"102","1st Ave & Marion St","2nd Ave & Pine St","CBD-05","CBD-13",242,47.604058,-122.3358,47.610185,-122.339641
+"103","2nd Ave & Blanchard St","3rd Ave & Broad St","BT-05","BT-01",242,47.61311,-122.344208,47.618418,-122.350964
+"104","2nd Ave & Pine St","2nd Ave & Vine St","CBD-13","BT-03",242,47.610185,-122.339641,47.615829,-122.348564
+"105","Occidental Park / Occidental Ave S & S Washington St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","PS-04","WF-04",242,47.600757,-122.332946,47.607702,-122.34165
+"106","Cal Anderson Park / 11th Ave & Pine St","Bellevue Ave & E Pine St","CH-08","CH-12",241,47.615486,-122.318245,47.615456,-122.326729
+"107","Lake Union Park / Valley St & Boren Ave N","Eastlake Ave E & E Allison St","SLU-17","EL-05",240,47.626041,-122.335831,47.64909,-122.322983
+"108","Pier 69 / Alaskan Way & Clay St","2nd Ave & Pine St","WF-01","CBD-13",240,47.614315,-122.354093,47.610185,-122.339641
+"109","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","Occidental Park / Occidental Ave S & S Washington St","WF-04","PS-04",239,47.607702,-122.34165,47.600757,-122.332946
+"110","Pier 69 / Alaskan Way & Clay St","Key Arena / 1st Ave N & Harrison St","WF-01","SLU-19",237,47.614315,-122.354093,47.622277,-122.35523
+"111","Summit Ave & E Denny Way","2nd Ave & Spring St","CH-01","CBD-06",237,47.618633,-122.325249,47.60595,-122.335768
+"112","E Pine St & 16th Ave","7th Ave & Union St","CH-07","CBD-03",236,47.61533,-122.311752,47.610731,-122.332447
+"113","2nd Ave & Pine St","Westlake Ave & 6th Ave","CBD-13","SLU-15",235,47.610185,-122.339641,47.613628,-122.337341
+"114","2nd Ave & Spring St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","CBD-06","PS-05",235,47.60595,-122.335768,47.598994,-122.329684
+"115","9th Ave N & Mercer St","Westlake Ave & 6th Ave","DPD-01","SLU-15",235,47.624298,-122.339617,47.613628,-122.337341
+"116","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","Children's Hospital / Sandpoint Way NE & 40th Ave NE","UD-01","DPD-03",235,47.666145,-122.301491,47.663509,-122.284119
+"117","Dexter Ave & Denny Way","9th Ave N & Mercer St","SLU-18","DPD-01",233,47.618285,-122.342205,47.624298,-122.339617
+"118","Key Arena / 1st Ave N & Harrison St","PATH / 9th Ave & Westlake Ave","SLU-19","SLU-07",231,47.622277,-122.35523,47.61832,-122.338913
+"119","E Harrison St & Broadway Ave E","7th Ave & Union St","CH-02","CBD-03",229,47.622063,-122.321251,47.610731,-122.332447
+"120","E Blaine St & Fairview Ave E","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","EL-03","EL-01",228,47.634831,-122.326634,47.627643,-122.332576
+"121","2nd Ave & Vine St","Key Arena / 1st Ave N & Harrison St","BT-03","SLU-19",226,47.615829,-122.348564,47.622277,-122.35523
+"122","Republican St & Westlake Ave N","E Blaine St & Fairview Ave E","SLU-04","EL-03",226,47.623165,-122.338203,47.634831,-122.326634
+"123","PATH / 9th Ave & Westlake Ave","Westlake Ave & 6th Ave","SLU-07","SLU-15",225,47.61832,-122.338913,47.613628,-122.337341
+"124","Cal Anderson Park / 11th Ave & Pine St","12th Ave & E Mercer St","CH-08","CH-15",221,47.615486,-122.318245,47.624142,-122.316811
+"125","Summit Ave & E Denny Way","REI / Yale Ave N & John St","CH-01","SLU-01",221,47.618633,-122.325249,47.619859,-122.330304
+"126","3rd Ave & Broad St","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","BT-01","EL-01",220,47.618418,-122.350964,47.627643,-122.332576
+"127","3rd Ave & Broad St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","BT-01","PS-05",219,47.618418,-122.350964,47.598994,-122.329684
+"128","Cal Anderson Park / 11th Ave & Pine St","PATH / 9th Ave & Westlake Ave","CH-08","SLU-07",219,47.615486,-122.318245,47.61832,-122.338913
+"129","E Harrison St & Broadway Ave E","Summit Ave & E Denny Way","CH-02","CH-01",219,47.622063,-122.321251,47.618633,-122.325249
+"130","Westlake Ave & 6th Ave","1st Ave & Marion St","SLU-15","CBD-05",216,47.613628,-122.337341,47.604058,-122.3358
+"131","Westlake Ave & 6th Ave","Key Arena / 1st Ave N & Harrison St","SLU-15","SLU-19",213,47.613628,-122.337341,47.622277,-122.35523
+"132","PATH / 9th Ave & Westlake Ave","Pine St & 9th Ave","SLU-07","SLU-16",210,47.61832,-122.338913,47.613715,-122.331777
+"133","UW Engineering Library / E Stevens Way NE & Jefferson Rd","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","UW-06","UD-01",210,47.654613,-122.304863,47.666145,-122.301491
+"134","12th Ave & E Mercer St","Republican St & Westlake Ave N","CH-15","SLU-04",208,47.624142,-122.316811,47.623165,-122.338203
+"135","UW Engineering Library / E Stevens Way NE & Jefferson Rd","12th Ave & NE Campus Pkwy","UW-06","UD-04",208,47.654613,-122.304863,47.656395,-122.31562
+"136","Key Arena / 1st Ave N & Harrison St","2nd Ave & Blanchard St","SLU-19","BT-05",207,47.622277,-122.35523,47.61311,-122.344208
+"137","2nd Ave & Spring St","2nd Ave & Pine St","CBD-06","CBD-13",203,47.60595,-122.335768,47.610185,-122.339641
+"138","Dexter Ave & Denny Way","Dexter Ave N & Aloha St","SLU-18","SLU-02",202,47.618285,-122.342205,47.627735,-122.342232
+"139","15th Ave E & E Thomas St","Pine St & 9th Ave","CH-05","SLU-16",200,47.620712,-122.312805,47.613715,-122.331777
+"140","15th Ave NE & NE 40th St","Eastlake Ave E & E Allison St","UW-04","EL-05",200,47.65559,-122.31189,47.64909,-122.322983
+"141","Cal Anderson Park / 11th Ave & Pine St","Seattle University / E Columbia St & 12th Ave","CH-08","FH-04",199,47.615486,-122.318245,47.609239,-122.316651
+"142","Key Arena / 1st Ave N & Harrison St","2nd Ave & Pine St","SLU-19","CBD-13",199,47.622277,-122.35523,47.610185,-122.339641
+"143","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","15th Ave NE & NE 40th St","UD-01","UW-04",198,47.666145,-122.301491,47.65559,-122.31189
+"144","UW McCarty Hall / Whitman Ct","UW Engineering Library / E Stevens Way NE & Jefferson Rd","UW-01","UW-06",196,47.660268,-122.304826,47.654613,-122.304863
+"145","Occidental Park / Occidental Ave S & S Washington St","Westlake Ave & 6th Ave","PS-04","SLU-15",195,47.600757,-122.332946,47.613628,-122.337341
+"146","12th Ave & E Denny Way","Pine St & 9th Ave","CH-06","SLU-16",194,47.618549,-122.317017,47.613715,-122.331777
+"147","2nd Ave & Vine St","1st Ave & Marion St","BT-03","CBD-05",194,47.615829,-122.348564,47.604058,-122.3358
+"148","PATH / 9th Ave & Westlake Ave","2nd Ave & Pine St","SLU-07","CBD-13",194,47.61832,-122.338913,47.610185,-122.339641
+"149","PATH / 9th Ave & Westlake Ave","3rd Ave & Broad St","SLU-07","BT-01",194,47.61832,-122.338913,47.618418,-122.350964
+"150","UW Intramural Activities Building","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","UW-07","UD-01",194,47.653713,-122.302162,47.666145,-122.301491
+"151","2nd Ave & Blanchard St","PATH / 9th Ave & Westlake Ave","BT-05","SLU-07",192,47.61311,-122.344208,47.61832,-122.338913
+"152","Eastlake Ave E & E Allison St","Lake Union Park / Valley St & Boren Ave N","EL-05","SLU-17",192,47.64909,-122.322983,47.626041,-122.335831
+"153","E Pine St & 16th Ave","Occidental Park / Occidental Ave S & S Washington St","CH-07","PS-04",191,47.61533,-122.311752,47.600757,-122.332946
+"154","E Pine St & 16th Ave","Harvard Ave & E Pine St","CH-07","CH-09",190,47.61533,-122.311752,47.615517,-122.322083
+"155","Dexter Ave N & Aloha St","E Blaine St & Fairview Ave E","SLU-02","EL-03",189,47.627735,-122.342232,47.634831,-122.326634
+"156","Harvard Ave & E Pine St","2nd Ave & Pine St","CH-09","CBD-13",188,47.615517,-122.322083,47.610185,-122.339641
+"157","E Harrison St & Broadway Ave E","2nd Ave & Blanchard St","CH-02","BT-05",187,47.622063,-122.321251,47.61311,-122.344208
+"158","Eastlake Ave E & E Allison St","12th Ave & NE Campus Pkwy","EL-05","UD-04",187,47.64909,-122.322983,47.656395,-122.31562
+"159","1st Ave & Marion St","Westlake Ave & 6th Ave","CBD-05","SLU-15",186,47.604058,-122.3358,47.613628,-122.337341
+"160","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","Westlake Ave & 6th Ave","EL-01","SLU-15",186,47.627643,-122.332576,47.613628,-122.337341
+"161","E Blaine St & Fairview Ave E","Dexter Ave & Denny Way","EL-03","SLU-18",185,47.634831,-122.326634,47.618285,-122.342205
+"162","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","3rd Ave & Broad St","EL-01","BT-01",184,47.627643,-122.332576,47.618418,-122.350964
+"163","REI / Yale Ave N & John St","2nd Ave & Pine St","SLU-01","CBD-13",184,47.619859,-122.330304,47.610185,-122.339641
+"164","City Hall / 4th Ave & James St","6th Ave S & S King St","CBD-07","ID-04",183,47.603509,-122.330409,47.598488,-122.326412
+"165","E Blaine St & Fairview Ave E","9th Ave N & Mercer St","EL-03","DPD-01",183,47.634831,-122.326634,47.624298,-122.339617
+"166","Westlake Ave & 6th Ave","Occidental Park / Occidental Ave S & S Washington St","SLU-15","PS-04",183,47.613628,-122.337341,47.600757,-122.332946
+"167","15th Ave NE & NE 40th St","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","UW-04","UD-01",182,47.65559,-122.31189,47.666145,-122.301491
+"168","2nd Ave & Vine St","Occidental Park / Occidental Ave S & S Washington St","BT-03","PS-04",182,47.615829,-122.348564,47.600757,-122.332946
+"169","PATH / 9th Ave & Westlake Ave","REI / Yale Ave N & John St","SLU-07","SLU-01",182,47.61832,-122.338913,47.619859,-122.330304
+"170","Key Arena / 1st Ave N & Harrison St","2nd Ave & Vine St","SLU-19","BT-03",181,47.622277,-122.35523,47.615829,-122.348564
+"171","1st Ave & Marion St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","CBD-05","PS-05",180,47.604058,-122.3358,47.598994,-122.329684
+"172","6th Ave S & S King St","City Hall / 4th Ave & James St","ID-04","CBD-07",180,47.598488,-122.326412,47.603509,-122.330409
+"173","Dexter Ave & Denny Way","E Blaine St & Fairview Ave E","SLU-18","EL-03",180,47.618285,-122.342205,47.634831,-122.326634
+"174","UW Engineering Library / E Stevens Way NE & Jefferson Rd","15th Ave NE & NE 40th St","UW-06","UW-04",179,47.654613,-122.304863,47.65559,-122.31189
+"175","1st Ave & Marion St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","CBD-05","WF-04",178,47.604058,-122.3358,47.607702,-122.34165
+"176","Lake Union Park / Valley St & Boren Ave N","3rd Ave & Broad St","SLU-17","BT-01",178,47.626041,-122.335831,47.618418,-122.350964
+"177","NE 47th St & 12th Ave NE","12th Ave & NE Campus Pkwy","UD-07","UD-04",178,47.663143,-122.315086,47.656395,-122.31562
+"178","PATH / 9th Ave & Westlake Ave","2nd Ave & Vine St","SLU-07","BT-03",178,47.61832,-122.338913,47.615829,-122.348564
+"179","Republican St & Westlake Ave N","PATH / 9th Ave & Westlake Ave","SLU-04","SLU-07",177,47.623165,-122.338203,47.61832,-122.338913
+"180","1st Ave & Marion St","Occidental Park / Occidental Ave S & S Washington St","CBD-05","PS-04",176,47.604058,-122.3358,47.600757,-122.332946
+"181","2nd Ave & Pine St","2nd Ave & Spring St","CBD-13","CBD-06",176,47.610185,-122.339641,47.60595,-122.335768
+"182","Bellevue Ave & E Pine St","2nd Ave & Pine St","CH-12","CBD-13",176,47.615456,-122.326729,47.610185,-122.339641
+"183","2nd Ave & Vine St","3rd Ave & Broad St","BT-03","BT-01",175,47.615829,-122.348564,47.618418,-122.350964
+"184","Dexter Ave & Denny Way","Republican St & Westlake Ave N","SLU-18","SLU-04",175,47.618285,-122.342205,47.623165,-122.338203
+"185","REI / Yale Ave N & John St","7th Ave & Union St","SLU-01","CBD-03",175,47.619859,-122.330304,47.610731,-122.332447
+"186","7th Ave & Union St","REI / Yale Ave N & John St","CBD-03","SLU-01",174,47.610731,-122.332447,47.619859,-122.330304
+"187","Cal Anderson Park / 11th Ave & Pine St","6th Ave S & S King St","CH-08","ID-04",174,47.615486,-122.318245,47.598488,-122.326412
+"188","E Blaine St & Fairview Ave E","Dexter Ave N & Aloha St","EL-03","SLU-02",174,47.634831,-122.326634,47.627735,-122.342232
+"189","PATH / 9th Ave & Westlake Ave","Republican St & Westlake Ave N","SLU-07","SLU-04",174,47.61832,-122.338913,47.623165,-122.338203
+"190","2nd Ave & Blanchard St","Summit Ave & E Denny Way","BT-05","CH-01",173,47.61311,-122.344208,47.618633,-122.325249
+"191","Cal Anderson Park / 11th Ave & Pine St","7th Ave & Union St","CH-08","CBD-03",173,47.615486,-122.318245,47.610731,-122.332447
+"192","Dexter Ave N & Aloha St","9th Ave N & Mercer St","SLU-02","DPD-01",173,47.627735,-122.342232,47.624298,-122.339617
+"193","7th Ave & Union St","Occidental Park / Occidental Ave S & S Washington St","CBD-03","PS-04",172,47.610731,-122.332447,47.600757,-122.332946
+"194","1st Ave & Marion St","6th Ave & Blanchard St","CBD-05","BT-04",171,47.604058,-122.3358,47.616094,-122.341102
+"195","Westlake Ave & 6th Ave","2nd Ave & Spring St","SLU-15","CBD-06",171,47.613628,-122.337341,47.60595,-122.335768
+"196","Westlake Ave & 6th Ave","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","SLU-15","EL-01",171,47.613628,-122.337341,47.627643,-122.332576
+"197","15th Ave E & E Thomas St","Summit Ave E & E Republican St","CH-05","CH-03",168,47.620712,-122.312805,47.623367,-122.325279
+"198","2nd Ave & Blanchard St","E Blaine St & Fairview Ave E","BT-05","EL-03",168,47.61311,-122.344208,47.634831,-122.326634
+"199","1st Ave & Marion St","Key Arena / 1st Ave N & Harrison St","CBD-05","SLU-19",166,47.604058,-122.3358,47.622277,-122.35523
+"200","7th Ave & Union St","3rd Ave & Broad St","CBD-03","BT-01",166,47.610731,-122.332447,47.618418,-122.350964
+"201","Bellevue Ave & E Pine St","Summit Ave E & E Republican St","CH-12","CH-03",166,47.615456,-122.326729,47.623367,-122.325279
+"202","E Pine St & 16th Ave","6th Ave S & S King St","CH-07","ID-04",165,47.61533,-122.311752,47.598488,-122.326412
+"203","12th Ave & E Mercer St","2nd Ave & Pine St","CH-15","CBD-13",164,47.624142,-122.316811,47.610185,-122.339641
+"204","2nd Ave & Pine St","Republican St & Westlake Ave N","CBD-13","SLU-04",164,47.610185,-122.339641,47.623165,-122.338203
+"205","Westlake Ave & 6th Ave","2nd Ave & Vine St","SLU-15","BT-03",164,47.613628,-122.337341,47.615829,-122.348564
+"206","Cal Anderson Park / 11th Ave & Pine St","Summit Ave E & E Republican St","CH-08","CH-03",163,47.615486,-122.318245,47.623367,-122.325279
+"207","E Harrison St & Broadway Ave E","Summit Ave E & E Republican St","CH-02","CH-03",163,47.622063,-122.321251,47.623367,-122.325279
+"208","UW Engineering Library / E Stevens Way NE & Jefferson Rd","UW McCarty Hall / Whitman Ct","UW-06","UW-01",163,47.654613,-122.304863,47.660268,-122.304826
+"209","Westlake Ave & 6th Ave","Pier 69 / Alaskan Way & Clay St","SLU-15","WF-01",163,47.613628,-122.337341,47.614315,-122.354093
+"210","2nd Ave & Spring St","Westlake Ave & 6th Ave","CBD-06","SLU-15",162,47.60595,-122.335768,47.613628,-122.337341
+"211","Key Arena / 1st Ave N & Harrison St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","SLU-19","WF-04",161,47.622277,-122.35523,47.607702,-122.34165
+"212","Seattle University / E Columbia St & 12th Ave","Occidental Park / Occidental Ave S & S Washington St","FH-04","PS-04",161,47.609239,-122.316651,47.600757,-122.332946
+"213","Westlake Ave & 6th Ave","2nd Ave & Pine St","SLU-15","CBD-13",161,47.613628,-122.337341,47.610185,-122.339641
+"214","2nd Ave & Vine St","Pier 69 / Alaskan Way & Clay St","BT-03","WF-01",160,47.615829,-122.348564,47.614315,-122.354093
+"215","7th Ave & Union St","PATH / 9th Ave & Westlake Ave","CBD-03","SLU-07",160,47.610731,-122.332447,47.61832,-122.338913
+"216","E Harrison St & Broadway Ave E","1st Ave & Marion St","CH-02","CBD-05",160,47.622063,-122.321251,47.604058,-122.3358
+"217","Harvard Ave & E Pine St","Seattle University / E Columbia St & 12th Ave","CH-09","FH-04",159,47.615517,-122.322083,47.609239,-122.316651
+"218","12th Ave & E Mercer St","2nd Ave & Spring St","CH-15","CBD-06",158,47.624142,-122.316811,47.60595,-122.335768
+"219","Bellevue Ave & E Pine St","PATH / 9th Ave & Westlake Ave","CH-12","SLU-07",157,47.615456,-122.326729,47.61832,-122.338913
+"220","Key Arena / 1st Ave N & Harrison St","Westlake Ave & 6th Ave","SLU-19","SLU-15",157,47.622277,-122.35523,47.613628,-122.337341
+"221","6th Ave & Blanchard St","1st Ave & Marion St","BT-04","CBD-05",156,47.616094,-122.341102,47.604058,-122.3358
+"222","Burke Museum / E Stevens Way NE & Memorial Way NE","UW Engineering Library / E Stevens Way NE & Jefferson Rd","UW-02","UW-06",156,47.659756,-122.310402,47.654613,-122.304863
+"223","E Harrison St & Broadway Ave E","Bellevue Ave & E Pine St","CH-02","CH-12",156,47.622063,-122.321251,47.615456,-122.326729
+"224","E Blaine St & Fairview Ave E","2nd Ave & Blanchard St","EL-03","BT-05",155,47.634831,-122.326634,47.61311,-122.344208
+"225","Eastlake Ave E & E Allison St","15th Ave NE & NE 40th St","EL-05","UW-04",155,47.64909,-122.322983,47.65559,-122.31189
+"226","Westlake Ave & 6th Ave","Lake Union Park / Valley St & Boren Ave N","SLU-15","SLU-17",155,47.613628,-122.337341,47.626041,-122.335831
+"227","12th Ave & E Mercer St","City Hall / 4th Ave & James St","CH-15","CBD-07",154,47.624142,-122.316811,47.603509,-122.330409
+"228","1st Ave & Marion St","2nd Ave & Blanchard St","CBD-05","BT-05",154,47.604058,-122.3358,47.61311,-122.344208
+"229","2nd Ave & Blanchard St","2nd Ave & Pine St","BT-05","CBD-13",154,47.61311,-122.344208,47.610185,-122.339641
+"230","E Blaine St & Fairview Ave E","Eastlake Ave E & E Allison St","EL-03","EL-05",154,47.634831,-122.326634,47.64909,-122.322983
+"231","Key Arena / 1st Ave N & Harrison St","3rd Ave & Broad St","SLU-19","BT-01",152,47.622277,-122.35523,47.618418,-122.350964
+"232","Pine St & 9th Ave","9th Ave N & Mercer St","SLU-16","DPD-01",152,47.613715,-122.331777,47.624298,-122.339617
+"233","2nd Ave & Pine St","6th Ave S & S King St","CBD-13","ID-04",151,47.610185,-122.339641,47.598488,-122.326412
+"234","3rd Ave & Broad St","1st Ave & Marion St","BT-01","CBD-05",151,47.618418,-122.350964,47.604058,-122.3358
+"235","Key Arena / 1st Ave N & Harrison St","9th Ave N & Mercer St","SLU-19","DPD-01",151,47.622277,-122.35523,47.624298,-122.339617
+"236","REI / Yale Ave N & John St","Terry Ave & Stewart St","SLU-01","SLU-20",151,47.619859,-122.330304,47.61626,-122.333815
+"237","12th Ave & E Denny Way","Cal Anderson Park / 11th Ave & Pine St","CH-06","CH-08",150,47.618549,-122.317017,47.615486,-122.318245
+"238","Key Arena / 1st Ave N & Harrison St","Occidental Park / Occidental Ave S & S Washington St","SLU-19","PS-04",150,47.622277,-122.35523,47.600757,-122.332946
+"239","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","Lake Union Park / Valley St & Boren Ave N","EL-01","SLU-17",149,47.627643,-122.332576,47.626041,-122.335831
+"240","PATH / 9th Ave & Westlake Ave","Key Arena / 1st Ave N & Harrison St","SLU-07","SLU-19",149,47.61832,-122.338913,47.622277,-122.35523
+"241","Seattle University / E Columbia St & 12th Ave","6th Ave S & S King St","FH-04","ID-04",149,47.609239,-122.316651,47.598488,-122.326412
+"242","15th Ave E & E Thomas St","2nd Ave & Pine St","CH-05","CBD-13",148,47.620712,-122.312805,47.610185,-122.339641
+"243","15th Ave E & E Thomas St","Harvard Ave & E Pine St","CH-05","CH-09",148,47.620712,-122.312805,47.615517,-122.322083
+"244","6th Ave & Blanchard St","Dexter Ave N & Aloha St","BT-04","SLU-02",148,47.616094,-122.341102,47.627735,-122.342232
+"245","Summit Ave E & E Republican St","Harvard Ave & E Pine St","CH-03","CH-09",148,47.623367,-122.325279,47.615517,-122.322083
+"246","2nd Ave & Vine St","7th Ave & Union St","BT-03","CBD-03",147,47.615829,-122.348564,47.610731,-122.332447
+"247","E Blaine St & Fairview Ave E","Republican St & Westlake Ave N","EL-03","SLU-04",146,47.634831,-122.326634,47.623165,-122.338203
+"248","Key Arena / 1st Ave N & Harrison St","2nd Ave & Spring St","SLU-19","CBD-06",146,47.622277,-122.35523,47.60595,-122.335768
+"249","PATH / 9th Ave & Westlake Ave","2nd Ave & Blanchard St","SLU-07","BT-05",146,47.61832,-122.338913,47.61311,-122.344208
+"250","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","1st Ave & Marion St","WF-04","CBD-05",146,47.607702,-122.34165,47.604058,-122.3358
+"251","12th Ave & E Mercer St","Pine St & 9th Ave","CH-15","SLU-16",144,47.624142,-122.316811,47.613715,-122.331777
+"252","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","WF-04","PS-05",144,47.607702,-122.34165,47.598994,-122.329684
+"253","Summit Ave & E Denny Way","3rd Ave & Broad St","CH-01","BT-01",144,47.618633,-122.325249,47.618418,-122.350964
+"254","Cal Anderson Park / 11th Ave & Pine St","2nd Ave & Vine St","CH-08","BT-03",143,47.615486,-122.318245,47.615829,-122.348564
+"255","Key Arena / 1st Ave N & Harrison St","E Blaine St & Fairview Ave E","SLU-19","EL-03",143,47.622277,-122.35523,47.634831,-122.326634
+"256","REI / Yale Ave N & John St","Dexter Ave N & Aloha St","SLU-01","SLU-02",143,47.619859,-122.330304,47.627735,-122.342232
+"257","Summit Ave E & E Republican St","2nd Ave & Spring St","CH-03","CBD-06",142,47.623367,-122.325279,47.60595,-122.335768
+"258","2nd Ave & Blanchard St","Westlake Ave & 6th Ave","BT-05","SLU-15",141,47.61311,-122.344208,47.613628,-122.337341
+"259","9th Ave N & Mercer St","Key Arena / 1st Ave N & Harrison St","DPD-01","SLU-19",141,47.624298,-122.339617,47.622277,-122.35523
+"260","Bellevue Ave & E Pine St","Occidental Park / Occidental Ave S & S Washington St","CH-12","PS-04",141,47.615456,-122.326729,47.600757,-122.332946
+"261","Dexter Ave N & Aloha St","3rd Ave & Broad St","SLU-02","BT-01",140,47.627735,-122.342232,47.618418,-122.350964
+"262","E Pine St & 16th Ave","1st Ave & Marion St","CH-07","CBD-05",140,47.61533,-122.311752,47.604058,-122.3358
+"263","REI / Yale Ave N & John St","2nd Ave & Blanchard St","SLU-01","BT-05",140,47.619859,-122.330304,47.61311,-122.344208
+"264","Republican St & Westlake Ave N","2nd Ave & Pine St","SLU-04","CBD-13",140,47.623165,-122.338203,47.610185,-122.339641
+"265","2nd Ave & Spring St","Key Arena / 1st Ave N & Harrison St","CBD-06","SLU-19",139,47.60595,-122.335768,47.622277,-122.35523
+"266","6th Ave & Blanchard St","Republican St & Westlake Ave N","BT-04","SLU-04",139,47.616094,-122.341102,47.623165,-122.338203
+"267","9th Ave N & Mercer St","E Blaine St & Fairview Ave E","DPD-01","EL-03",139,47.624298,-122.339617,47.634831,-122.326634
+"268","City Hall / 4th Ave & James St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","CBD-07","PS-05",139,47.603509,-122.330409,47.598994,-122.329684
+"269","Harvard Ave & E Pine St","Summit Ave E & E Republican St","CH-09","CH-03",139,47.615517,-122.322083,47.623367,-122.325279
+"270","Lake Union Park / Valley St & Boren Ave N","Westlake Ave & 6th Ave","SLU-17","SLU-15",139,47.626041,-122.335831,47.613628,-122.337341
+"271","Seattle University / E Columbia St & 12th Ave","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","FH-04","PS-05",139,47.609239,-122.316651,47.598994,-122.329684
+"272","2nd Ave & Vine St","PATH / 9th Ave & Westlake Ave","BT-03","SLU-07",137,47.615829,-122.348564,47.61832,-122.338913
+"273","3rd Ave & Broad St","7th Ave & Union St","BT-01","CBD-03",137,47.618418,-122.350964,47.610731,-122.332447
+"274","3rd Ave & Broad St","9th Ave N & Mercer St","BT-01","DPD-01",137,47.618418,-122.350964,47.624298,-122.339617
+"275","3rd Ave & Broad St","Occidental Park / Occidental Ave S & S Washington St","BT-01","PS-04",137,47.618418,-122.350964,47.600757,-122.332946
+"276","Cal Anderson Park / 11th Ave & Pine St","15th Ave E & E Thomas St","CH-08","CH-05",137,47.615486,-122.318245,47.620712,-122.312805
+"277","Cal Anderson Park / 11th Ave & Pine St","REI / Yale Ave N & John St","CH-08","SLU-01",137,47.615486,-122.318245,47.619859,-122.330304
+"278","Eastlake Ave E & E Allison St","E Blaine St & Fairview Ave E","EL-05","EL-03",137,47.64909,-122.322983,47.634831,-122.326634
+"279","Pier 69 / Alaskan Way & Clay St","2nd Ave & Spring St","WF-01","CBD-06",137,47.614315,-122.354093,47.60595,-122.335768
+"280","12th Ave & E Mercer St","Seattle University / E Columbia St & 12th Ave","CH-15","FH-04",135,47.624142,-122.316811,47.609239,-122.316651
+"281","2nd Ave & Pine St","REI / Yale Ave N & John St","CBD-13","SLU-01",135,47.610185,-122.339641,47.619859,-122.330304
+"282","2nd Ave & Vine St","2nd Ave & Blanchard St","BT-03","BT-05",135,47.615829,-122.348564,47.61311,-122.344208
+"283","E Blaine St & Fairview Ave E","Key Arena / 1st Ave N & Harrison St","EL-03","SLU-19",135,47.634831,-122.326634,47.622277,-122.35523
+"284","2nd Ave & Spring St","Pier 69 / Alaskan Way & Clay St","CBD-06","WF-01",134,47.60595,-122.335768,47.614315,-122.354093
+"285","3rd Ave & Broad St","2nd Ave & Vine St","BT-01","BT-03",134,47.618418,-122.350964,47.615829,-122.348564
+"286","Dexter Ave & Denny Way","2nd Ave & Pine St","SLU-18","CBD-13",134,47.618285,-122.342205,47.610185,-122.339641
+"287","NE 47th St & 12th Ave NE","Burke Museum / E Stevens Way NE & Memorial Way NE","UD-07","UW-02",134,47.663143,-122.315086,47.659756,-122.310402
+"288","Summit Ave E & E Republican St","Republican St & Westlake Ave N","CH-03","SLU-04",134,47.623367,-122.325279,47.623165,-122.338203
+"289","12th Ave & E Mercer St","Occidental Park / Occidental Ave S & S Washington St","CH-15","PS-04",133,47.624142,-122.316811,47.600757,-122.332946
+"290","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","UW Intramural Activities Building","UD-01","UW-07",133,47.666145,-122.301491,47.653713,-122.302162
+"291","2nd Ave & Blanchard St","Republican St & Westlake Ave N","BT-05","SLU-04",132,47.61311,-122.344208,47.623165,-122.338203
+"292","Frye Art Museum / Terry Ave & Columbia St","E Harrison St & Broadway Ave E","FH-01","CH-02",132,47.607281,-122.324783,47.622063,-122.321251
+"293","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","Key Arena / 1st Ave N & Harrison St","WF-04","SLU-19",132,47.607702,-122.34165,47.622277,-122.35523
+"294","2nd Ave & Blanchard St","2nd Ave & Spring St","BT-05","CBD-06",131,47.61311,-122.344208,47.60595,-122.335768
+"295","3rd Ave & Broad St","Key Arena / 1st Ave N & Harrison St","BT-01","SLU-19",131,47.618418,-122.350964,47.622277,-122.35523
+"296","12th Ave & E Mercer St","E Harrison St & Broadway Ave E","CH-15","CH-02",130,47.624142,-122.316811,47.622063,-122.321251
+"297","Summit Ave E & E Republican St","2nd Ave & Pine St","CH-03","CBD-13",129,47.623367,-122.325279,47.610185,-122.339641
+"298","12th Ave & NE Campus Pkwy","Eastlake Ave E & E Allison St","UD-04","EL-05",128,47.656395,-122.31562,47.64909,-122.322983
+"299","2nd Ave & Blanchard St","7th Ave & Union St","BT-05","CBD-03",128,47.61311,-122.344208,47.610731,-122.332447
+"300","6th Ave & Blanchard St","2nd Ave & Pine St","BT-04","CBD-13",128,47.616094,-122.341102,47.610185,-122.339641
+"301","PATH / 9th Ave & Westlake Ave","7th Ave & Union St","SLU-07","CBD-03",128,47.61832,-122.338913,47.610731,-122.332447
+"302","City Hall / 4th Ave & James St","3rd Ave & Broad St","CBD-07","BT-01",127,47.603509,-122.330409,47.618418,-122.350964
+"303","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","2nd Ave & Pine St","PS-05","CBD-13",127,47.598994,-122.329684,47.610185,-122.339641
+"304","Dexter Ave & Denny Way","2nd Ave & Vine St","SLU-18","BT-03",126,47.618285,-122.342205,47.615829,-122.348564
+"305","Republican St & Westlake Ave N","3rd Ave & Broad St","SLU-04","BT-01",126,47.623165,-122.338203,47.618418,-122.350964
+"306","2nd Ave & Blanchard St","1st Ave & Marion St","BT-05","CBD-05",125,47.61311,-122.344208,47.604058,-122.3358
+"307","3rd Ave & Broad St","Republican St & Westlake Ave N","BT-01","SLU-04",125,47.618418,-122.350964,47.623165,-122.338203
+"308","Pine St & 9th Ave","Cal Anderson Park / 11th Ave & Pine St","SLU-16","CH-08",125,47.613715,-122.331777,47.615486,-122.318245
+"309","REI / Yale Ave N & John St","Dexter Ave & Denny Way","SLU-01","SLU-18",125,47.619859,-122.330304,47.618285,-122.342205
+"310","Summit Ave & E Denny Way","2nd Ave & Pine St","CH-01","CBD-13",125,47.618633,-122.325249,47.610185,-122.339641
+"311","Summit Ave E & E Republican St","Bellevue Ave & E Pine St","CH-03","CH-12",125,47.623367,-122.325279,47.615456,-122.326729
+"312","15th Ave E & E Thomas St","Bellevue Ave & E Pine St","CH-05","CH-12",124,47.620712,-122.312805,47.615456,-122.326729
+"313","City Hall / 4th Ave & James St","Occidental Park / Occidental Ave S & S Washington St","CBD-07","PS-04",124,47.603509,-122.330409,47.600757,-122.332946
+"314","2nd Ave & Blanchard St","Pier 69 / Alaskan Way & Clay St","BT-05","WF-01",123,47.61311,-122.344208,47.614315,-122.354093
+"315","6th Ave S & S King St","Occidental Park / Occidental Ave S & S Washington St","ID-04","PS-04",123,47.598488,-122.326412,47.600757,-122.332946
+"316","Eastlake Ave E & E Allison St","NE 47th St & 12th Ave NE","EL-05","UD-07",123,47.64909,-122.322983,47.663143,-122.315086
+"317","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","Eastlake Ave E & E Allison St","EL-01","EL-05",123,47.627643,-122.332576,47.64909,-122.322983
+"318","Westlake Ave & 6th Ave","2nd Ave & Blanchard St","SLU-15","BT-05",123,47.613628,-122.337341,47.61311,-122.344208
+"319","15th Ave E & E Thomas St","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","CH-05","EL-01",122,47.620712,-122.312805,47.627643,-122.332576
+"320","Bellevue Ave & E Pine St","3rd Ave & Broad St","CH-12","BT-01",122,47.615456,-122.326729,47.618418,-122.350964
+"321","3rd Ave & Broad St","Dexter Ave N & Aloha St","BT-01","SLU-02",121,47.618418,-122.350964,47.627735,-122.342232
+"322","Burke Museum / E Stevens Way NE & Memorial Way NE","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","UW-02","UD-01",121,47.659756,-122.310402,47.666145,-122.301491
+"323","Dexter Ave & Denny Way","3rd Ave & Broad St","SLU-18","BT-01",121,47.618285,-122.342205,47.618418,-122.350964
+"324","Eastlake Ave E & E Allison St","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","EL-05","EL-01",121,47.64909,-122.322983,47.627643,-122.332576
+"325","E Pine St & 16th Ave","12th Ave & E Mercer St","CH-07","CH-15",120,47.61533,-122.311752,47.624142,-122.316811
+"326","Key Arena / 1st Ave N & Harrison St","7th Ave & Union St","SLU-19","CBD-03",120,47.622277,-122.35523,47.610731,-122.332447
+"327","Summit Ave E & E Republican St","REI / Yale Ave N & John St","CH-03","SLU-01",120,47.623367,-122.325279,47.619859,-122.330304
+"328","2nd Ave & Blanchard St","Occidental Park / Occidental Ave S & S Washington St","BT-05","PS-04",119,47.61311,-122.344208,47.600757,-122.332946
+"329","7th Ave & Union St","2nd Ave & Vine St","CBD-03","BT-03",119,47.610731,-122.332447,47.615829,-122.348564
+"330","9th Ave N & Mercer St","Dexter Ave N & Aloha St","DPD-01","SLU-02",119,47.624298,-122.339617,47.627735,-122.342232
+"331","City Hall / 4th Ave & James St","2nd Ave & Pine St","CBD-07","CBD-13",119,47.603509,-122.330409,47.610185,-122.339641
+"332","Pine St & 9th Ave","2nd Ave & Vine St","SLU-16","BT-03",119,47.613715,-122.331777,47.615829,-122.348564
+"333","Summit Ave & E Denny Way","2nd Ave & Blanchard St","CH-01","BT-05",119,47.618633,-122.325249,47.61311,-122.344208
+"334","1st Ave & Marion St","2nd Ave & Vine St","CBD-05","BT-03",118,47.604058,-122.3358,47.615829,-122.348564
+"335","1st Ave & Marion St","3rd Ave & Broad St","CBD-05","BT-01",117,47.604058,-122.3358,47.618418,-122.350964
+"336","2nd Ave & Spring St","6th Ave S & S King St","CBD-06","ID-04",117,47.60595,-122.335768,47.598488,-122.326412
+"337","Frye Art Museum / Terry Ave & Columbia St","Republican St & Westlake Ave N","FH-01","SLU-04",117,47.607281,-122.324783,47.623165,-122.338203
+"338","Pine St & 9th Ave","3rd Ave & Broad St","SLU-16","BT-01",117,47.613715,-122.331777,47.618418,-122.350964
+"339","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","PS-05","WF-04",116,47.598994,-122.329684,47.607702,-122.34165
+"340","Occidental Park / Occidental Ave S & S Washington St","1st Ave & Marion St","PS-04","CBD-05",116,47.600757,-122.332946,47.604058,-122.3358
+"341","Westlake Ave & 6th Ave","E Blaine St & Fairview Ave E","SLU-15","EL-03",116,47.613628,-122.337341,47.634831,-122.326634
+"342","3rd Ave & Broad St","Lake Union Park / Valley St & Boren Ave N","BT-01","SLU-17",115,47.618418,-122.350964,47.626041,-122.335831
+"343","7th Ave & Union St","Dexter Ave N & Aloha St","CBD-03","SLU-02",115,47.610731,-122.332447,47.627735,-122.342232
+"344","E Pine St & 16th Ave","Westlake Ave & 6th Ave","CH-07","SLU-15",115,47.61533,-122.311752,47.613628,-122.337341
+"345","Lake Union Park / Valley St & Boren Ave N","12th Ave & NE Campus Pkwy","SLU-17","UD-04",115,47.626041,-122.335831,47.656395,-122.31562
+"346","REI / Yale Ave N & John St","2nd Ave & Vine St","SLU-01","BT-03",115,47.619859,-122.330304,47.615829,-122.348564
+"347","Republican St & Westlake Ave N","Key Arena / 1st Ave N & Harrison St","SLU-04","SLU-19",115,47.623165,-122.338203,47.622277,-122.35523
+"348","UW Engineering Library / E Stevens Way NE & Jefferson Rd","Burke Museum / E Stevens Way NE & Memorial Way NE","UW-06","UW-02",115,47.654613,-122.304863,47.659756,-122.310402
+"349","7th Ave & Union St","2nd Ave & Pine St","CBD-03","CBD-13",114,47.610731,-122.332447,47.610185,-122.339641
+"350","E Pine St & 16th Ave","3rd Ave & Broad St","CH-07","BT-01",114,47.61533,-122.311752,47.618418,-122.350964
+"351","12th Ave & E Mercer St","PATH / 9th Ave & Westlake Ave","CH-15","SLU-07",113,47.624142,-122.316811,47.61832,-122.338913
+"352","Key Arena / 1st Ave N & Harrison St","Republican St & Westlake Ave N","SLU-19","SLU-04",113,47.622277,-122.35523,47.623165,-122.338203
+"353","9th Ave N & Mercer St","2nd Ave & Vine St","DPD-01","BT-03",112,47.624298,-122.339617,47.615829,-122.348564
+"354","Dexter Ave & Denny Way","PATH / 9th Ave & Westlake Ave","SLU-18","SLU-07",112,47.618285,-122.342205,47.61832,-122.338913
+"355","Dexter Ave & Denny Way","REI / Yale Ave N & John St","SLU-18","SLU-01",112,47.618285,-122.342205,47.619859,-122.330304
+"356","E Pine St & 16th Ave","Summit Ave & E Denny Way","CH-07","CH-01",112,47.61533,-122.311752,47.618633,-122.325249
+"357","PATH / 9th Ave & Westlake Ave","2nd Ave & Spring St","SLU-07","CBD-06",112,47.61832,-122.338913,47.60595,-122.335768
+"358","15th Ave E & E Thomas St","Key Arena / 1st Ave N & Harrison St","CH-05","SLU-19",111,47.620712,-122.312805,47.622277,-122.35523
+"359","2nd Ave & Spring St","Dexter Ave N & Aloha St","CBD-06","SLU-02",111,47.60595,-122.335768,47.627735,-122.342232
+"360","3rd Ave & Broad St","Pine St & 9th Ave","BT-01","SLU-16",111,47.618418,-122.350964,47.613715,-122.331777
+"361","2nd Ave & Pine St","City Hall / 4th Ave & James St","CBD-13","CBD-07",110,47.610185,-122.339641,47.603509,-122.330409
+"362","2nd Ave & Vine St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","BT-03","PS-05",110,47.615829,-122.348564,47.598994,-122.329684
+"363","Bellevue Ave & E Pine St","Cal Anderson Park / 11th Ave & Pine St","CH-12","CH-08",110,47.615456,-122.326729,47.615486,-122.318245
+"364","E Harrison St & Broadway Ave E","REI / Yale Ave N & John St","CH-02","SLU-01",110,47.622063,-122.321251,47.619859,-122.330304
+"365","Lake Union Park / Valley St & Boren Ave N","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","SLU-17","EL-01",110,47.626041,-122.335831,47.627643,-122.332576
+"366","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","3rd Ave & Broad St","PS-05","BT-01",109,47.598994,-122.329684,47.618418,-122.350964
+"367","2nd Ave & Pine St","Pine St & 9th Ave","CBD-13","SLU-16",108,47.610185,-122.339641,47.613715,-122.331777
+"368","9th Ave N & Mercer St","REI / Yale Ave N & John St","DPD-01","SLU-01",108,47.624298,-122.339617,47.619859,-122.330304
+"369","Bellevue Ave & E Pine St","Republican St & Westlake Ave N","CH-12","SLU-04",108,47.615456,-122.326729,47.623165,-122.338203
+"370","Dexter Ave & Denny Way","Key Arena / 1st Ave N & Harrison St","SLU-18","SLU-19",108,47.618285,-122.342205,47.622277,-122.35523
+"371","E Pine St & 16th Ave","6th Ave & Blanchard St","CH-07","BT-04",108,47.61533,-122.311752,47.616094,-122.341102
+"372","Key Arena / 1st Ave N & Harrison St","Dexter Ave N & Aloha St","SLU-19","SLU-02",108,47.622277,-122.35523,47.627735,-122.342232
+"373","Summit Ave E & E Republican St","Westlake Ave & 6th Ave","CH-03","SLU-15",108,47.623367,-122.325279,47.613628,-122.337341
+"374","7th Ave & Union St","Pier 69 / Alaskan Way & Clay St","CBD-03","WF-01",107,47.610731,-122.332447,47.614315,-122.354093
+"375","Seattle University / E Columbia St & 12th Ave","Cal Anderson Park / 11th Ave & Pine St","FH-04","CH-08",107,47.609239,-122.316651,47.615486,-122.318245
+"376","2nd Ave & Blanchard St","2nd Ave & Vine St","BT-05","BT-03",106,47.61311,-122.344208,47.615829,-122.348564
+"377","Bellevue Ave & E Pine St","REI / Yale Ave N & John St","CH-12","SLU-01",106,47.615456,-122.326729,47.619859,-122.330304
+"378","Cal Anderson Park / 11th Ave & Pine St","Summit Ave & E Denny Way","CH-08","CH-01",106,47.615486,-122.318245,47.618633,-122.325249
+"379","E Harrison St & Broadway Ave E","Westlake Ave & 6th Ave","CH-02","SLU-15",106,47.622063,-122.321251,47.613628,-122.337341
+"380","Occidental Park / Occidental Ave S & S Washington St","3rd Ave & Broad St","PS-04","BT-01",106,47.600757,-122.332946,47.618418,-122.350964
+"381","Occidental Park / Occidental Ave S & S Washington St","6th Ave S & S King St","PS-04","ID-04",106,47.600757,-122.332946,47.598488,-122.326412
+"382","15th Ave E & E Thomas St","12th Ave & NE Campus Pkwy","CH-05","UD-04",105,47.620712,-122.312805,47.656395,-122.31562
+"383","15th Ave E & E Thomas St","REI / Yale Ave N & John St","CH-05","SLU-01",105,47.620712,-122.312805,47.619859,-122.330304
+"384","2nd Ave & Pine St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","CBD-13","WF-04",105,47.610185,-122.339641,47.607702,-122.34165
+"385","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","12th Ave & NE Campus Pkwy","UD-01","UD-04",105,47.666145,-122.301491,47.656395,-122.31562
+"386","Cal Anderson Park / 11th Ave & Pine St","Republican St & Westlake Ave N","CH-08","SLU-04",105,47.615486,-122.318245,47.623165,-122.338203
+"387","Dexter Ave N & Aloha St","Lake Union Park / Valley St & Boren Ave N","SLU-02","SLU-17",105,47.627735,-122.342232,47.626041,-122.335831
+"388","Frye Art Museum / Terry Ave & Columbia St","Harvard Ave & E Pine St","FH-01","CH-09",105,47.607281,-122.324783,47.615517,-122.322083
+"389","Dexter Ave N & Aloha St","Key Arena / 1st Ave N & Harrison St","SLU-02","SLU-19",104,47.627735,-122.342232,47.622277,-122.35523
+"390","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","1st Ave & Marion St","PS-05","CBD-05",104,47.598994,-122.329684,47.604058,-122.3358
+"391","PATH / 9th Ave & Westlake Ave","Pier 69 / Alaskan Way & Clay St","SLU-07","WF-01",104,47.61832,-122.338913,47.614315,-122.354093
+"392","Summit Ave E & E Republican St","E Blaine St & Fairview Ave E","CH-03","EL-03",104,47.623367,-122.325279,47.634831,-122.326634
+"393","2nd Ave & Pine St","2nd Ave & Blanchard St","CBD-13","BT-05",103,47.610185,-122.339641,47.61311,-122.344208
+"394","Harvard Ave & E Pine St","7th Ave & Union St","CH-09","CBD-03",103,47.615517,-122.322083,47.610731,-122.332447
+"395","3rd Ave & Broad St","Dexter Ave & Denny Way","BT-01","SLU-18",102,47.618418,-122.350964,47.618285,-122.342205
+"396","7th Ave & Union St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","CBD-03","PS-05",102,47.610731,-122.332447,47.598994,-122.329684
+"397","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","UW Engineering Library / E Stevens Way NE & Jefferson Rd","UD-01","UW-06",102,47.666145,-122.301491,47.654613,-122.304863
+"398","E Blaine St & Fairview Ave E","REI / Yale Ave N & John St","EL-03","SLU-01",102,47.634831,-122.326634,47.619859,-122.330304
+"399","E Pine St & 16th Ave","2nd Ave & Spring St","CH-07","CBD-06",102,47.61533,-122.311752,47.60595,-122.335768
+"400","Republican St & Westlake Ave N","Dexter Ave & Denny Way","SLU-04","SLU-18",102,47.623165,-122.338203,47.618285,-122.342205
+"401","15th Ave E & E Thomas St","Occidental Park / Occidental Ave S & S Washington St","CH-05","PS-04",101,47.620712,-122.312805,47.600757,-122.332946
+"402","Dexter Ave N & Aloha St","1st Ave & Marion St","SLU-02","CBD-05",101,47.627735,-122.342232,47.604058,-122.3358
+"403","12th Ave & E Mercer St","E Pine St & 16th Ave","CH-15","CH-07",100,47.624142,-122.316811,47.61533,-122.311752
+"404","2nd Ave & Spring St","2nd Ave & Blanchard St","CBD-06","BT-05",99,47.60595,-122.335768,47.61311,-122.344208
+"405","Frye Art Museum / Terry Ave & Columbia St","2nd Ave & Spring St","FH-01","CBD-06",99,47.607281,-122.324783,47.60595,-122.335768
+"406","12th Ave & NE Campus Pkwy","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","UD-04","UD-01",98,47.656395,-122.31562,47.666145,-122.301491
+"407","15th Ave E & E Thomas St","Seattle University / E Columbia St & 12th Ave","CH-05","FH-04",98,47.620712,-122.312805,47.609239,-122.316651
+"408","15th Ave E & E Thomas St","Summit Ave & E Denny Way","CH-05","CH-01",98,47.620712,-122.312805,47.618633,-122.325249
+"409","7th Ave & Union St","Key Arena / 1st Ave N & Harrison St","CBD-03","SLU-19",98,47.610731,-122.332447,47.622277,-122.35523
+"410","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","Republican St & Westlake Ave N","EL-01","SLU-04",98,47.627643,-122.332576,47.623165,-122.338203
+"411","Key Arena / 1st Ave N & Harrison St","Lake Union Park / Valley St & Boren Ave N","SLU-19","SLU-17",98,47.622277,-122.35523,47.626041,-122.335831
+"412","Terry Ave & Stewart St","REI / Yale Ave N & John St","SLU-20","SLU-01",98,47.61626,-122.333815,47.619859,-122.330304
+"413","Terry Ave & Stewart St","Republican St & Westlake Ave N","SLU-20","SLU-04",98,47.61626,-122.333815,47.623165,-122.338203
+"414","UW Intramural Activities Building","15th Ave NE & NE 40th St","UW-07","UW-04",98,47.653713,-122.302162,47.65559,-122.31189
+"415","Westlake Ave & 6th Ave","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","SLU-15","PS-05",98,47.613628,-122.337341,47.598994,-122.329684
+"416","Westlake Ave & 6th Ave","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","SLU-15","WF-04",98,47.613628,-122.337341,47.607702,-122.34165
+"417","12th Ave & E Denny Way","E Harrison St & Broadway Ave E","CH-06","CH-02",97,47.618549,-122.317017,47.622063,-122.321251
+"418","12th Ave & E Denny Way","Republican St & Westlake Ave N","CH-06","SLU-04",97,47.618549,-122.317017,47.623165,-122.338203
+"419","6th Ave S & S King St","2nd Ave & Pine St","ID-04","CBD-13",97,47.598488,-122.326412,47.610185,-122.339641
+"420","7th Ave & Union St","2nd Ave & Blanchard St","CBD-03","BT-05",97,47.610731,-122.332447,47.61311,-122.344208
+"421","9th Ave N & Mercer St","3rd Ave & Broad St","DPD-01","BT-01",97,47.624298,-122.339617,47.618418,-122.350964
+"422","2nd Ave & Pine St","6th Ave & Blanchard St","CBD-13","BT-04",96,47.610185,-122.339641,47.616094,-122.341102
+"423","2nd Ave & Pine St","Dexter Ave N & Aloha St","CBD-13","SLU-02",96,47.610185,-122.339641,47.627735,-122.342232
+"424","E Harrison St & Broadway Ave E","6th Ave S & S King St","CH-02","ID-04",96,47.622063,-122.321251,47.598488,-122.326412
+"425","Key Arena / 1st Ave N & Harrison St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","SLU-19","PS-05",96,47.622277,-122.35523,47.598994,-122.329684
+"426","PATH / 9th Ave & Westlake Ave","E Blaine St & Fairview Ave E","SLU-07","EL-03",96,47.61832,-122.338913,47.634831,-122.326634
+"427","REI / Yale Ave N & John St","E Blaine St & Fairview Ave E","SLU-01","EL-03",96,47.619859,-122.330304,47.634831,-122.326634
+"428","2nd Ave & Vine St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","BT-03","WF-04",95,47.615829,-122.348564,47.607702,-122.34165
+"429","6th Ave & Blanchard St","3rd Ave & Broad St","BT-04","BT-01",95,47.616094,-122.341102,47.618418,-122.350964
+"430","7th Ave & Union St","Republican St & Westlake Ave N","CBD-03","SLU-04",95,47.610731,-122.332447,47.623165,-122.338203
+"431","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","UD-01","UW-10",95,47.666145,-122.301491,47.650725,-122.311188
+"432","Lake Union Park / Valley St & Boren Ave N","PATH / 9th Ave & Westlake Ave","SLU-17","SLU-07",95,47.626041,-122.335831,47.61832,-122.338913
+"433","Terry Ave & Stewart St","Dexter Ave N & Aloha St","SLU-20","SLU-02",95,47.61626,-122.333815,47.627735,-122.342232
+"434","Bellevue Ave & E Pine St","Westlake Ave & 6th Ave","CH-12","SLU-15",94,47.615456,-122.326729,47.613628,-122.337341
+"435","Cal Anderson Park / 11th Ave & Pine St","9th Ave N & Mercer St","CH-08","DPD-01",94,47.615486,-122.318245,47.624298,-122.339617
+"436","Children's Hospital / Sandpoint Way NE & 40th Ave NE","UW Intramural Activities Building","DPD-03","UW-07",94,47.663509,-122.284119,47.653713,-122.302162
+"437","Occidental Park / Occidental Ave S & S Washington St","2nd Ave & Blanchard St","PS-04","BT-05",94,47.600757,-122.332946,47.61311,-122.344208
+"438","2nd Ave & Spring St","2nd Ave & Vine St","CBD-06","BT-03",93,47.60595,-122.335768,47.615829,-122.348564
+"439","E Harrison St & Broadway Ave E","Eastlake Ave E & E Allison St","CH-02","EL-05",93,47.622063,-122.321251,47.64909,-122.322983
+"440","REI / Yale Ave N & John St","Lake Union Park / Valley St & Boren Ave N","SLU-01","SLU-17",93,47.619859,-122.330304,47.626041,-122.335831
+"441","2nd Ave & Pine St","Dexter Ave & Denny Way","CBD-13","SLU-18",92,47.610185,-122.339641,47.618285,-122.342205
+"442","NE 47th St & 12th Ave NE","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","UD-07","UW-10",92,47.663143,-122.315086,47.650725,-122.311188
+"443","REI / Yale Ave N & John St","2nd Ave & Spring St","SLU-01","CBD-06",92,47.619859,-122.330304,47.60595,-122.335768
+"444","Summit Ave & E Denny Way","E Harrison St & Broadway Ave E","CH-01","CH-02",92,47.618633,-122.325249,47.622063,-122.321251
+"445","2nd Ave & Blanchard St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","BT-05","PS-05",91,47.61311,-122.344208,47.598994,-122.329684
+"446","E Pine St & 16th Ave","2nd Ave & Vine St","CH-07","BT-03",91,47.61533,-122.311752,47.615829,-122.348564
+"447","Seattle University / E Columbia St & 12th Ave","E Harrison St & Broadway Ave E","FH-04","CH-02",91,47.609239,-122.316651,47.622063,-122.321251
+"448","12th Ave & NE Campus Pkwy","E Blaine St & Fairview Ave E","UD-04","EL-03",90,47.656395,-122.31562,47.634831,-122.326634
+"449","12th Ave & NE Campus Pkwy","UW Intramural Activities Building","UD-04","UW-07",90,47.656395,-122.31562,47.653713,-122.302162
+"450","2nd Ave & Blanchard St","REI / Yale Ave N & John St","BT-05","SLU-01",90,47.61311,-122.344208,47.619859,-122.330304
+"451","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","2nd Ave & Spring St","PS-05","CBD-06",90,47.598994,-122.329684,47.60595,-122.335768
+"452","Lake Union Park / Valley St & Boren Ave N","2nd Ave & Pine St","SLU-17","CBD-13",90,47.626041,-122.335831,47.610185,-122.339641
+"453","Occidental Park / Occidental Ave S & S Washington St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","PS-04","PS-05",90,47.600757,-122.332946,47.598994,-122.329684
+"454","UW McCarty Hall / Whitman Ct","15th Ave NE & NE 40th St","UW-01","UW-04",90,47.660268,-122.304826,47.65559,-122.31189
+"455","12th Ave & E Denny Way","2nd Ave & Pine St","CH-06","CBD-13",89,47.618549,-122.317017,47.610185,-122.339641
+"456","9th Ave N & Mercer St","Dexter Ave & Denny Way","DPD-01","SLU-18",89,47.624298,-122.339617,47.618285,-122.342205
+"457","City Hall / 4th Ave & James St","REI / Yale Ave N & John St","CBD-07","SLU-01",89,47.603509,-122.330409,47.619859,-122.330304
+"458","E Harrison St & Broadway Ave E","Seattle University / E Columbia St & 12th Ave","CH-02","FH-04",89,47.622063,-122.321251,47.609239,-122.316651
+"459","NE 47th St & 12th Ave NE","UW Engineering Library / E Stevens Way NE & Jefferson Rd","UD-07","UW-06",89,47.663143,-122.315086,47.654613,-122.304863
+"460","Pier 69 / Alaskan Way & Clay St","2nd Ave & Blanchard St","WF-01","BT-05",89,47.614315,-122.354093,47.61311,-122.344208
+"461","Republican St & Westlake Ave N","Pine St & 9th Ave","SLU-04","SLU-16",89,47.623165,-122.338203,47.613715,-122.331777
+"462","UW Intramural Activities Building","12th Ave & NE Campus Pkwy","UW-07","UD-04",89,47.653713,-122.302162,47.656395,-122.31562
+"463","Dexter Ave & Denny Way","7th Ave & Union St","SLU-18","CBD-03",88,47.618285,-122.342205,47.610731,-122.332447
+"464","Dexter Ave & Denny Way","Lake Union Park / Valley St & Boren Ave N","SLU-18","SLU-17",88,47.618285,-122.342205,47.626041,-122.335831
+"465","Seattle University / E Columbia St & 12th Ave","12th Ave & E Mercer St","FH-04","CH-15",88,47.609239,-122.316651,47.624142,-122.316811
+"466","E Pine St & 16th Ave","City Hall / 4th Ave & James St","CH-07","CBD-07",87,47.61533,-122.311752,47.603509,-122.330409
+"467","Eastlake Ave E & E Allison St","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","EL-05","UW-10",87,47.64909,-122.322983,47.650725,-122.311188
+"468","Frye Art Museum / Terry Ave & Columbia St","Westlake Ave & 6th Ave","FH-01","SLU-15",87,47.607281,-122.324783,47.613628,-122.337341
+"469","Pine St & 9th Ave","2nd Ave & Spring St","SLU-16","CBD-06",87,47.613715,-122.331777,47.60595,-122.335768
+"470","Pine St & 9th Ave","Harvard Ave & E Pine St","SLU-16","CH-09",87,47.613715,-122.331777,47.615517,-122.322083
+"471","REI / Yale Ave N & John St","1st Ave & Marion St","SLU-01","CBD-05",87,47.619859,-122.330304,47.604058,-122.3358
+"472","Republican St & Westlake Ave N","2nd Ave & Blanchard St","SLU-04","BT-05",87,47.623165,-122.338203,47.61311,-122.344208
+"473","1st Ave & Marion St","6th Ave S & S King St","CBD-05","ID-04",86,47.604058,-122.3358,47.598488,-122.326412
+"474","2nd Ave & Spring St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","CBD-06","WF-04",86,47.60595,-122.335768,47.607702,-122.34165
+"475","6th Ave S & S King St","1st Ave & Marion St","ID-04","CBD-05",86,47.598488,-122.326412,47.604058,-122.3358
+"476","9th Ave N & Mercer St","Lake Union Park / Valley St & Boren Ave N","DPD-01","SLU-17",86,47.624298,-122.339617,47.626041,-122.335831
+"477","Burke Museum / E Stevens Way NE & Memorial Way NE","UW Intramural Activities Building","UW-02","UW-07",86,47.659756,-122.310402,47.653713,-122.302162
+"478","E Harrison St & Broadway Ave E","12th Ave & E Yesler Way","CH-02","CD-01",86,47.622063,-122.321251,47.602103,-122.316923
+"479","Harvard Ave & E Pine St","REI / Yale Ave N & John St","CH-09","SLU-01",86,47.615517,-122.322083,47.619859,-122.330304
+"480","Lake Union Park / Valley St & Boren Ave N","Key Arena / 1st Ave N & Harrison St","SLU-17","SLU-19",86,47.626041,-122.335831,47.622277,-122.35523
+"481","PATH / 9th Ave & Westlake Ave","Lake Union Park / Valley St & Boren Ave N","SLU-07","SLU-17",86,47.61832,-122.338913,47.626041,-122.335831
+"482","REI / Yale Ave N & John St","City Hall / 4th Ave & James St","SLU-01","CBD-07",86,47.619859,-122.330304,47.603509,-122.330409
+"483","Summit Ave & E Denny Way","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","CH-01","EL-01",86,47.618633,-122.325249,47.627643,-122.332576
+"484","12th Ave & E Mercer St","12th Ave & E Denny Way","CH-15","CH-06",85,47.624142,-122.316811,47.618549,-122.317017
+"485","6th Ave S & S King St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","ID-04","WF-04",85,47.598488,-122.326412,47.607702,-122.34165
+"486","Cal Anderson Park / 11th Ave & Pine St","Westlake Ave & 6th Ave","CH-08","SLU-15",85,47.615486,-122.318245,47.613628,-122.337341
+"487","City Hall / 4th Ave & James St","2nd Ave & Spring St","CBD-07","CBD-06",85,47.603509,-122.330409,47.60595,-122.335768
+"488","Harvard Ave & E Pine St","Occidental Park / Occidental Ave S & S Washington St","CH-09","PS-04",85,47.615517,-122.322083,47.600757,-122.332946
+"489","Cal Anderson Park / 11th Ave & Pine St","Occidental Park / Occidental Ave S & S Washington St","CH-08","PS-04",84,47.615486,-122.318245,47.600757,-122.332946
+"490","Dexter Ave N & Aloha St","2nd Ave & Pine St","SLU-02","CBD-13",84,47.627735,-122.342232,47.610185,-122.339641
+"491","Republican St & Westlake Ave N","REI / Yale Ave N & John St","SLU-04","SLU-01",84,47.623165,-122.338203,47.619859,-122.330304
+"492","12th Ave & E Mercer St","1st Ave & Marion St","CH-15","CBD-05",83,47.624142,-122.316811,47.604058,-122.3358
+"493","2nd Ave & Pine St","Bellevue Ave & E Pine St","CBD-13","CH-12",83,47.610185,-122.339641,47.615456,-122.326729
+"494","Harvard Ave & E Pine St","Summit Ave & E Denny Way","CH-09","CH-01",83,47.615517,-122.322083,47.618633,-122.325249
+"495","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","City Hall / 4th Ave & James St","PS-05","CBD-07",83,47.598994,-122.329684,47.603509,-122.330409
+"496","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","Westlake Ave & 6th Ave","PS-05","SLU-15",83,47.598994,-122.329684,47.613628,-122.337341
+"497","Occidental Park / Occidental Ave S & S Washington St","Key Arena / 1st Ave N & Harrison St","PS-04","SLU-19",83,47.600757,-122.332946,47.622277,-122.35523
+"498","15th Ave NE & NE 40th St","UW Engineering Library / E Stevens Way NE & Jefferson Rd","UW-04","UW-06",82,47.65559,-122.31189,47.654613,-122.304863
+"499","2nd Ave & Blanchard St","Dexter Ave N & Aloha St","BT-05","SLU-02",82,47.61311,-122.344208,47.627735,-122.342232
+"500","3rd Ave & Broad St","6th Ave S & S King St","BT-01","ID-04",82,47.618418,-122.350964,47.598488,-122.326412
+"501","12th Ave & NE Campus Pkwy","Lake Union Park / Valley St & Boren Ave N","UD-04","SLU-17",81,47.656395,-122.31562,47.626041,-122.335831
+"502","6th Ave & Blanchard St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","BT-04","PS-05",81,47.616094,-122.341102,47.598994,-122.329684
+"503","E Blaine St & Fairview Ave E","Westlake Ave & 6th Ave","EL-03","SLU-15",81,47.634831,-122.326634,47.613628,-122.337341
+"504","E Pine St & 16th Ave","Bellevue Ave & E Pine St","CH-07","CH-12",81,47.61533,-122.311752,47.615456,-122.326729
+"505","Harvard Ave & E Pine St","15th Ave E & E Thomas St","CH-09","CH-05",81,47.615517,-122.322083,47.620712,-122.312805
+"506","Pier 69 / Alaskan Way & Clay St","7th Ave & Union St","WF-01","CBD-03",81,47.614315,-122.354093,47.610731,-122.332447
+"507","Seattle University / E Columbia St & 12th Ave","Bellevue Ave & E Pine St","FH-04","CH-12",81,47.609239,-122.316651,47.615456,-122.326729
+"508","Summit Ave & E Denny Way","Republican St & Westlake Ave N","CH-01","SLU-04",81,47.618633,-122.325249,47.623165,-122.338203
+"509","Summit Ave E & E Republican St","Cal Anderson Park / 11th Ave & Pine St","CH-03","CH-08",81,47.623367,-122.325279,47.615486,-122.318245
+"510","UW Engineering Library / E Stevens Way NE & Jefferson Rd","NE 42nd St & University Way NE","UW-06","UD-02",81,47.654613,-122.304863,47.658288,-122.313334
+"511","2nd Ave & Pine St","7th Ave & Union St","CBD-13","CBD-03",80,47.610185,-122.339641,47.610731,-122.332447
+"512","2nd Ave & Spring St","City Hall / 4th Ave & James St","CBD-06","CBD-07",80,47.60595,-122.335768,47.603509,-122.330409
+"513","Cal Anderson Park / 11th Ave & Pine St","E Pine St & 16th Ave","CH-08","CH-07",80,47.615486,-122.318245,47.61533,-122.311752
+"514","Lake Union Park / Valley St & Boren Ave N","Republican St & Westlake Ave N","SLU-17","SLU-04",80,47.626041,-122.335831,47.623165,-122.338203
+"515","Pine St & 9th Ave","E Harrison St & Broadway Ave E","SLU-16","CH-02",80,47.613715,-122.331777,47.622063,-122.321251
+"516","Pine St & 9th Ave","E Pine St & 16th Ave","SLU-16","CH-07",80,47.613715,-122.331777,47.61533,-122.311752
+"517","REI / Yale Ave N & John St","Key Arena / 1st Ave N & Harrison St","SLU-01","SLU-19",80,47.619859,-122.330304,47.622277,-122.35523
+"518","Summit Ave & E Denny Way","Cal Anderson Park / 11th Ave & Pine St","CH-01","CH-08",80,47.618633,-122.325249,47.615486,-122.318245
+"519","Westlake Ave & 6th Ave","6th Ave & Blanchard St","SLU-15","BT-04",80,47.613628,-122.337341,47.616094,-122.341102
+"520","City Hall / 4th Ave & James St","Key Arena / 1st Ave N & Harrison St","CBD-07","SLU-19",79,47.603509,-122.330409,47.622277,-122.35523
+"521","E Pine St & 16th Ave","Frye Art Museum / Terry Ave & Columbia St","CH-07","FH-01",79,47.61533,-122.311752,47.607281,-122.324783
+"522","REI / Yale Ave N & John St","Summit Ave E & E Republican St","SLU-01","CH-03",79,47.619859,-122.330304,47.623367,-122.325279
+"523","7th Ave & Union St","1st Ave & Marion St","CBD-03","CBD-05",78,47.610731,-122.332447,47.604058,-122.3358
+"524","Burke Museum / E Stevens Way NE & Memorial Way NE","NE 47th St & 12th Ave NE","UW-02","UD-07",78,47.659756,-122.310402,47.663143,-122.315086
+"525","Cal Anderson Park / 11th Ave & Pine St","3rd Ave & Broad St","CH-08","BT-01",78,47.615486,-122.318245,47.618418,-122.350964
+"526","Cal Anderson Park / 11th Ave & Pine St","Eastlake Ave E & E Allison St","CH-08","EL-05",78,47.615486,-122.318245,47.64909,-122.322983
+"527","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","Eastlake Ave E & E Allison St","UW-10","EL-05",78,47.650725,-122.311188,47.64909,-122.322983
+"528","12th Ave & E Denny Way","12th Ave & E Mercer St","CH-06","CH-15",77,47.618549,-122.317017,47.624142,-122.316811
+"529","15th Ave E & E Thomas St","City Hall / 4th Ave & James St","CH-05","CBD-07",77,47.620712,-122.312805,47.603509,-122.330409
+"530","2nd Ave & Vine St","Pine St & 9th Ave","BT-03","SLU-16",77,47.615829,-122.348564,47.613715,-122.331777
+"531","Occidental Park / Occidental Ave S & S Washington St","7th Ave & Union St","PS-04","CBD-03",77,47.600757,-122.332946,47.610731,-122.332447
+"532","15th Ave E & E Thomas St","2nd Ave & Blanchard St","CH-05","BT-05",76,47.620712,-122.312805,47.61311,-122.344208
+"533","1st Ave & Marion St","7th Ave & Union St","CBD-05","CBD-03",76,47.604058,-122.3358,47.610731,-122.332447
+"534","Bellevue Ave & E Pine St","Pine St & 9th Ave","CH-12","SLU-16",76,47.615456,-122.326729,47.613715,-122.331777
+"535","Dexter Ave N & Aloha St","Dexter Ave & Denny Way","SLU-02","SLU-18",76,47.627735,-122.342232,47.618285,-122.342205
+"536","Frye Art Museum / Terry Ave & Columbia St","6th Ave S & S King St","FH-01","ID-04",76,47.607281,-122.324783,47.598488,-122.326412
+"537","REI / Yale Ave N & John St","6th Ave & Blanchard St","SLU-01","BT-04",76,47.619859,-122.330304,47.616094,-122.341102
+"538","12th Ave & NE Campus Pkwy","NE 47th St & 12th Ave NE","UD-04","UD-07",75,47.656395,-122.31562,47.663143,-122.315086
+"539","2nd Ave & Pine St","Harvard Ave & E Pine St","CBD-13","CH-09",75,47.610185,-122.339641,47.615517,-122.322083
+"540","2nd Ave & Vine St","REI / Yale Ave N & John St","BT-03","SLU-01",75,47.615829,-122.348564,47.619859,-122.330304
+"541","6th Ave S & S King St","2nd Ave & Spring St","ID-04","CBD-06",75,47.598488,-122.326412,47.60595,-122.335768
+"542","E Blaine St & Fairview Ave E","PATH / 9th Ave & Westlake Ave","EL-03","SLU-07",75,47.634831,-122.326634,47.61832,-122.338913
+"543","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","7th Ave & Union St","PS-05","CBD-03",75,47.598994,-122.329684,47.610731,-122.332447
+"544","NE 47th St & 12th Ave NE","Eastlake Ave E & E Allison St","UD-07","EL-05",75,47.663143,-122.315086,47.64909,-122.322983
+"545","PATH / 9th Ave & Westlake Ave","Cal Anderson Park / 11th Ave & Pine St","SLU-07","CH-08",75,47.61832,-122.338913,47.615486,-122.318245
+"546","Bellevue Ave & E Pine St","2nd Ave & Blanchard St","CH-12","BT-05",74,47.615456,-122.326729,47.61311,-122.344208
+"547","E Harrison St & Broadway Ave E","2nd Ave & Spring St","CH-02","CBD-06",74,47.622063,-122.321251,47.60595,-122.335768
+"548","Pine St & 9th Ave","2nd Ave & Blanchard St","SLU-16","BT-05",74,47.613715,-122.331777,47.61311,-122.344208
+"549","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","2nd Ave & Pine St","WF-04","CBD-13",74,47.607702,-122.34165,47.610185,-122.339641
+"550","UW Engineering Library / E Stevens Way NE & Jefferson Rd","UW Intramural Activities Building","UW-06","UW-07",74,47.654613,-122.304863,47.653713,-122.302162
+"551","Westlake Ave & 6th Ave","Dexter Ave & Denny Way","SLU-15","SLU-18",74,47.613628,-122.337341,47.618285,-122.342205
+"552","12th Ave & NE Campus Pkwy","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","UD-04","UW-10",73,47.656395,-122.31562,47.650725,-122.311188
+"553","15th Ave NE & NE 40th St","UW Intramural Activities Building","UW-04","UW-07",73,47.65559,-122.31189,47.653713,-122.302162
+"554","2nd Ave & Pine St","Cal Anderson Park / 11th Ave & Pine St","CBD-13","CH-08",73,47.610185,-122.339641,47.615486,-122.318245
+"555","7th Ave & Union St","9th Ave N & Mercer St","CBD-03","DPD-01",73,47.610731,-122.332447,47.624298,-122.339617
+"556","Cal Anderson Park / 11th Ave & Pine St","E Blaine St & Fairview Ave E","CH-08","EL-03",73,47.615486,-122.318245,47.634831,-122.326634
+"557","E Pine St & 16th Ave","2nd Ave & Blanchard St","CH-07","BT-05",73,47.61533,-122.311752,47.61311,-122.344208
+"558","E Pine St & 16th Ave","Seattle University / E Columbia St & 12th Ave","CH-07","FH-04",73,47.61533,-122.311752,47.609239,-122.316651
+"559","Harvard Ave & E Pine St","Dexter Ave & Denny Way","CH-09","SLU-18",73,47.615517,-122.322083,47.618285,-122.342205
+"560","Harvard Ave & E Pine St","E Pine St & 16th Ave","CH-09","CH-07",73,47.615517,-122.322083,47.61533,-122.311752
+"561","REI / Yale Ave N & John St","9th Ave N & Mercer St","SLU-01","DPD-01",73,47.619859,-122.330304,47.624298,-122.339617
+"562","Terry Ave & Stewart St","2nd Ave & Pine St","SLU-20","CBD-13",73,47.61626,-122.333815,47.610185,-122.339641
+"563","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","UW-10","UD-01",73,47.650725,-122.311188,47.666145,-122.301491
+"564","Dexter Ave & Denny Way","Pine St & 9th Ave","SLU-18","SLU-16",72,47.618285,-122.342205,47.613715,-122.331777
+"565","Dexter Ave & Denny Way","Westlake Ave & 6th Ave","SLU-18","SLU-15",72,47.618285,-122.342205,47.613628,-122.337341
+"566","Dexter Ave N & Aloha St","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","SLU-02","EL-01",72,47.627735,-122.342232,47.627643,-122.332576
+"567","E Harrison St & Broadway Ave E","E Blaine St & Fairview Ave E","CH-02","EL-03",72,47.622063,-122.321251,47.634831,-122.326634
+"568","E Pine St & 16th Ave","Summit Ave E & E Republican St","CH-07","CH-03",72,47.61533,-122.311752,47.623367,-122.325279
+"569","Eastlake Ave E & E Allison St","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","EL-05","UD-01",72,47.64909,-122.322983,47.666145,-122.301491
+"570","Summit Ave E & E Republican St","1st Ave & Marion St","CH-03","CBD-05",72,47.623367,-122.325279,47.604058,-122.3358
+"571","Union St & 4th Ave","Occidental Park / Occidental Ave S & S Washington St","CBD-04","PS-04",72,47.609221,-122.335596,47.600757,-122.332946
+"572","15th Ave E & E Thomas St","Westlake Ave & 6th Ave","CH-05","SLU-15",71,47.620712,-122.312805,47.613628,-122.337341
+"573","15th Ave NE & NE 40th St","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","UW-04","UW-10",71,47.65559,-122.31189,47.650725,-122.311188
+"574","2nd Ave & Spring St","6th Ave & Blanchard St","CBD-06","BT-04",71,47.60595,-122.335768,47.616094,-122.341102
+"575","2nd Ave & Spring St","Pine St & 9th Ave","CBD-06","SLU-16",71,47.60595,-122.335768,47.613715,-122.331777
+"576","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","PATH / 9th Ave & Westlake Ave","EL-01","SLU-07",71,47.627643,-122.332576,47.61832,-122.338913
+"577","Frye Art Museum / Terry Ave & Columbia St","2nd Ave & Pine St","FH-01","CBD-13",71,47.607281,-122.324783,47.610185,-122.339641
+"578","Republican St & Westlake Ave N","2nd Ave & Spring St","SLU-04","CBD-06",71,47.623165,-122.338203,47.60595,-122.335768
+"579","12th Ave & E Yesler Way","Occidental Park / Occidental Ave S & S Washington St","CD-01","PS-04",70,47.602103,-122.316923,47.600757,-122.332946
+"580","6th Ave & Blanchard St","Terry Ave & Stewart St","BT-04","SLU-20",70,47.616094,-122.341102,47.61626,-122.333815
+"581","6th Ave S & S King St","E Pine St & 16th Ave","ID-04","CH-07",70,47.598488,-122.326412,47.61533,-122.311752
+"582","Cal Anderson Park / 11th Ave & Pine St","1st Ave & Marion St","CH-08","CBD-05",70,47.615486,-122.318245,47.604058,-122.3358
+"583","E Harrison St & Broadway Ave E","12th Ave & NE Campus Pkwy","CH-02","UD-04",70,47.622063,-122.321251,47.656395,-122.31562
+"584","Republican St & Westlake Ave N","Lake Union Park / Valley St & Boren Ave N","SLU-04","SLU-17",70,47.623165,-122.338203,47.626041,-122.335831
+"585","2nd Ave & Blanchard St","Terry Ave & Stewart St","BT-05","SLU-20",69,47.61311,-122.344208,47.61626,-122.333815
+"586","6th Ave & Blanchard St","REI / Yale Ave N & John St","BT-04","SLU-01",69,47.616094,-122.341102,47.619859,-122.330304
+"587","7th Ave & Union St","Dexter Ave & Denny Way","CBD-03","SLU-18",69,47.610731,-122.332447,47.618285,-122.342205
+"588","9th Ave N & Mercer St","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","DPD-01","EL-01",69,47.624298,-122.339617,47.627643,-122.332576
+"589","Cal Anderson Park / 11th Ave & Pine St","Frye Art Museum / Terry Ave & Columbia St","CH-08","FH-01",69,47.615486,-122.318245,47.607281,-122.324783
+"590","City Hall / 4th Ave & James St","Westlake Ave & 6th Ave","CBD-07","SLU-15",69,47.603509,-122.330409,47.613628,-122.337341
+"591","Dexter Ave N & Aloha St","Terry Ave & Stewart St","SLU-02","SLU-20",69,47.627735,-122.342232,47.61626,-122.333815
+"592","E Harrison St & Broadway Ave E","Frye Art Museum / Terry Ave & Columbia St","CH-02","FH-01",69,47.622063,-122.321251,47.607281,-122.324783
+"593","E Pine St & 16th Ave","Key Arena / 1st Ave N & Harrison St","CH-07","SLU-19",69,47.61533,-122.311752,47.622277,-122.35523
+"594","Lake Union Park / Valley St & Boren Ave N","REI / Yale Ave N & John St","SLU-17","SLU-01",69,47.626041,-122.335831,47.619859,-122.330304
+"595","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","2nd Ave & Blanchard St","WF-04","BT-05",69,47.607702,-122.34165,47.61311,-122.344208
+"596","Summit Ave & E Denny Way","Bellevue Ave & E Pine St","CH-01","CH-12",69,47.618633,-122.325249,47.615456,-122.326729
+"597","12th Ave & E Mercer St","Harvard Ave & E Pine St","CH-15","CH-09",68,47.624142,-122.316811,47.615517,-122.322083
+"598","Harvard Ave & E Pine St","3rd Ave & Broad St","CH-09","BT-01",68,47.615517,-122.322083,47.618418,-122.350964
+"599","Lake Union Park / Valley St & Boren Ave N","Dexter Ave & Denny Way","SLU-17","SLU-18",68,47.626041,-122.335831,47.618285,-122.342205
+"600","3rd Ave & Broad St","City Hall / 4th Ave & James St","BT-01","CBD-07",67,47.618418,-122.350964,47.603509,-122.330409
+"601","6th Ave & Blanchard St","2nd Ave & Vine St","BT-04","BT-03",67,47.616094,-122.341102,47.615829,-122.348564
+"602","7th Ave & Union St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","CBD-03","WF-04",67,47.610731,-122.332447,47.607702,-122.34165
+"603","Bellevue Ave & E Pine St","2nd Ave & Vine St","CH-12","BT-03",67,47.615456,-122.326729,47.615829,-122.348564
+"604","Dexter Ave N & Aloha St","Pine St & 9th Ave","SLU-02","SLU-16",67,47.627735,-122.342232,47.613715,-122.331777
+"605","Harvard Ave & E Pine St","Bellevue Ave & E Pine St","CH-09","CH-12",67,47.615517,-122.322083,47.615456,-122.326729
+"606","PATH / 9th Ave & Westlake Ave","Union St & 4th Ave","SLU-07","CBD-04",67,47.61832,-122.338913,47.609221,-122.335596
+"607","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","6th Ave S & S King St","WF-04","ID-04",67,47.607702,-122.34165,47.598488,-122.326412
+"608","Westlake Ave & 6th Ave","City Hall / 4th Ave & James St","SLU-15","CBD-07",67,47.613628,-122.337341,47.603509,-122.330409
+"609","12th Ave & E Mercer St","Lake Union Park / Valley St & Boren Ave N","CH-15","SLU-17",66,47.624142,-122.316811,47.626041,-122.335831
+"610","7th Ave & Union St","Harvard Ave & E Pine St","CBD-03","CH-09",66,47.610731,-122.332447,47.615517,-122.322083
+"611","Dexter Ave & Denny Way","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","SLU-18","WF-04",66,47.618285,-122.342205,47.607702,-122.34165
+"612","E Harrison St & Broadway Ave E","Occidental Park / Occidental Ave S & S Washington St","CH-02","PS-04",66,47.622063,-122.321251,47.600757,-122.332946
+"613","Frye Art Museum / Terry Ave & Columbia St","Summit Ave E & E Republican St","FH-01","CH-03",66,47.607281,-122.324783,47.623367,-122.325279
+"614","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","Key Arena / 1st Ave N & Harrison St","PS-05","SLU-19",66,47.598994,-122.329684,47.622277,-122.35523
+"615","NE 47th St & 12th Ave NE","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","UD-07","UD-01",66,47.663143,-122.315086,47.666145,-122.301491
+"616","Republican St & Westlake Ave N","6th Ave & Blanchard St","SLU-04","BT-04",66,47.623165,-122.338203,47.616094,-122.341102
+"617","2nd Ave & Blanchard St","Pine St & 9th Ave","BT-05","SLU-16",65,47.61311,-122.344208,47.613715,-122.331777
+"618","7th Ave & Union St","Cal Anderson Park / 11th Ave & Pine St","CBD-03","CH-08",65,47.610731,-122.332447,47.615486,-122.318245
+"619","Bellevue Ave & E Pine St","7th Ave & Union St","CH-12","CBD-03",65,47.615456,-122.326729,47.610731,-122.332447
+"620","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","Eastlake Ave E & E Allison St","UD-01","EL-05",65,47.666145,-122.301491,47.64909,-122.322983
+"621","City Hall / 4th Ave & James St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","CBD-07","WF-04",65,47.603509,-122.330409,47.607702,-122.34165
+"622","Dexter Ave N & Aloha St","Eastlake Ave E & E Allison St","SLU-02","EL-05",65,47.627735,-122.342232,47.64909,-122.322983
+"623","Dexter Ave N & Aloha St","REI / Yale Ave N & John St","SLU-02","SLU-01",65,47.627735,-122.342232,47.619859,-122.330304
+"624","E Blaine St & Fairview Ave E","12th Ave & NE Campus Pkwy","EL-03","UD-04",65,47.634831,-122.326634,47.656395,-122.31562
+"625","NE 47th St & 12th Ave NE","15th Ave NE & NE 40th St","UD-07","UW-04",65,47.663143,-122.315086,47.65559,-122.31189
+"626","PATH / 9th Ave & Westlake Ave","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","SLU-07","EL-01",65,47.61832,-122.338913,47.627643,-122.332576
+"627","Republican St & Westlake Ave N","7th Ave & Union St","SLU-04","CBD-03",65,47.623165,-122.338203,47.610731,-122.332447
+"628","Summit Ave & E Denny Way","Westlake Ave & 6th Ave","CH-01","SLU-15",65,47.618633,-122.325249,47.613628,-122.337341
+"629","Summit Ave E & E Republican St","3rd Ave & Broad St","CH-03","BT-01",65,47.623367,-122.325279,47.618418,-122.350964
+"630","Union St & 4th Ave","PATH / 9th Ave & Westlake Ave","CBD-04","SLU-07",65,47.609221,-122.335596,47.61832,-122.338913
+"631","12th Ave & E Denny Way","6th Ave S & S King St","CH-06","ID-04",64,47.618549,-122.317017,47.598488,-122.326412
+"632","15th Ave E & E Thomas St","12th Ave & E Mercer St","CH-05","CH-15",64,47.620712,-122.312805,47.624142,-122.316811
+"633","2nd Ave & Pine St","E Blaine St & Fairview Ave E","CBD-13","EL-03",64,47.610185,-122.339641,47.634831,-122.326634
+"634","2nd Ave & Pine St","Lake Union Park / Valley St & Boren Ave N","CBD-13","SLU-17",64,47.610185,-122.339641,47.626041,-122.335831
+"635","2nd Ave & Spring St","PATH / 9th Ave & Westlake Ave","CBD-06","SLU-07",64,47.60595,-122.335768,47.61832,-122.338913
+"636","6th Ave S & S King St","Seattle University / E Columbia St & 12th Ave","ID-04","FH-04",64,47.598488,-122.326412,47.609239,-122.316651
+"637","Cal Anderson Park / 11th Ave & Pine St","Harvard Ave & E Pine St","CH-08","CH-09",64,47.615486,-122.318245,47.615517,-122.322083
+"638","E Harrison St & Broadway Ave E","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","CH-02","PS-05",64,47.622063,-122.321251,47.598994,-122.329684
+"639","Frye Art Museum / Terry Ave & Columbia St","REI / Yale Ave N & John St","FH-01","SLU-01",64,47.607281,-122.324783,47.619859,-122.330304
+"640","Harvard Ave & E Pine St","Key Arena / 1st Ave N & Harrison St","CH-09","SLU-19",64,47.615517,-122.322083,47.622277,-122.35523
+"641","Key Arena / 1st Ave N & Harrison St","City Hall / 4th Ave & James St","SLU-19","CBD-07",64,47.622277,-122.35523,47.603509,-122.330409
+"642","Occidental Park / Occidental Ave S & S Washington St","2nd Ave & Vine St","PS-04","BT-03",64,47.600757,-122.332946,47.615829,-122.348564
+"643","Pier 69 / Alaskan Way & Clay St","2nd Ave & Vine St","WF-01","BT-03",64,47.614315,-122.354093,47.615829,-122.348564
+"644","Westlake Ave & 6th Ave","Eastlake Ave E & E Allison St","SLU-15","EL-05",64,47.613628,-122.337341,47.64909,-122.322983
+"645","Cal Anderson Park / 11th Ave & Pine St","2nd Ave & Blanchard St","CH-08","BT-05",63,47.615486,-122.318245,47.61311,-122.344208
+"646","Dexter Ave N & Aloha St","2nd Ave & Blanchard St","SLU-02","BT-05",63,47.627735,-122.342232,47.61311,-122.344208
+"647","Harvard Ave & E Pine St","12th Ave & E Mercer St","CH-09","CH-15",63,47.615517,-122.322083,47.624142,-122.316811
+"648","Key Arena / 1st Ave N & Harrison St","REI / Yale Ave N & John St","SLU-19","SLU-01",63,47.622277,-122.35523,47.619859,-122.330304
+"649","UW Intramural Activities Building","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","UW-07","UW-10",63,47.653713,-122.302162,47.650725,-122.311188
+"650","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","12th Ave & NE Campus Pkwy","UW-10","UD-04",63,47.650725,-122.311188,47.656395,-122.31562
+"651","15th Ave E & E Thomas St","PATH / 9th Ave & Westlake Ave","CH-05","SLU-07",62,47.620712,-122.312805,47.61832,-122.338913
+"652","7th Ave & Union St","2nd Ave & Spring St","CBD-03","CBD-06",62,47.610731,-122.332447,47.60595,-122.335768
+"653","7th Ave & Union St","Summit Ave E & E Republican St","CBD-03","CH-03",62,47.610731,-122.332447,47.623367,-122.325279
+"654","Frye Art Museum / Terry Ave & Columbia St","7th Ave & Union St","FH-01","CBD-03",62,47.607281,-122.324783,47.610731,-122.332447
+"655","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","Seattle University / E Columbia St & 12th Ave","PS-05","FH-04",62,47.598994,-122.329684,47.609239,-122.316651
+"656","Pine St & 9th Ave","12th Ave & E Denny Way","SLU-16","CH-06",62,47.613715,-122.331777,47.618549,-122.317017
+"657","Pine St & 9th Ave","Westlake Ave & 6th Ave","SLU-16","SLU-15",62,47.613715,-122.331777,47.613628,-122.337341
+"658","Summit Ave E & E Republican St","2nd Ave & Blanchard St","CH-03","BT-05",62,47.623367,-122.325279,47.61311,-122.344208
+"659","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","UW Intramural Activities Building","UW-10","UW-07",62,47.650725,-122.311188,47.653713,-122.302162
+"660","2nd Ave & Spring St","1st Ave & Marion St","CBD-06","CBD-05",61,47.60595,-122.335768,47.604058,-122.3358
+"661","6th Ave & Blanchard St","Key Arena / 1st Ave N & Harrison St","BT-04","SLU-19",61,47.616094,-122.341102,47.622277,-122.35523
+"662","Cal Anderson Park / 11th Ave & Pine St","12th Ave & E Denny Way","CH-08","CH-06",61,47.615486,-122.318245,47.618549,-122.317017
+"663","Lake Union Park / Valley St & Boren Ave N","Pier 69 / Alaskan Way & Clay St","SLU-17","WF-01",61,47.626041,-122.335831,47.614315,-122.354093
+"664","REI / Yale Ave N & John St","Occidental Park / Occidental Ave S & S Washington St","SLU-01","PS-04",61,47.619859,-122.330304,47.600757,-122.332946
+"665","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","2nd Ave & Vine St","WF-04","BT-03",61,47.607702,-122.34165,47.615829,-122.348564
+"666","UW Intramural Activities Building","Children's Hospital / Sandpoint Way NE & 40th Ave NE","UW-07","DPD-03",61,47.653713,-122.302162,47.663509,-122.284119
+"667","15th Ave NE & NE 40th St","E Blaine St & Fairview Ave E","UW-04","EL-03",60,47.65559,-122.31189,47.634831,-122.326634
+"668","2nd Ave & Pine St","12th Ave & E Mercer St","CBD-13","CH-15",60,47.610185,-122.339641,47.624142,-122.316811
+"669","2nd Ave & Vine St","Lake Union Park / Valley St & Boren Ave N","BT-03","SLU-17",60,47.615829,-122.348564,47.626041,-122.335831
+"670","6th Ave & Blanchard St","Lake Union Park / Valley St & Boren Ave N","BT-04","SLU-17",60,47.616094,-122.341102,47.626041,-122.335831
+"671","9th Ave N & Mercer St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","DPD-01","PS-05",60,47.624298,-122.339617,47.598994,-122.329684
+"672","Dexter Ave N & Aloha St","2nd Ave & Spring St","SLU-02","CBD-06",60,47.627735,-122.342232,47.60595,-122.335768
+"673","Dexter Ave N & Aloha St","7th Ave & Union St","SLU-02","CBD-03",60,47.627735,-122.342232,47.610731,-122.332447
+"674","Harvard Ave & E Pine St","Frye Art Museum / Terry Ave & Columbia St","CH-09","FH-01",60,47.615517,-122.322083,47.607281,-122.324783
+"675","Pine St & 9th Ave","Lake Union Park / Valley St & Boren Ave N","SLU-16","SLU-17",60,47.613715,-122.331777,47.626041,-122.335831
+"676","Seattle University / E Columbia St & 12th Ave","Pine St & 9th Ave","FH-04","SLU-16",60,47.609239,-122.316651,47.613715,-122.331777
+"677","12th Ave & E Mercer St","REI / Yale Ave N & John St","CH-15","SLU-01",59,47.624142,-122.316811,47.619859,-122.330304
+"678","3rd Ave & Broad St","Summit Ave & E Denny Way","BT-01","CH-01",59,47.618418,-122.350964,47.618633,-122.325249
+"679","7th Ave & Union St","Westlake Ave & 6th Ave","CBD-03","SLU-15",59,47.610731,-122.332447,47.613628,-122.337341
+"680","Cal Anderson Park / 11th Ave & Pine St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","CH-08","PS-05",59,47.615486,-122.318245,47.598994,-122.329684
+"681","City Hall / 4th Ave & James St","Pier 69 / Alaskan Way & Clay St","CBD-07","WF-01",59,47.603509,-122.330409,47.614315,-122.354093
+"682","Occidental Park / Occidental Ave S & S Washington St","City Hall / 4th Ave & James St","PS-04","CBD-07",59,47.600757,-122.332946,47.603509,-122.330409
+"683","Pine St & 9th Ave","Dexter Ave & Denny Way","SLU-16","SLU-18",59,47.613715,-122.331777,47.618285,-122.342205
+"684","Pine St & 9th Ave","Occidental Park / Occidental Ave S & S Washington St","SLU-16","PS-04",59,47.613715,-122.331777,47.600757,-122.332946
+"685","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","2nd Ave & Spring St","WF-04","CBD-06",59,47.607702,-122.34165,47.60595,-122.335768
+"686","2nd Ave & Blanchard St","6th Ave & Blanchard St","BT-05","BT-04",58,47.61311,-122.344208,47.616094,-122.341102
+"687","2nd Ave & Pine St","Terry Ave & Stewart St","CBD-13","SLU-20",58,47.610185,-122.339641,47.61626,-122.333815
+"688","2nd Ave & Spring St","7th Ave & Union St","CBD-06","CBD-03",58,47.60595,-122.335768,47.610731,-122.332447
+"689","6th Ave S & S King St","Pier 69 / Alaskan Way & Clay St","ID-04","WF-01",58,47.598488,-122.326412,47.614315,-122.354093
+"690","City Hall / 4th Ave & James St","2nd Ave & Vine St","CBD-07","BT-03",58,47.603509,-122.330409,47.615829,-122.348564
+"691","E Harrison St & Broadway Ave E","15th Ave E & E Thomas St","CH-02","CH-05",58,47.622063,-122.321251,47.620712,-122.312805
+"692","E Harrison St & Broadway Ave E","PATH / 9th Ave & Westlake Ave","CH-02","SLU-07",58,47.622063,-122.321251,47.61832,-122.338913
+"693","Frye Art Museum / Terry Ave & Columbia St","E Pine St & 16th Ave","FH-01","CH-07",58,47.607281,-122.324783,47.61533,-122.311752
+"694","Harvard Ave & E Pine St","2nd Ave & Vine St","CH-09","BT-03",58,47.615517,-122.322083,47.615829,-122.348564
+"695","REI / Yale Ave N & John St","Eastlake Ave E & E Allison St","SLU-01","EL-05",58,47.619859,-122.330304,47.64909,-122.322983
+"696","Terry Ave & Stewart St","3rd Ave & Broad St","SLU-20","BT-01",58,47.61626,-122.333815,47.618418,-122.350964
+"697","12th Ave & E Yesler Way","6th Ave S & S King St","CD-01","ID-04",57,47.602103,-122.316923,47.598488,-122.326412
+"698","2nd Ave & Blanchard St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","BT-05","WF-04",57,47.61311,-122.344208,47.607702,-122.34165
+"699","Dexter Ave N & Aloha St","Pier 69 / Alaskan Way & Clay St","SLU-02","WF-01",57,47.627735,-122.342232,47.614315,-122.354093
+"700","Eastlake Ave E & E Allison St","UW Intramural Activities Building","EL-05","UW-07",57,47.64909,-122.322983,47.653713,-122.302162
+"701","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","Dexter Ave N & Aloha St","EL-01","SLU-02",57,47.627643,-122.332576,47.627735,-122.342232
+"702","NE 42nd St & University Way NE","12th Ave & NE Campus Pkwy","UD-02","UD-04",57,47.658288,-122.313334,47.656395,-122.31562
+"703","Seattle University / E Columbia St & 12th Ave","2nd Ave & Spring St","FH-04","CBD-06",57,47.609239,-122.316651,47.60595,-122.335768
+"704","Summit Ave & E Denny Way","9th Ave N & Mercer St","CH-01","DPD-01",57,47.618633,-122.325249,47.624298,-122.339617
+"705","Summit Ave E & E Republican St","PATH / 9th Ave & Westlake Ave","CH-03","SLU-07",57,47.623367,-122.325279,47.61832,-122.338913
+"706","2nd Ave & Spring St","REI / Yale Ave N & John St","CBD-06","SLU-01",56,47.60595,-122.335768,47.619859,-122.330304
+"707","3rd Ave & Broad St","6th Ave & Blanchard St","BT-01","BT-04",56,47.618418,-122.350964,47.616094,-122.341102
+"708","6th Ave & Blanchard St","2nd Ave & Spring St","BT-04","CBD-06",56,47.616094,-122.341102,47.60595,-122.335768
+"709","6th Ave & Blanchard St","Pier 69 / Alaskan Way & Clay St","BT-04","WF-01",56,47.616094,-122.341102,47.614315,-122.354093
+"710","7th Ave & Union St","E Blaine St & Fairview Ave E","CBD-03","EL-03",56,47.610731,-122.332447,47.634831,-122.326634
+"711","7th Ave & Union St","Summit Ave & E Denny Way","CBD-03","CH-01",56,47.610731,-122.332447,47.618633,-122.325249
+"712","Burke Museum / E Stevens Way NE & Memorial Way NE","15th Ave NE & NE 40th St","UW-02","UW-04",56,47.659756,-122.310402,47.65559,-122.31189
+"713","Burke Museum / E Stevens Way NE & Memorial Way NE","UW McCarty Hall / Whitman Ct","UW-02","UW-01",56,47.659756,-122.310402,47.660268,-122.304826
+"714","City Hall / 4th Ave & James St","2nd Ave & Blanchard St","CBD-07","BT-05",56,47.603509,-122.330409,47.61311,-122.344208
+"715","Frye Art Museum / Terry Ave & Columbia St","Occidental Park / Occidental Ave S & S Washington St","FH-01","PS-04",56,47.607281,-122.324783,47.600757,-122.332946
+"716","Lake Union Park / Valley St & Boren Ave N","2nd Ave & Blanchard St","SLU-17","BT-05",56,47.626041,-122.335831,47.61311,-122.344208
+"717","Republican St & Westlake Ave N","1st Ave & Marion St","SLU-04","CBD-05",56,47.623165,-122.338203,47.604058,-122.3358
+"718","Seattle University / E Columbia St & 12th Ave","Harvard Ave & E Pine St","FH-04","CH-09",56,47.609239,-122.316651,47.615517,-122.322083
+"719","Summit Ave & E Denny Way","PATH / 9th Ave & Westlake Ave","CH-01","SLU-07",56,47.618633,-122.325249,47.61832,-122.338913
+"720","Westlake Ave & 6th Ave","7th Ave & Union St","SLU-15","CBD-03",56,47.613628,-122.337341,47.610731,-122.332447
+"721","12th Ave & E Denny Way","PATH / 9th Ave & Westlake Ave","CH-06","SLU-07",55,47.618549,-122.317017,47.61832,-122.338913
+"722","12th Ave & NE Campus Pkwy","15th Ave NE & NE 40th St","UD-04","UW-04",55,47.656395,-122.31562,47.65559,-122.31189
+"723","2nd Ave & Blanchard St","Lake Union Park / Valley St & Boren Ave N","BT-05","SLU-17",55,47.61311,-122.344208,47.626041,-122.335831
+"724","6th Ave & Blanchard St","Westlake Ave & 6th Ave","BT-04","SLU-15",55,47.616094,-122.341102,47.613628,-122.337341
+"725","Cal Anderson Park / 11th Ave & Pine St","12th Ave & E Yesler Way","CH-08","CD-01",55,47.615486,-122.318245,47.602103,-122.316923
+"726","Cal Anderson Park / 11th Ave & Pine St","Key Arena / 1st Ave N & Harrison St","CH-08","SLU-19",55,47.615486,-122.318245,47.622277,-122.35523
+"727","Children's Hospital / Sandpoint Way NE & 40th Ave NE","12th Ave & NE Campus Pkwy","DPD-03","UD-04",55,47.663509,-122.284119,47.656395,-122.31562
+"728","Harvard Ave & E Pine St","6th Ave S & S King St","CH-09","ID-04",55,47.615517,-122.322083,47.598488,-122.326412
+"729","Republican St & Westlake Ave N","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","SLU-04","EL-01",55,47.623165,-122.338203,47.627643,-122.332576
+"730","Summit Ave & E Denny Way","Eastlake Ave E & E Allison St","CH-01","EL-05",55,47.618633,-122.325249,47.64909,-122.322983
+"731","12th Ave & E Denny Way","7th Ave & Union St","CH-06","CBD-03",54,47.618549,-122.317017,47.610731,-122.332447
+"732","12th Ave & E Denny Way","9th Ave N & Mercer St","CH-06","DPD-01",54,47.618549,-122.317017,47.624298,-122.339617
+"733","2nd Ave & Pine St","9th Ave N & Mercer St","CBD-13","DPD-01",54,47.610185,-122.339641,47.624298,-122.339617
+"734","7th Ave & Union St","6th Ave S & S King St","CBD-03","ID-04",54,47.610731,-122.332447,47.598488,-122.326412
+"735","Bellevue Ave & E Pine St","E Harrison St & Broadway Ave E","CH-12","CH-02",54,47.615456,-122.326729,47.622063,-122.321251
+"736","Union St & 4th Ave","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","CBD-04","PS-05",54,47.609221,-122.335596,47.598994,-122.329684
+"737","12th Ave & E Denny Way","1st Ave & Marion St","CH-06","CBD-05",53,47.618549,-122.317017,47.604058,-122.3358
+"738","15th Ave E & E Thomas St","6th Ave S & S King St","CH-05","ID-04",53,47.620712,-122.312805,47.598488,-122.326412
+"739","9th Ave N & Mercer St","Eastlake Ave E & E Allison St","DPD-01","EL-05",53,47.624298,-122.339617,47.64909,-122.322983
+"740","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","12th Ave & NE Campus Pkwy","EL-01","UD-04",53,47.627643,-122.332576,47.656395,-122.31562
+"741","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","9th Ave N & Mercer St","EL-01","DPD-01",53,47.627643,-122.332576,47.624298,-122.339617
+"742","Harvard Ave & E Pine St","Westlake Ave & 6th Ave","CH-09","SLU-15",53,47.615517,-122.322083,47.613628,-122.337341
+"743","Pine St & 9th Ave","Bellevue Ave & E Pine St","SLU-16","CH-12",53,47.613715,-122.331777,47.615456,-122.326729
+"744","Pine St & 9th Ave","Summit Ave E & E Republican St","SLU-16","CH-03",53,47.613715,-122.331777,47.623367,-122.325279
+"745","Summit Ave E & E Republican St","Occidental Park / Occidental Ave S & S Washington St","CH-03","PS-04",53,47.623367,-122.325279,47.600757,-122.332946
+"746","UW Engineering Library / E Stevens Way NE & Jefferson Rd","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","UW-06","UW-10",53,47.654613,-122.304863,47.650725,-122.311188
+"747","Dexter Ave & Denny Way","Pier 69 / Alaskan Way & Clay St","SLU-18","WF-01",52,47.618285,-122.342205,47.614315,-122.354093
+"748","Lake Union Park / Valley St & Boren Ave N","Dexter Ave N & Aloha St","SLU-17","SLU-02",52,47.626041,-122.335831,47.627735,-122.342232
+"749","Pier 69 / Alaskan Way & Clay St","Westlake Ave & 6th Ave","WF-01","SLU-15",52,47.614315,-122.354093,47.613628,-122.337341
+"750","REI / Yale Ave N & John St","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","SLU-01","EL-01",52,47.619859,-122.330304,47.627643,-122.332576
+"751","REI / Yale Ave N & John St","NE 42nd St & University Way NE","SLU-01","UD-02",52,47.619859,-122.330304,47.658288,-122.313334
+"752","Union St & 4th Ave","Key Arena / 1st Ave N & Harrison St","CBD-04","SLU-19",52,47.609221,-122.335596,47.622277,-122.35523
+"753","7th Ave & Union St","City Hall / 4th Ave & James St","CBD-03","CBD-07",51,47.610731,-122.332447,47.603509,-122.330409
+"754","Cal Anderson Park / 11th Ave & Pine St","City Hall / 4th Ave & James St","CH-08","CBD-07",51,47.615486,-122.318245,47.603509,-122.330409
+"755","City Hall / 4th Ave & James St","1st Ave & Marion St","CBD-07","CBD-05",51,47.603509,-122.330409,47.604058,-122.3358
+"756","Dexter Ave N & Aloha St","6th Ave & Blanchard St","SLU-02","BT-04",51,47.627735,-122.342232,47.616094,-122.341102
+"757","Eastlake Ave E & E Allison St","Dexter Ave N & Aloha St","EL-05","SLU-02",51,47.64909,-122.322983,47.627735,-122.342232
+"758","Eastlake Ave E & E Allison St","UW Engineering Library / E Stevens Way NE & Jefferson Rd","EL-05","UW-06",51,47.64909,-122.322983,47.654613,-122.304863
+"759","Harvard Ave & E Pine St","PATH / 9th Ave & Westlake Ave","CH-09","SLU-07",51,47.615517,-122.322083,47.61832,-122.338913
+"760","Summit Ave & E Denny Way","1st Ave & Marion St","CH-01","CBD-05",51,47.618633,-122.325249,47.604058,-122.3358
+"761","UW Engineering Library / E Stevens Way NE & Jefferson Rd","Eastlake Ave E & E Allison St","UW-06","EL-05",51,47.654613,-122.304863,47.64909,-122.322983
+"762","12th Ave & NE Campus Pkwy","Children's Hospital / Sandpoint Way NE & 40th Ave NE","UD-04","DPD-03",50,47.656395,-122.31562,47.663509,-122.284119
+"763","1st Ave & Marion St","Summit Ave & E Denny Way","CBD-05","CH-01",50,47.604058,-122.3358,47.618633,-122.325249
+"764","6th Ave & Blanchard St","PATH / 9th Ave & Westlake Ave","BT-04","SLU-07",50,47.616094,-122.341102,47.61832,-122.338913
+"765","7th Ave & Union St","Bellevue Ave & E Pine St","CBD-03","CH-12",50,47.610731,-122.332447,47.615456,-122.326729
+"766","9th Ave N & Mercer St","Pine St & 9th Ave","DPD-01","SLU-16",50,47.624298,-122.339617,47.613715,-122.331777
+"767","Burke Museum / E Stevens Way NE & Memorial Way NE","12th Ave & NE Campus Pkwy","UW-02","UD-04",50,47.659756,-122.310402,47.656395,-122.31562
+"768","E Harrison St & Broadway Ave E","12th Ave & E Denny Way","CH-02","CH-06",50,47.622063,-122.321251,47.618549,-122.317017
+"769","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","6th Ave S & S King St","PS-05","ID-04",50,47.598994,-122.329684,47.598488,-122.326412
+"770","NE 42nd St & University Way NE","UW Engineering Library / E Stevens Way NE & Jefferson Rd","UD-02","UW-06",50,47.658288,-122.313334,47.654613,-122.304863
+"771","Pier 69 / Alaskan Way & Clay St","Lake Union Park / Valley St & Boren Ave N","WF-01","SLU-17",50,47.614315,-122.354093,47.626041,-122.335831
+"772","Summit Ave E & E Republican St","9th Ave N & Mercer St","CH-03","DPD-01",50,47.623367,-122.325279,47.624298,-122.339617
+"773","Summit Ave E & E Republican St","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","CH-03","UW-10",50,47.623367,-122.325279,47.650725,-122.311188
+"774","12th Ave & E Denny Way","Bellevue Ave & E Pine St","CH-06","CH-12",49,47.618549,-122.317017,47.615456,-122.326729
+"775","12th Ave & E Mercer St","Bellevue Ave & E Pine St","CH-15","CH-12",49,47.624142,-122.316811,47.615456,-122.326729
+"776","12th Ave & E Yesler Way","Cal Anderson Park / 11th Ave & Pine St","CD-01","CH-08",49,47.602103,-122.316923,47.615486,-122.318245
+"777","15th Ave E & E Thomas St","2nd Ave & Spring St","CH-05","CBD-06",49,47.620712,-122.312805,47.60595,-122.335768
+"778","15th Ave NE & NE 40th St","Children's Hospital / Sandpoint Way NE & 40th Ave NE","UW-04","DPD-03",49,47.65559,-122.31189,47.663509,-122.284119
+"779","2nd Ave & Blanchard St","6th Ave S & S King St","BT-05","ID-04",49,47.61311,-122.344208,47.598488,-122.326412
+"780","6th Ave & Blanchard St","7th Ave & Union St","BT-04","CBD-03",49,47.616094,-122.341102,47.610731,-122.332447
+"781","9th Ave N & Mercer St","Summit Ave E & E Republican St","DPD-01","CH-03",49,47.624298,-122.339617,47.623367,-122.325279
+"782","Children's Hospital / Sandpoint Way NE & 40th Ave NE","15th Ave NE & NE 40th St","DPD-03","UW-04",49,47.663509,-122.284119,47.65559,-122.31189
+"783","Harvard Ave & E Pine St","Cal Anderson Park / 11th Ave & Pine St","CH-09","CH-08",49,47.615517,-122.322083,47.615486,-122.318245
+"784","Key Arena / 1st Ave N & Harrison St","Dexter Ave & Denny Way","SLU-19","SLU-18",49,47.622277,-122.35523,47.618285,-122.342205
+"785","PATH / 9th Ave & Westlake Ave","6th Ave & Blanchard St","SLU-07","BT-04",49,47.61832,-122.338913,47.616094,-122.341102
+"786","Pine St & 9th Ave","Summit Ave & E Denny Way","SLU-16","CH-01",49,47.613715,-122.331777,47.618633,-122.325249
+"787","Republican St & Westlake Ave N","Eastlake Ave E & E Allison St","SLU-04","EL-05",49,47.623165,-122.338203,47.64909,-122.322983
+"788","Republican St & Westlake Ave N","Terry Ave & Stewart St","SLU-04","SLU-20",49,47.623165,-122.338203,47.61626,-122.333815
+"789","12th Ave & E Denny Way","Seattle University / E Columbia St & 12th Ave","CH-06","FH-04",48,47.618549,-122.317017,47.609239,-122.316651
+"790","3rd Ave & Broad St","E Blaine St & Fairview Ave E","BT-01","EL-03",48,47.618418,-122.350964,47.634831,-122.326634
+"791","9th Ave N & Mercer St","2nd Ave & Pine St","DPD-01","CBD-13",48,47.624298,-122.339617,47.610185,-122.339641
+"792","Dexter Ave & Denny Way","2nd Ave & Spring St","SLU-18","CBD-06",48,47.618285,-122.342205,47.60595,-122.335768
+"793","Dexter Ave N & Aloha St","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","SLU-02","UW-10",48,47.627735,-122.342232,47.650725,-122.311188
+"794","Eastlake Ave E & E Allison St","PATH / 9th Ave & Westlake Ave","EL-05","SLU-07",48,47.64909,-122.322983,47.61832,-122.338913
+"795","Frye Art Museum / Terry Ave & Columbia St","1st Ave & Marion St","FH-01","CBD-05",48,47.607281,-122.324783,47.604058,-122.3358
+"796","Frye Art Museum / Terry Ave & Columbia St","Bellevue Ave & E Pine St","FH-01","CH-12",48,47.607281,-122.324783,47.615456,-122.326729
+"797","PATH / 9th Ave & Westlake Ave","Occidental Park / Occidental Ave S & S Washington St","SLU-07","PS-04",48,47.61832,-122.338913,47.600757,-122.332946
+"798","6th Ave & Blanchard St","2nd Ave & Blanchard St","BT-04","BT-05",47,47.616094,-122.341102,47.61311,-122.344208
+"799","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","2nd Ave & Vine St","UD-01","BT-03",47,47.666145,-122.301491,47.615829,-122.348564
+"800","Children's Hospital / Sandpoint Way NE & 40th Ave NE","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","DPD-03","UW-10",47,47.663509,-122.284119,47.650725,-122.311188
+"801","E Harrison St & Broadway Ave E","3rd Ave & Broad St","CH-02","BT-01",47,47.622063,-122.321251,47.618418,-122.350964
+"802","E Pine St & 16th Ave","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","CH-07","PS-05",47,47.61533,-122.311752,47.598994,-122.329684
+"803","Frye Art Museum / Terry Ave & Columbia St","Eastlake Ave E & E Allison St","FH-01","EL-05",47,47.607281,-122.324783,47.64909,-122.322983
+"804","Key Arena / 1st Ave N & Harrison St","6th Ave & Blanchard St","SLU-19","BT-04",47,47.622277,-122.35523,47.616094,-122.341102
+"805","Pine St & 9th Ave","1st Ave & Marion St","SLU-16","CBD-05",47,47.613715,-122.331777,47.604058,-122.3358
+"806","Union St & 4th Ave","3rd Ave & Broad St","CBD-04","BT-01",47,47.609221,-122.335596,47.618418,-122.350964
+"807","15th Ave NE & NE 40th St","12th Ave & NE Campus Pkwy","UW-04","UD-04",46,47.65559,-122.31189,47.656395,-122.31562
+"808","2nd Ave & Pine St","Summit Ave & E Denny Way","CBD-13","CH-01",46,47.610185,-122.339641,47.618633,-122.325249
+"809","Bellevue Ave & E Pine St","Key Arena / 1st Ave N & Harrison St","CH-12","SLU-19",46,47.615456,-122.326729,47.622277,-122.35523
+"810","Dexter Ave N & Aloha St","12th Ave & NE Campus Pkwy","SLU-02","UD-04",46,47.627735,-122.342232,47.656395,-122.31562
+"811","E Harrison St & Broadway Ave E","12th Ave & E Mercer St","CH-02","CH-15",46,47.622063,-122.321251,47.624142,-122.316811
+"812","E Harrison St & Broadway Ave E","Republican St & Westlake Ave N","CH-02","SLU-04",46,47.622063,-122.321251,47.623165,-122.338203
+"813","Harvard Ave & E Pine St","2nd Ave & Blanchard St","CH-09","BT-05",46,47.615517,-122.322083,47.61311,-122.344208
+"814","Harvard Ave & E Pine St","Terry Ave & Stewart St","CH-09","SLU-20",46,47.615517,-122.322083,47.61626,-122.333815
+"815","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","Cal Anderson Park / 11th Ave & Pine St","PS-05","CH-08",46,47.598994,-122.329684,47.615486,-122.318245
+"816","NE 47th St & 12th Ave NE","UW Intramural Activities Building","UD-07","UW-07",46,47.663143,-122.315086,47.653713,-122.302162
+"817","Republican St & Westlake Ave N","Pier 69 / Alaskan Way & Clay St","SLU-04","WF-01",46,47.623165,-122.338203,47.614315,-122.354093
+"818","Summit Ave E & E Republican St","Dexter Ave & Denny Way","CH-03","SLU-18",46,47.623367,-122.325279,47.618285,-122.342205
+"819","Terry Ave & Stewart St","PATH / 9th Ave & Westlake Ave","SLU-20","SLU-07",46,47.61626,-122.333815,47.61832,-122.338913
+"820","12th Ave & E Denny Way","Harvard Ave & E Pine St","CH-06","CH-09",45,47.618549,-122.317017,47.615517,-122.322083
+"821","12th Ave & E Mercer St","12th Ave & NE Campus Pkwy","CH-15","UD-04",45,47.624142,-122.316811,47.656395,-122.31562
+"822","15th Ave NE & NE 40th St","NE 47th St & 12th Ave NE","UW-04","UD-07",45,47.65559,-122.31189,47.663143,-122.315086
+"823","1st Ave & Marion St","2nd Ave & Spring St","CBD-05","CBD-06",45,47.604058,-122.3358,47.60595,-122.335768
+"824","2nd Ave & Spring St","Republican St & Westlake Ave N","CBD-06","SLU-04",45,47.60595,-122.335768,47.623165,-122.338203
+"825","2nd Ave & Vine St","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","BT-03","UD-01",45,47.615829,-122.348564,47.666145,-122.301491
+"826","9th Ave N & Mercer St","7th Ave & Union St","DPD-01","CBD-03",45,47.624298,-122.339617,47.610731,-122.332447
+"827","NE 47th St & 12th Ave NE","E Blaine St & Fairview Ave E","UD-07","EL-03",45,47.663143,-122.315086,47.634831,-122.326634
+"828","Pine St & 9th Ave","Key Arena / 1st Ave N & Harrison St","SLU-16","SLU-19",45,47.613715,-122.331777,47.622277,-122.35523
+"829","Westlake Ave & 6th Ave","6th Ave S & S King St","SLU-15","ID-04",45,47.613628,-122.337341,47.598488,-122.326412
+"830","Westlake Ave & 6th Ave","Bellevue Ave & E Pine St","SLU-15","CH-12",45,47.613628,-122.337341,47.615456,-122.326729
+"831","2nd Ave & Vine St","6th Ave & Blanchard St","BT-03","BT-04",44,47.615829,-122.348564,47.616094,-122.341102
+"832","7th Ave & Union St","6th Ave & Blanchard St","CBD-03","BT-04",44,47.610731,-122.332447,47.616094,-122.341102
+"833","Bellevue Ave & E Pine St","15th Ave E & E Thomas St","CH-12","CH-05",44,47.615456,-122.326729,47.620712,-122.312805
+"834","Cal Anderson Park / 11th Ave & Pine St","12th Ave & NE Campus Pkwy","CH-08","UD-04",44,47.615486,-122.318245,47.656395,-122.31562
+"835","Dexter Ave & Denny Way","2nd Ave & Blanchard St","SLU-18","BT-05",44,47.618285,-122.342205,47.61311,-122.344208
+"836","E Blaine St & Fairview Ave E","3rd Ave & Broad St","EL-03","BT-01",44,47.634831,-122.326634,47.618418,-122.350964
+"837","E Harrison St & Broadway Ave E","Terry Ave & Stewart St","CH-02","SLU-20",44,47.622063,-122.321251,47.61626,-122.333815
+"838","Frye Art Museum / Terry Ave & Columbia St","City Hall / 4th Ave & James St","FH-01","CBD-07",44,47.607281,-122.324783,47.603509,-122.330409
+"839","Pine St & 9th Ave","Pier 69 / Alaskan Way & Clay St","SLU-16","WF-01",44,47.613715,-122.331777,47.614315,-122.354093
+"840","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","Westlake Ave & 6th Ave","WF-04","SLU-15",44,47.607702,-122.34165,47.613628,-122.337341
+"841","Terry Ave & Stewart St","6th Ave & Blanchard St","SLU-20","BT-04",44,47.61626,-122.333815,47.616094,-122.341102
+"842","Terry Ave & Stewart St","Westlake Ave & 6th Ave","SLU-20","SLU-15",44,47.61626,-122.333815,47.613628,-122.337341
+"843","Westlake Ave & 6th Ave","Pine St & 9th Ave","SLU-15","SLU-16",44,47.613628,-122.337341,47.613715,-122.331777
+"844","12th Ave & NE Campus Pkwy","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","UD-04","EL-01",43,47.656395,-122.31562,47.627643,-122.332576
+"845","6th Ave & Blanchard St","Occidental Park / Occidental Ave S & S Washington St","BT-04","PS-04",43,47.616094,-122.341102,47.600757,-122.332946
+"846","7th Ave & Union St","Lake Union Park / Valley St & Boren Ave N","CBD-03","SLU-17",43,47.610731,-122.332447,47.626041,-122.335831
+"847","Bellevue Ave & E Pine St","E Pine St & 16th Ave","CH-12","CH-07",43,47.615456,-122.326729,47.61533,-122.311752
+"848","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","9th Ave N & Mercer St","PS-05","DPD-01",43,47.598994,-122.329684,47.624298,-122.339617
+"849","Lake Union Park / Valley St & Boren Ave N","15th Ave NE & NE 40th St","SLU-17","UW-04",43,47.626041,-122.335831,47.65559,-122.31189
+"850","Lake Union Park / Valley St & Boren Ave N","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","SLU-17","WF-04",43,47.626041,-122.335831,47.607702,-122.34165
+"851","PATH / 9th Ave & Westlake Ave","1st Ave & Marion St","SLU-07","CBD-05",43,47.61832,-122.338913,47.604058,-122.3358
+"852","Pine St & 9th Ave","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","SLU-16","WF-04",43,47.613715,-122.331777,47.607702,-122.34165
+"853","Summit Ave E & E Republican St","Union St & 4th Ave","CH-03","CBD-04",43,47.623367,-122.325279,47.609221,-122.335596
+"854","12th Ave & E Denny Way","Westlake Ave & 6th Ave","CH-06","SLU-15",42,47.618549,-122.317017,47.613628,-122.337341
+"855","2nd Ave & Vine St","Dexter Ave N & Aloha St","BT-03","SLU-02",42,47.615829,-122.348564,47.627735,-122.342232
+"856","6th Ave S & S King St","3rd Ave & Broad St","ID-04","BT-01",42,47.598488,-122.326412,47.618418,-122.350964
+"857","Bellevue Ave & E Pine St","Summit Ave & E Denny Way","CH-12","CH-01",42,47.615456,-122.326729,47.618633,-122.325249
+"858","City Hall / 4th Ave & James St","PATH / 9th Ave & Westlake Ave","CBD-07","SLU-07",42,47.603509,-122.330409,47.61832,-122.338913
+"859","E Harrison St & Broadway Ave E","Lake Union Park / Valley St & Boren Ave N","CH-02","SLU-17",42,47.622063,-122.321251,47.626041,-122.335831
+"860","Frye Art Museum / Terry Ave & Columbia St","3rd Ave & Broad St","FH-01","BT-01",42,47.607281,-122.324783,47.618418,-122.350964
+"861","Frye Art Museum / Terry Ave & Columbia St","PATH / 9th Ave & Westlake Ave","FH-01","SLU-07",42,47.607281,-122.324783,47.61832,-122.338913
+"862","Lake Union Park / Valley St & Boren Ave N","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","SLU-17","UW-10",42,47.626041,-122.335831,47.650725,-122.311188
+"863","Republican St & Westlake Ave N","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","SLU-04","PS-05",42,47.623165,-122.338203,47.598994,-122.329684
+"864","Summit Ave E & E Republican St","Eastlake Ave E & E Allison St","CH-03","EL-05",42,47.623367,-122.325279,47.64909,-122.322983
+"865","12th Ave & E Mercer St","2nd Ave & Blanchard St","CH-15","BT-05",41,47.624142,-122.316811,47.61311,-122.344208
+"866","12th Ave & E Mercer St","Summit Ave E & E Republican St","CH-15","CH-03",41,47.624142,-122.316811,47.623367,-122.325279
+"867","2nd Ave & Pine St","E Pine St & 16th Ave","CBD-13","CH-07",41,47.610185,-122.339641,47.61533,-122.311752
+"868","6th Ave S & S King St","Westlake Ave & 6th Ave","ID-04","SLU-15",41,47.598488,-122.326412,47.613628,-122.337341
+"869","Eastlake Ave E & E Allison St","9th Ave N & Mercer St","EL-05","DPD-01",41,47.64909,-122.322983,47.624298,-122.339617
+"870","Eastlake Ave E & E Allison St","E Harrison St & Broadway Ave E","EL-05","CH-02",41,47.64909,-122.322983,47.622063,-122.321251
+"871","Pine St & 9th Ave","Dexter Ave N & Aloha St","SLU-16","SLU-02",41,47.613715,-122.331777,47.627735,-122.342232
+"872","15th Ave NE & NE 40th St","NE 42nd St & University Way NE","UW-04","UD-02",40,47.65559,-122.31189,47.658288,-122.313334
+"873","2nd Ave & Spring St","Bellevue Ave & E Pine St","CBD-06","CH-12",40,47.60595,-122.335768,47.615456,-122.326729
+"874","2nd Ave & Vine St","City Hall / 4th Ave & James St","BT-03","CBD-07",40,47.615829,-122.348564,47.603509,-122.330409
+"875","3rd Ave & Broad St","Terry Ave & Stewart St","BT-01","SLU-20",40,47.618418,-122.350964,47.61626,-122.333815
+"876","Eastlake Ave E & E Allison St","NE 42nd St & University Way NE","EL-05","UD-02",40,47.64909,-122.322983,47.658288,-122.313334
+"877","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","REI / Yale Ave N & John St","EL-01","SLU-01",40,47.627643,-122.332576,47.619859,-122.330304
+"878","Harvard Ave & E Pine St","12th Ave & E Denny Way","CH-09","CH-06",40,47.615517,-122.322083,47.618549,-122.317017
+"879","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","Occidental Park / Occidental Ave S & S Washington St","PS-05","PS-04",40,47.598994,-122.329684,47.600757,-122.332946
+"880","Occidental Park / Occidental Ave S & S Washington St","Pine St & 9th Ave","PS-04","SLU-16",40,47.600757,-122.332946,47.613715,-122.331777
+"881","Occidental Park / Occidental Ave S & S Washington St","Summit Ave & E Denny Way","PS-04","CH-01",40,47.600757,-122.332946,47.618633,-122.325249
+"882","Pier 69 / Alaskan Way & Clay St","City Hall / 4th Ave & James St","WF-01","CBD-07",40,47.614315,-122.354093,47.603509,-122.330409
+"883","Republican St & Westlake Ave N","Occidental Park / Occidental Ave S & S Washington St","SLU-04","PS-04",40,47.623165,-122.338203,47.600757,-122.332946
+"884","Seattle University / E Columbia St & 12th Ave","12th Ave & E Yesler Way","FH-04","CD-01",40,47.609239,-122.316651,47.602103,-122.316923
+"885","Summit Ave & E Denny Way","Harvard Ave & E Pine St","CH-01","CH-09",40,47.618633,-122.325249,47.615517,-122.322083
+"886","12th Ave & E Denny Way","12th Ave & E Yesler Way","CH-06","CD-01",39,47.618549,-122.317017,47.602103,-122.316923
+"887","12th Ave & E Mercer St","15th Ave E & E Thomas St","CH-15","CH-05",39,47.624142,-122.316811,47.620712,-122.312805
+"888","2nd Ave & Blanchard St","City Hall / 4th Ave & James St","BT-05","CBD-07",39,47.61311,-122.344208,47.603509,-122.330409
+"889","6th Ave & Blanchard St","Dexter Ave & Denny Way","BT-04","SLU-18",39,47.616094,-122.341102,47.618285,-122.342205
+"890","7th Ave & Union St","E Harrison St & Broadway Ave E","CBD-03","CH-02",39,47.610731,-122.332447,47.622063,-122.321251
+"891","Bellevue Ave & E Pine St","Harvard Ave & E Pine St","CH-12","CH-09",39,47.615456,-122.326729,47.615517,-122.322083
+"892","Cal Anderson Park / 11th Ave & Pine St","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","CH-08","EL-01",39,47.615486,-122.318245,47.627643,-122.332576
+"893","E Harrison St & Broadway Ave E","9th Ave N & Mercer St","CH-02","DPD-01",39,47.622063,-122.321251,47.624298,-122.339617
+"894","Eastlake Ave E & E Allison St","Republican St & Westlake Ave N","EL-05","SLU-04",39,47.64909,-122.322983,47.623165,-122.338203
+"895","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","Key Arena / 1st Ave N & Harrison St","EL-01","SLU-19",39,47.627643,-122.332576,47.622277,-122.35523
+"896","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","PATH / 9th Ave & Westlake Ave","PS-05","SLU-07",39,47.598994,-122.329684,47.61832,-122.338913
+"897","NE 42nd St & University Way NE","Eastlake Ave E & E Allison St","UD-02","EL-05",39,47.658288,-122.313334,47.64909,-122.322983
+"898","NE 42nd St & University Way NE","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","UD-02","UW-10",39,47.658288,-122.313334,47.650725,-122.311188
+"899","Pine St & 9th Ave","6th Ave & Blanchard St","SLU-16","BT-04",39,47.613715,-122.331777,47.616094,-122.341102
+"900","REI / Yale Ave N & John St","12th Ave & NE Campus Pkwy","SLU-01","UD-04",39,47.619859,-122.330304,47.656395,-122.31562
+"901","UW Intramural Activities Building","Eastlake Ave E & E Allison St","UW-07","EL-05",39,47.653713,-122.302162,47.64909,-122.322983
+"902","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","15th Ave NE & NE 40th St","UW-10","UW-04",39,47.650725,-122.311188,47.65559,-122.31189
+"903","12th Ave & E Mercer St","Summit Ave & E Denny Way","CH-15","CH-01",38,47.624142,-122.316811,47.618633,-122.325249
+"904","12th Ave & E Yesler Way","City Hall / 4th Ave & James St","CD-01","CBD-07",38,47.602103,-122.316923,47.603509,-122.330409
+"905","12th Ave & NE Campus Pkwy","Dexter Ave N & Aloha St","UD-04","SLU-02",38,47.656395,-122.31562,47.627735,-122.342232
+"906","2nd Ave & Pine St","Summit Ave E & E Republican St","CBD-13","CH-03",38,47.610185,-122.339641,47.623367,-122.325279
+"907","2nd Ave & Spring St","15th Ave E & E Thomas St","CBD-06","CH-05",38,47.60595,-122.335768,47.620712,-122.312805
+"908","6th Ave & Blanchard St","E Blaine St & Fairview Ave E","BT-04","EL-03",38,47.616094,-122.341102,47.634831,-122.326634
+"909","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","Burke Museum / E Stevens Way NE & Memorial Way NE","UD-01","UW-02",38,47.666145,-122.301491,47.659756,-122.310402
+"910","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","Pine St & 9th Ave","EL-01","SLU-16",38,47.627643,-122.332576,47.613715,-122.331777
+"911","Frye Art Museum / Terry Ave & Columbia St","2nd Ave & Vine St","FH-01","BT-03",38,47.607281,-122.324783,47.615829,-122.348564
+"912","NE 42nd St & University Way NE","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","UD-02","UD-01",38,47.658288,-122.313334,47.666145,-122.301491
+"913","PATH / 9th Ave & Westlake Ave","Terry Ave & Stewart St","SLU-07","SLU-20",38,47.61832,-122.338913,47.61626,-122.333815
+"914","Summit Ave E & E Republican St","E Harrison St & Broadway Ave E","CH-03","CH-02",38,47.623367,-122.325279,47.622063,-122.321251
+"915","15th Ave E & E Thomas St","Republican St & Westlake Ave N","CH-05","SLU-04",37,47.620712,-122.312805,47.623165,-122.338203
+"916","2nd Ave & Blanchard St","Dexter Ave & Denny Way","BT-05","SLU-18",37,47.61311,-122.344208,47.618285,-122.342205
+"917","2nd Ave & Vine St","Dexter Ave & Denny Way","BT-03","SLU-18",37,47.615829,-122.348564,47.618285,-122.342205
+"918","3rd Ave & Broad St","Bellevue Ave & E Pine St","BT-01","CH-12",37,47.618418,-122.350964,47.615456,-122.326729
+"919","6th Ave S & S King St","12th Ave & E Denny Way","ID-04","CH-06",37,47.598488,-122.326412,47.618549,-122.317017
+"920","Cal Anderson Park / 11th Ave & Pine St","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","CH-08","WF-04",37,47.615486,-122.318245,47.607702,-122.34165
+"921","Dexter Ave N & Aloha St","2nd Ave & Vine St","SLU-02","BT-03",37,47.627735,-122.342232,47.615829,-122.348564
+"922","E Blaine St & Fairview Ave E","2nd Ave & Vine St","EL-03","BT-03",37,47.634831,-122.326634,47.615829,-122.348564
+"923","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","Dexter Ave & Denny Way","EL-01","SLU-18",37,47.627643,-122.332576,47.618285,-122.342205
+"924","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","2nd Ave & Blanchard St","PS-05","BT-05",37,47.598994,-122.329684,47.61311,-122.344208
+"925","Pier 69 / Alaskan Way & Clay St","Dexter Ave N & Aloha St","WF-01","SLU-02",37,47.614315,-122.354093,47.627735,-122.342232
+"926","REI / Yale Ave N & John St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","SLU-01","PS-05",37,47.619859,-122.330304,47.598994,-122.329684
+"927","UW McCarty Hall / Whitman Ct","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","UW-01","UD-01",37,47.660268,-122.304826,47.666145,-122.301491
+"928","Westlake Ave & 6th Ave","E Pine St & 16th Ave","SLU-15","CH-07",37,47.613628,-122.337341,47.61533,-122.311752
+"929","12th Ave & NE Campus Pkwy","UW McCarty Hall / Whitman Ct","UD-04","UW-01",36,47.656395,-122.31562,47.660268,-122.304826
+"930","1st Ave & Marion St","Republican St & Westlake Ave N","CBD-05","SLU-04",36,47.604058,-122.3358,47.623165,-122.338203
+"931","Bellevue Ave & E Pine St","Terry Ave & Stewart St","CH-12","SLU-20",36,47.615456,-122.326729,47.61626,-122.333815
+"932","Eastlake Ave E & E Allison St","REI / Yale Ave N & John St","EL-05","SLU-01",36,47.64909,-122.322983,47.619859,-122.330304
+"933","UW Engineering Library / E Stevens Way NE & Jefferson Rd","NE 47th St & 12th Ave NE","UW-06","UD-07",36,47.654613,-122.304863,47.663143,-122.315086
+"934","15th Ave E & E Thomas St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","CH-05","PS-05",35,47.620712,-122.312805,47.598994,-122.329684
+"935","2nd Ave & Vine St","6th Ave S & S King St","BT-03","ID-04",35,47.615829,-122.348564,47.598488,-122.326412
+"936","6th Ave & Blanchard St","Pine St & 9th Ave","BT-04","SLU-16",35,47.616094,-122.341102,47.613715,-122.331777
+"937","Burke Museum / E Stevens Way NE & Memorial Way NE","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","UW-02","UW-10",35,47.659756,-122.310402,47.650725,-122.311188
+"938","City Hall / 4th Ave & James St","7th Ave & Union St","CBD-07","CBD-03",35,47.603509,-122.330409,47.610731,-122.332447
+"939","E Pine St & 16th Ave","E Blaine St & Fairview Ave E","CH-07","EL-03",35,47.61533,-122.311752,47.634831,-122.326634
+"940","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","6th Ave & Blanchard St","EL-01","BT-04",35,47.627643,-122.332576,47.616094,-122.341102
+"941","Lake Union Park / Valley St & Boren Ave N","7th Ave & Union St","SLU-17","CBD-03",35,47.626041,-122.335831,47.610731,-122.332447
+"942","Lake Union Park / Valley St & Boren Ave N","Pine St & 9th Ave","SLU-17","SLU-16",35,47.626041,-122.335831,47.613715,-122.331777
+"943","Republican St & Westlake Ave N","Bellevue Ave & E Pine St","SLU-04","CH-12",35,47.623165,-122.338203,47.615456,-122.326729
+"944","Summit Ave & E Denny Way","15th Ave E & E Thomas St","CH-01","CH-05",35,47.618633,-122.325249,47.620712,-122.312805
+"945","Summit Ave E & E Republican St","12th Ave & NE Campus Pkwy","CH-03","UD-04",35,47.623367,-122.325279,47.656395,-122.31562
+"946","UW Intramural Activities Building","UW McCarty Hall / Whitman Ct","UW-07","UW-01",35,47.653713,-122.302162,47.660268,-122.304826
+"947","12th Ave & E Denny Way","REI / Yale Ave N & John St","CH-06","SLU-01",34,47.618549,-122.317017,47.619859,-122.330304
+"948","12th Ave & E Denny Way","Summit Ave & E Denny Way","CH-06","CH-01",34,47.618549,-122.317017,47.618633,-122.325249
+"949","12th Ave & E Mercer St","Eastlake Ave E & E Allison St","CH-15","EL-05",34,47.624142,-122.316811,47.64909,-122.322983
+"950","2nd Ave & Blanchard St","Bellevue Ave & E Pine St","BT-05","CH-12",34,47.61311,-122.344208,47.615456,-122.326729
+"951","2nd Ave & Vine St","Bellevue Ave & E Pine St","BT-03","CH-12",34,47.615829,-122.348564,47.615456,-122.326729
+"952","7th Ave & Union St","Pine St & 9th Ave","CBD-03","SLU-16",34,47.610731,-122.332447,47.613715,-122.331777
+"953","9th Ave N & Mercer St","1st Ave & Marion St","DPD-01","CBD-05",34,47.624298,-122.339617,47.604058,-122.3358
+"954","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","NE 47th St & 12th Ave NE","UD-01","UD-07",34,47.666145,-122.301491,47.663143,-122.315086
+"955","Cal Anderson Park / 11th Ave & Pine St","6th Ave & Blanchard St","CH-08","BT-04",34,47.615486,-122.318245,47.616094,-122.341102
+"956","City Hall / 4th Ave & James St","Dexter Ave & Denny Way","CBD-07","SLU-18",34,47.603509,-122.330409,47.618285,-122.342205
+"957","Dexter Ave & Denny Way","Occidental Park / Occidental Ave S & S Washington St","SLU-18","PS-04",34,47.618285,-122.342205,47.600757,-122.332946
+"958","Dexter Ave N & Aloha St","15th Ave NE & NE 40th St","SLU-02","UW-04",34,47.627735,-122.342232,47.65559,-122.31189
+"959","Eastlake Ave E & E Allison St","Westlake Ave & 6th Ave","EL-05","SLU-15",34,47.64909,-122.322983,47.613628,-122.337341
+"960","Lake Union Park / Valley St & Boren Ave N","9th Ave N & Mercer St","SLU-17","DPD-01",34,47.626041,-122.335831,47.624298,-122.339617
+"961","Occidental Park / Occidental Ave S & S Washington St","E Blaine St & Fairview Ave E","PS-04","EL-03",34,47.600757,-122.332946,47.634831,-122.326634
+"962","Occidental Park / Occidental Ave S & S Washington St","PATH / 9th Ave & Westlake Ave","PS-04","SLU-07",34,47.600757,-122.332946,47.61832,-122.338913
+"963","REI / Yale Ave N & John St","Pier 69 / Alaskan Way & Clay St","SLU-01","WF-01",34,47.619859,-122.330304,47.614315,-122.354093
+"964","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","7th Ave & Union St","WF-04","CBD-03",34,47.607702,-122.34165,47.610731,-122.332447
+"965","2nd Ave & Blanchard St","9th Ave N & Mercer St","BT-05","DPD-01",33,47.61311,-122.344208,47.624298,-122.339617
+"966","6th Ave S & S King St","E Harrison St & Broadway Ave E","ID-04","CH-02",33,47.598488,-122.326412,47.622063,-122.321251
+"967","7th Ave & Union St","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","CBD-03","EL-01",33,47.610731,-122.332447,47.627643,-122.332576
+"968","9th Ave N & Mercer St","Republican St & Westlake Ave N","DPD-01","SLU-04",33,47.624298,-122.339617,47.623165,-122.338203
+"969","Bellevue Ave & E Pine St","Pier 69 / Alaskan Way & Clay St","CH-12","WF-01",33,47.615456,-122.326729,47.614315,-122.354093
+"970","Burke-Gilman Trail / NE Blakeley St & 24th Ave NE","Lake Union Park / Valley St & Boren Ave N","UD-01","SLU-17",33,47.666145,-122.301491,47.626041,-122.335831
+"971","City Hall / 4th Ave & James St","Republican St & Westlake Ave N","CBD-07","SLU-04",33,47.603509,-122.330409,47.623165,-122.338203
+"972","Dexter Ave & Denny Way","1st Ave & Marion St","SLU-18","CBD-05",33,47.618285,-122.342205,47.604058,-122.3358
+"973","E Pine St & 16th Ave","12th Ave & NE Campus Pkwy","CH-07","UD-04",33,47.61533,-122.311752,47.656395,-122.31562
+"974","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","2nd Ave & Pine St","EL-01","CBD-13",33,47.627643,-122.332576,47.610185,-122.339641
+"975","Frye Art Museum / Terry Ave & Columbia St","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","FH-01","PS-05",33,47.607281,-122.324783,47.598994,-122.329684
+"976","Frye Art Museum / Terry Ave & Columbia St","Seattle University / E Columbia St & 12th Ave","FH-01","FH-04",33,47.607281,-122.324783,47.609239,-122.316651
+"977","NE 47th St & 12th Ave NE","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","UD-07","EL-01",33,47.663143,-122.315086,47.627643,-122.332576
+"978","Pine St & 9th Ave","6th Ave S & S King St","SLU-16","ID-04",33,47.613715,-122.331777,47.598488,-122.326412
+"979","Pine St & 9th Ave","City Hall / 4th Ave & James St","SLU-16","CBD-07",33,47.613715,-122.331777,47.603509,-122.330409
+"980","Summit Ave E & E Republican St","Frye Art Museum / Terry Ave & Columbia St","CH-03","FH-01",33,47.623367,-122.325279,47.607281,-122.324783
+"981","Summit Ave E & E Republican St","Lake Union Park / Valley St & Boren Ave N","CH-03","SLU-17",33,47.623367,-122.325279,47.626041,-122.335831
+"982","Terry Ave & Stewart St","2nd Ave & Blanchard St","SLU-20","BT-05",33,47.61626,-122.333815,47.61311,-122.344208
+"983","Union St & 4th Ave","Pier 69 / Alaskan Way & Clay St","CBD-04","WF-01",33,47.609221,-122.335596,47.614315,-122.354093
+"984","15th Ave NE & NE 40th St","Lake Union Park / Valley St & Boren Ave N","UW-04","SLU-17",32,47.65559,-122.31189,47.626041,-122.335831
+"985","2nd Ave & Pine St","Seattle University / E Columbia St & 12th Ave","CBD-13","FH-04",32,47.610185,-122.339641,47.609239,-122.316651
+"986","Bellevue Ave & E Pine St","Eastlake Ave E & E Allison St","CH-12","EL-05",32,47.615456,-122.326729,47.64909,-122.322983
+"987","Dexter Ave N & Aloha St","Occidental Park / Occidental Ave S & S Washington St","SLU-02","PS-04",32,47.627735,-122.342232,47.600757,-122.332946
+"988","E Harrison St & Broadway Ave E","City Hall / 4th Ave & James St","CH-02","CBD-07",32,47.622063,-122.321251,47.603509,-122.330409
+"989","E Pine St & 16th Ave","Dexter Ave N & Aloha St","CH-07","SLU-02",32,47.61533,-122.311752,47.627735,-122.342232
+"990","Frye Art Museum / Terry Ave & Columbia St","12th Ave & E Mercer St","FH-01","CH-15",32,47.607281,-122.324783,47.624142,-122.316811
+"991","Harvard Ave & E Pine St","1st Ave & Marion St","CH-09","CBD-05",32,47.615517,-122.322083,47.604058,-122.3358
+"992","Key Arena / 1st Ave N & Harrison St","Fred Hutchinson Cancer Research Center / Fairview Ave N & Ward St","SLU-19","EL-01",32,47.622277,-122.35523,47.627643,-122.332576
+"993","PATH / 9th Ave & Westlake Ave","Seattle Aquarium / Alaskan Way S & Elliott Bay Trail","SLU-07","WF-04",32,47.61832,-122.338913,47.607702,-122.34165
+"994","Pine St & 9th Ave","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","SLU-16","PS-05",32,47.613715,-122.331777,47.598994,-122.329684
+"995","REI / Yale Ave N & John St","Bellevue Ave & E Pine St","SLU-01","CH-12",32,47.619859,-122.330304,47.615456,-122.326729
+"996","REI / Yale Ave N & John St","Summit Ave & E Denny Way","SLU-01","CH-01",32,47.619859,-122.330304,47.618633,-122.325249
+"997","Summit Ave & E Denny Way","Key Arena / 1st Ave N & Harrison St","CH-01","SLU-19",32,47.618633,-122.325249,47.622277,-122.35523
+"998","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","Lake Union Park / Valley St & Boren Ave N","UW-10","SLU-17",32,47.650725,-122.311188,47.626041,-122.335831
+"999","UW Magnuson Health Sciences Center Rotunda / Columbia Rd & San Juan Rd","NE 47th St & 12th Ave NE","UW-10","UD-07",32,47.650725,-122.311188,47.663143,-122.315086
+"1000","12th Ave & E Denny Way","King Street Station Plaza / 2nd Ave Extension S & S Jackson St","CH-06","PS-05",31,47.618549,-122.317017,47.598994,-122.329684

@@ -41,8 +41,8 @@ circularAnnual = circularHeatChart()
   .innerRadius 40
   .radialLabels null
   .numSegments 12
-  .segmentHeight 60
-  .segmentLabels null
+  .segmentHeight 70
+  .segmentLabels ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
   .range ['#92E9FA','#043440']
   .margin {top: 0, right: 0, bottom: 0, left: 0}
 
@@ -51,16 +51,19 @@ d3.select "#circular-annual-am"
   .data([hourDataAnnual.slice(0,12)])
   .enter()
   .append('svg')
-  .style('height', '200px')
-  .style('width', '200px')
+  .style('height', '300px')
+  .style('width', '300px')
+  .style('padding-top','35px')
+  .style('padding-left','35px')
+  .style('font-size','10px')
   .call(circularAnnual)
 
 circularAnnualPm = circularHeatChart()
   .innerRadius 40
   .radialLabels null
   .numSegments 12
-  .segmentHeight 60
-  .segmentLabels null
+  .segmentHeight 70
+  .segmentLabels ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
   .range ['#92E9FA','#043440']
   .margin {top: 0, right: 0, bottom: 0, left: 0}
 
@@ -69,8 +72,11 @@ d3.select "#circular-annual-pm"
   .data([hourDataAnnual.slice(12,24)])
   .enter()
   .append('svg')
-  .style('height', '200px')
-  .style('width', '200px')
+  .style('height', '300px')
+  .style('width', '300px')
+  .style('padding-top','35px')
+  .style('padding-left','35px')
+  .style('font-size','10px')
   .call(circularAnnual)
 
 d3.selectAll("#circular-annual path").on 'mouseover', ->
@@ -84,8 +90,8 @@ circularShort = circularHeatChart()
   .innerRadius 40
   .radialLabels null
   .numSegments 12
-  .segmentHeight 60
-  .segmentLabels null
+  .segmentHeight 70
+  .segmentLabels ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
   .range ['#92E9FA','#043440']
   .margin {top: 0, right: 0, bottom: 0, left: 0}
 
@@ -94,16 +100,19 @@ d3.select "#circular-short-am"
   .data([hourDataShort.slice(0,12)])
   .enter()
   .append('svg')
-  .style('height', '200px')
-  .style('width', '200px')
+  .style('height', '300px')
+  .style('width', '300px')
+  .style('padding-top','35px')
+  .style('padding-left','35px')
+  .style('font-size','10px')
   .call(circularShort)
 
 circularShortPm = circularHeatChart()
   .innerRadius 40
   .radialLabels null
   .numSegments 12
-  .segmentHeight 60
-  .segmentLabels null
+  .segmentHeight 70
+  .segmentLabels ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
   .range ['#92E9FA','#043440']
   .margin {top: 0, right: 0, bottom: 0, left: 0}
 
@@ -112,8 +121,11 @@ d3.select "#circular-short-pm"
   .data([hourDataShort.slice(12,24)])
   .enter()
   .append('svg')
-  .style('height', '200px')
-  .style('width', '200px')
+  .style('height', '300px')
+  .style('width', '300px')
+  .style('padding-top','35px')
+  .style('padding-left','35px')
+  .style('font-size','10px')
   .call(circularShort)
 
 d3.selectAll("#circular-short path").on 'mouseover', ->

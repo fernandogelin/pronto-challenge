@@ -35,7 +35,9 @@
 
 <div class="container">
 	<div class="card overview">
-		<h4 class="card-title">Overview</h4>
+		<div class="card-block">
+		<h4 class="card-title">Ridership by group</h4>
+		<p class="card-text">Between October 13, 2014 and October 12, 2015, Pronto users went for over <b>140,000 rides</b> and spent over <b>48,000 hours</b> cycling. A quick look at the data reveals annual members and day-pass holders use Pronto bikes in very dinstinct ways. While <b>annual members</b> are responsible for <b>60%</b> of the trips, <b>day-pass holders</b> keep their bikes for longer periods and are responsible for almost <b>70%</b> of the total time bikes were in use. The average trip duration is about 10 minutes for annual members and 35 minutes for day-pass holders.</p>
 		<div class="row">
 		  <div class="col-md-4">
 			<div id="donut"></div>
@@ -49,28 +51,28 @@
 		</div>
 	</div>
 </div>
-
+</div>
 <span class="fa fa-map-marker fa-background"></span>
 
 <div class="container">
 	<div class="row">
 	  <div class="col-md-6">
 			<div class="card">
-        <img class="card-img-top" src="images/stations.png" alt="Card image cap">
+        <a href="stations/index.html"><img class="card-img-top" src="images/stations.png" alt="Card image cap"></a>
         <div class="card-block">
 	        <h4 class="card-title">Most popular stations</h4>
-	        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-	        <a href="stations.html" class="btn btn-secondary-outline">MORE</a>
+	        <p class="card-text">Explore the most popular Pronto stations by number of bikes checked in and out.</p>
+	        <a href="stations/index.html" class="btn btn-secondary-outline">MORE</a>
        </div>
      </div>
     </div>
 	  <div class="col-md-6">
 			<div class="card">
-       <img class="card-img-top" src="images/routes.png" alt="Card image cap">
+       <a  href="routes/index.html"><img class="card-img-top" src="images/routes.png" alt="Card image cap"></a>
        <div class="card-block">
-         <h4 class="card-title">Most popular routes</h4>
-         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-         <a href="routes.html" class="btn btn-secondary-outline">MORE</a>
+         <h4 class="card-title">Routes heatmap</h4>
+         <p class="card-text">See the most likely roads where Pronto bikers are riding based on the shortest cycleble path between the most popular stations.</p>
+         <a href="routes/index.html" class="btn btn-secondary-outline">MORE</a>
        </div>
      </div>
 	  </div>
@@ -84,10 +86,19 @@
 		<div class="row">
 			<div class="col-md-4">
 				<h4 class="card-title blue-title">Neighborhoods</h4>
-				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<p class="card-text">Capitol Hill is the most popular starting neighborhood with <b>26%</b> of bike check-out. On the other hand, South Lake Union is the most popular destination with <b>28%</b> of the total check-ins. Hover over the starting neighborhood to find out where bikers pickup the bikes and where they go from there.</p>
 			</div>
 		  <div class="col-md-8">
-		  <div id="bipartite"></div>
+				<div class="text-center">
+					<div class="bipartite" id="bipartite"></div>
+
+
+				<div class="btn-group bipartite-btn" role="group" aria-label="Membership Type Toggle">
+				  <button type="button" class="btn btn-secondary-outline active" data-bipartite-type="annual">Annual members</button>
+				  <button type="button" class="btn btn-secondary-outline" data-bipartite-type="short">Day-pass holders</button>
+				</div>
+			</div>
+
 		  </div>
 	  </div>
 	</div>
@@ -98,7 +109,10 @@
 
 <div class="container">
 	<div class="card">
-		<h4 class="card-title blue-title">Day-by-day</h4>
+		<div class"card-block">
+			<h4 class="card-title">Day-by-day</h4>
+			<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+	  </div>
 			<div class="row card-block">
 				<div class="col-md-4">
 					<h5 class="card-title blue-title">Members</h5>
@@ -150,15 +164,15 @@
 <span class="fa fa-cloud fa-background"></span>
 
 <div class="container">
-	<div class="card">
+	<div class="card weather-card">
 		<div class="row">
 			<div class="col-md-5 card-block weather-image">
-				<img class="card-img" src="images/weather.png"/>
+			<a href="weather/index.html"><img class="card-img" src="images/weather.png"/></a>
 			</div>
 			<div class="col-md-7 card-block weather-text">
 				<h4 class="card-title">Weather impact</h4>
 				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-				<a href="weather.html "class="btn btn-secondary-outline">MORE</a>
+				<a href="weather/index.html" class="btn btn-secondary-outline">MORE</a>
 			</div>
 		</div>
 	</div>

@@ -68,6 +68,12 @@ var weather = c3.generate({
 
 var donut = c3.generate({
 	bindto: '#donut',
+    padding: {
+         bottom: 20,
+     },
+    tooltip: {
+      show: false
+    },
     data: {
         columns: [
             ['Annual member', 87360],
@@ -79,6 +85,9 @@ var donut = c3.generate({
 		},
         type : 'donut'
     },
+    legend: {
+      show: false
+    },
     donut: {
         title: "142,846 rides"
     }
@@ -86,6 +95,12 @@ var donut = c3.generate({
 
 var donut2 = c3.generate({
 	bindto: '#donut2',
+    padding: {
+         bottom: 20,
+     },
+    tooltip: {
+       show: false
+     },
     data: {
         columns: [
             ['Annual member', 14722.48],
@@ -104,6 +119,12 @@ var donut2 = c3.generate({
 
 var bar = c3.generate({
   bindto: '#bar',
+    padding: {
+         bottom: 20,
+     },
+    tooltip: {
+       show: false
+     },
     data: {
         columns: [
             ['annual', 10],
@@ -115,17 +136,346 @@ var bar = c3.generate({
           shortterm: '#058E9E'
 		     },
     },
+    legend: {
+      show: false
+    },
     bar: {
         width: {
-            ratio: 0.5 // this makes bar width 50% of length between ticks
+            ratio: 0.7 // this makes bar width 50% of length between ticks
         }
         // or
         //width: 100 // this makes bar width 100px
     },
     axis: {
-      rotated: true
+      rotated: true,
+      y: {
+        label: 'Average trip time (minutes)'
+      }
     }
 });
+
+var short_neighborhood_data = [
+  ['Belltown','Belltown',1544],
+  ['Belltown','Downtown',1473],
+  ['Belltown','Central District',1],
+  ['Belltown','Capitol Hill',321],
+  ['Belltown','South Lake Union',105],
+  ['Belltown','Eastlake',182],
+  ['Belltown','First Hill',33],
+  ['Belltown','International District',113],
+  ['Belltown','Pioneer Square',460],
+  ['Belltown','South Lake Union',1607],
+  ['Belltown','University District',67],
+  ['Belltown','UW',41],
+  ['Belltown','Water Front',1332],
+  ['Downtown','Belltown',1318],
+  ['Downtown','Downtown',1814],
+  ['Downtown','Central District',10],
+  ['Downtown','Capitol Hill',528],
+  ['Downtown','South Lake Union',80],
+  ['Downtown','Eastlake',136],
+  ['Downtown','First Hill',78],
+  ['Downtown','International District',289],
+  ['Downtown','Pioneer Square',867],
+  ['Downtown','South Lake Union',1215],
+  ['Downtown','University District',65],
+  ['Downtown','UW',24],
+  ['Downtown','Water Front',861],
+  ['Central District','Belltown',5],
+  ['Central District','Downtown',20],
+  ['Central District','Central District',10],
+  ['Central District','Capitol Hill',45],
+  ['Central District','South Lake Union',1],
+  ['Central District','Eastlake',1],
+  ['Central District','First Hill',13],
+  ['Central District','International District',17],
+  ['Central District','Pioneer Square',16],
+  ['Central District','South Lake Union',11],
+  ['Central District','University District',3],
+  ['Central District','Water Front',4],
+  ['Capitol Hill','Belltown',579],
+  ['Capitol Hill','Downtown',1157],
+  ['Capitol Hill','Central District',63],
+  ['Capitol Hill','Capitol Hill',2744],
+  ['Capitol Hill','South Lake Union',33],
+  ['Capitol Hill','Eastlake',282],
+  ['Capitol Hill','First Hill',245],
+  ['Capitol Hill','International District',151],
+  ['Capitol Hill','Pioneer Square',265],
+  ['Capitol Hill','South Lake Union',1268],
+  ['Capitol Hill','University District',247],
+  ['Capitol Hill','UW',173],
+  ['Capitol Hill','Water Front',249],
+  ['South Lake Union','Belltown',96],
+  ['South Lake Union','Downtown',82],
+  ['South Lake Union','Central District',3],
+  ['South Lake Union','Capitol Hill',33],
+  ['South Lake Union','South Lake Union',256],
+  ['South Lake Union','Eastlake',115],
+  ['South Lake Union','First Hill',7],
+  ['South Lake Union','Pioneer Square',25],
+  ['South Lake Union','South Lake Union',245],
+  ['South Lake Union','University District',145],
+  ['South Lake Union','UW',68],
+  ['South Lake Union','Water Front',26],
+  ['Eastlake','Belltown',226],
+  ['Eastlake','Downtown',157],
+  ['Eastlake','Central District',1],
+  ['Eastlake','Capitol Hill',137],
+  ['Eastlake','South Lake Union',60],
+  ['Eastlake','Eastlake',1061],
+  ['Eastlake','First Hill',2],
+  ['Eastlake','International District',5],
+  ['Eastlake','Pioneer Square',35],
+  ['Eastlake','South Lake Union',1054],
+  ['Eastlake','University District',398],
+  ['Eastlake','UW',260],
+  ['Eastlake','Water Front',51],
+  ['First Hill','Belltown',45],
+  ['First Hill','Downtown',154],
+  ['First Hill','Central District',22],
+  ['First Hill','Capitol Hill',242],
+  ['First Hill','South Lake Union',3],
+  ['First Hill','Eastlake',8],
+  ['First Hill','First Hill',133],
+  ['First Hill','International District',30],
+  ['First Hill','Pioneer Square',44],
+  ['First Hill','South Lake Union',98],
+  ['First Hill','University District',10],
+  ['First Hill','UW',8],
+  ['First Hill','Water Front',26],
+  ['International District','Belltown',74],
+  ['International District','Downtown',275],
+  ['International District','Central District',13],
+  ['International District','Capitol Hill',69],
+  ['International District','Eastlake',3],
+  ['International District','First Hill',31],
+  ['International District','International District',112],
+  ['International District','Pioneer Square',79],
+  ['International District','South Lake Union',81],
+  ['International District','University District',4],
+  ['International District','UW',3],
+  ['International District','Water Front',114],
+  ['Pioneer Square','Belltown',256],
+  ['Pioneer Square','Downtown',580],
+  ['Pioneer Square','Central District',11],
+  ['Pioneer Square','Capitol Hill',93],
+  ['Pioneer Square','South Lake Union',14],
+  ['Pioneer Square','Eastlake',12],
+  ['Pioneer Square','First Hill',29],
+  ['Pioneer Square','International District',89],
+  ['Pioneer Square','Pioneer Square',327],
+  ['Pioneer Square','South Lake Union',257],
+  ['Pioneer Square','University District',3],
+  ['Pioneer Square','Water Front',436],
+  ['South Lake Union','Belltown',1633],
+  ['South Lake Union','Downtown',1573],
+  ['South Lake Union','Central District',7],
+  ['South Lake Union','Capitol Hill',745],
+  ['South Lake Union','South Lake Union',185],
+  ['South Lake Union','Eastlake',999],
+  ['South Lake Union','First Hill',63],
+  ['South Lake Union','International District',99],
+  ['South Lake Union','Pronto shop',1],
+  ['South Lake Union','Pioneer Square',412],
+  ['South Lake Union','South Lake Union',4238],
+  ['South Lake Union','University District',291],
+  ['South Lake Union','UW',198],
+  ['South Lake Union','Water Front',913],
+  ['University District','Belltown',53],
+  ['University District','Downtown',54],
+  ['University District','Central District',5],
+  ['University District','Capitol Hill',106],
+  ['University District','South Lake Union',149],
+  ['University District','Eastlake',334],
+  ['University District','First Hill',7],
+  ['University District','International District',1],
+  ['University District','Pioneer Square',4],
+  ['University District','South Lake Union',333],
+  ['University District','University District',1533],
+  ['University District','UW',635],
+  ['University District','Water Front',21],
+  ['UW','Belltown',25],
+  ['UW','Downtown',44],
+  ['UW','Capitol Hill',105],
+  ['UW','South Lake Union',78],
+  ['UW','Eastlake',328],
+  ['UW','First Hill',2],
+  ['UW','Pioneer Square',4],
+  ['UW','South Lake Union',188],
+  ['UW','University District',606],
+  ['UW','UW',1480],
+  ['UW','Water Front',29],
+  ['Water Front','Belltown',745],
+  ['Water Front','Downtown',730],
+  ['Water Front','Central District',4],
+  ['Water Front','Capitol Hill',38],
+  ['Water Front','South Lake Union',30],
+  ['Water Front','Eastlake',26],
+  ['Water Front','First Hill',15],
+  ['Water Front','International District',82],
+  ['Water Front','Pioneer Square',559],
+  ['Water Front','South Lake Union',642],
+  ['Water Front','University District',26],
+  ['Water Front','UW',23],
+  ['Water Front','Water Front',4582]
+]
+
+var annual_neighborhood_data = [
+  ['Belltown','Belltown',656],
+  ['Belltown','Downtown',2114],
+  ['Belltown','Central District',4],
+  ['Belltown','Capitol Hill',407],
+  ['Belltown','South Lake Union',737],
+  ['Belltown','East Lake',445],
+  ['Belltown','First Hill',16],
+  ['Belltown','International District',67],
+  ['Belltown','Pioneer Square',522],
+  ['Belltown','South Lake Union',3202],
+  ['Belltown','University District',44],
+  ['Belltown','UW',9],
+  ['Belltown','Water Front',171],
+  ['Downtown','Belltown',1656],
+  ['Downtown','Downtown',1381],
+  ['Downtown','Central District',17],
+  ['Downtown','Capitol Hill',813],
+  ['Downtown','South Lake Union',104],
+  ['Downtown','East Lake',169],
+  ['Downtown','First Hill',81],
+  ['Downtown','International District',319],
+  ['Downtown','Pioneer Square',1307],
+  ['Downtown','South Lake Union',2960],
+  ['Downtown','University District',10],
+  ['Downtown','UW',7],
+  ['Downtown','Water Front',683],
+  ['Central District','Belltown',3],
+  ['Central District','Downtown',53],
+  ['Central District','Central District',3],
+  ['Central District','Capitol Hill',71],
+  ['Central District','South Lake Union',1],
+  ['Central District','First Hill',23],
+  ['Central District','International District',40],
+  ['Central District','Pioneer Square',66],
+  ['Central District','South Lake Union',6],
+  ['Central District','Water Front',28],
+  ['Capitol Hill','Belltown',1571],
+  ['Capitol Hill','Downtown',5336],
+  ['Capitol Hill','Central District',173],
+  ['Capitol Hill','Capitol Hill',8954],
+  ['Capitol Hill','South Lake Union',378],
+  ['Capitol Hill','East Lake',851],
+  ['Capitol Hill','First Hill',1039],
+  ['Capitol Hill','International District',526],
+  ['Capitol Hill','Pioneer Square',1237],
+  ['Capitol Hill','South Lake Union',6837],
+  ['Capitol Hill','University District',347],
+  ['Capitol Hill','UW',215],
+  ['Capitol Hill','Water Front',106],
+  ['South Lake Union','Belltown',428],
+  ['South Lake Union','Downtown',83],
+  ['South Lake Union','Capitol Hill',79],
+  ['South Lake Union','South Lake Union',60],
+  ['South Lake Union','East Lake',167],
+  ['South Lake Union','First Hill',5],
+  ['South Lake Union','International District',4],
+  ['South Lake Union','Pioneer Square',54],
+  ['South Lake Union','South Lake Union',967],
+  ['South Lake Union','University District',267],
+  ['South Lake Union','UW',167],
+  ['South Lake Union','Water Front',9],
+  ['East Lake','Belltown',333],
+  ['East Lake','Downtown',87],
+  ['East Lake','Capitol Hill',62],
+  ['East Lake','South Lake Union',224],
+  ['East Lake','East Lake',454],
+  ['East Lake','First Hill',20],
+  ['East Lake','International District',2],
+  ['East Lake','Pioneer Square',47],
+  ['East Lake','South Lake Union',1419],
+  ['East Lake','University District',203],
+  ['East Lake','UW',212],
+  ['East Lake','Water Front',20],
+  ['First Hill','Belltown',132],
+  ['First Hill','Downtown',554],
+  ['First Hill','Central District',26],
+  ['First Hill','Capitol Hill',1103],
+  ['First Hill','South Lake Union',27],
+  ['First Hill','East Lake',93],
+  ['First Hill','First Hill',98],
+  ['First Hill','International District',195],
+  ['First Hill','Pioneer Square',345],
+  ['First Hill','South Lake Union',470],
+  ['First Hill','University District',8],
+  ['First Hill','UW',2],
+  ['First Hill','Water Front',12],
+  ['International District','Belltown',26],
+  ['International District','Downtown',207],
+  ['International District','Central District',5],
+  ['International District','Capitol Hill',145],
+  ['International District','South Lake Union',6],
+  ['International District','East Lake',2],
+  ['International District','First Hill',49],
+  ['International District','International District',25],
+  ['International District','Pioneer Square',61],
+  ['International District','South Lake Union',51],
+  ['International District','Water Front',29],
+  ['Pioneer Square','Belltown',219],
+  ['Pioneer Square','Downtown',792],
+  ['Pioneer Square','Central District',10],
+  ['Pioneer Square','Capitol Hill',195],
+  ['Pioneer Square','South Lake Union',50],
+  ['Pioneer Square','East Lake',41],
+  ['Pioneer Square','First Hill',70],
+  ['Pioneer Square','International District',67],
+  ['Pioneer Square','Pioneer Square',138],
+  ['Pioneer Square','South Lake Union',507],
+  ['Pioneer Square','University District',2],
+  ['Pioneer Square','Water Front',524],
+  ['South Lake Union','Belltown',2732],
+  ['South Lake Union','Downtown',3028],
+  ['South Lake Union','Central District',6],
+  ['South Lake Union','Capitol Hill',1036],
+  ['South Lake Union','South Lake Union',1269],
+  ['South Lake Union','East Lake',1704],
+  ['South Lake Union','First Hill',78],
+  ['South Lake Union','International District',80],
+  ['South Lake Union','Pioneer Square',626],
+  ['South Lake Union','South Lake Union',10706],
+  ['South Lake Union','University District',222],
+  ['South Lake Union','UW',126],
+  ['South Lake Union','Water Front',427],
+  ['University District','Belltown',53],
+  ['University District','Downtown',15],
+  ['University District','Capitol Hill',86],
+  ['University District','South Lake Union',212],
+  ['University District','East Lake',241],
+  ['University District','Pioneer Square',3],
+  ['University District','South Lake Union',142],
+  ['University District','University District',451],
+  ['University District','UW',1149],
+  ['UW','Belltown',4],
+  ['UW','Downtown',33],
+  ['UW','Capitol Hill',90],
+  ['UW','South Lake Union',134],
+  ['UW','East Lake',273],
+  ['UW','International District',1],
+  ['UW','Pioneer Square',2],
+  ['UW','South Lake Union',121],
+  ['UW','University District',1125],
+  ['UW','UW',1348],
+  ['Water Front','Belltown',88],
+  ['Water Front','Downtown',609],
+  ['Water Front','Central District',12],
+  ['Water Front','Capitol Hill',9],
+  ['Water Front','South Lake Union',2],
+  ['Water Front','East Lake',1],
+  ['Water Front','First Hill',2],
+  ['Water Front','International District',11],
+  ['Water Front','Pioneer Square',566],
+  ['Water Front','South Lake Union',121],
+  ['Water Front','University District',2],
+  ['Water Front','Water Front',978]
+]
 
 var region_data=[
   ['Belltown','Belltown',2200],
@@ -299,13 +649,44 @@ var region_data=[
 var width = 2000, height = 1000, margin ={b:0, t:40, l:170, r:50};
 
 var svg = d3.select("#bipartite")
-	.append("svg").attr('width',width).attr('height',(height+margin.b+margin.t))
-	.append("g").attr("transform","translate("+ margin.l+","+margin.t+")");
+  .append("svg").attr('width',width).attr('height',(height+margin.b+margin.t))
+  .append("g").attr("transform","translate("+ margin.l+","+margin.t+")");
 
-var data = [
-	{data:bP.partData(region_data,2), id:'Trips', header:["From","To", "Number of Trips"]}
-];
+var data = {
+  annual: {
+    id: 'bipartite-annual',
+    data: bP.partData(annual_neighborhood_data, 2),
+    header: [
+      "From",
+      "To",
+      "Number of Trips"
+    ]
+  },
+  short: {
+    id: 'bipartite-short',
+    data: bP.partData(short_neighborhood_data, 2),
+    header: [
+      "From",
+      "To",
+      "Number of Trips"
+    ]
+  }
+};
 
-bP.draw(data, svg);
-
+bP.draw([data.annual, data.short], svg);
 svg.selectAll("text.barlabel").style("margin-left", "50%");
+
+$('#bipartite-short').hide();
+
+$('[data-bipartite-type]').click(function (e) {
+  var selectedButton = $(e.currentTarget);
+  var type = $(selectedButton).attr('data-bipartite-type');
+  var charts = $('.bipartite > svg > g > g');
+  var selectedChart = $(charts).filter('#bipartite-' + type);
+  var buttons = $('[data-bipartite-type]');
+  $(buttons).removeClass('active');
+  $(selectedButton).addClass('active');
+  $(charts).hide()
+  $(selectedChart).show();
+  console.log(selectedChart, charts);
+});

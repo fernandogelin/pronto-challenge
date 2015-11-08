@@ -10,10 +10,13 @@ h1, h2, h3, h4 {
   font-size: 1.3em !important;
   color: #003B49 !important;
 }
+.container {
+    padding-bottom: 1.5em;
+}
 .fa-background {
   font-size: 27em;
   position: absolute;
-  color:#68D2DF;
+  color:#D3EFF5;
 }
 .fa-bicycle {
   top: 1em;
@@ -38,7 +41,10 @@ h1, h2, h3, h4 {
   left:-0.2em;
 }
 .circular {
-  margin-left: 25%;
+  margin-left: 10%;
+}
+.circular textpath {
+  fill: #57A3B1;
 }
 p {
   font-family: 'Titillium Web', sans-serif !important;
@@ -102,11 +108,17 @@ p {
 .leaflet-marker-icon, .leaflet-marker-shadow {
     visibility: hidden;
   }
-#bipartite {
+.bipartite {
   height: 650px;
 }
-#bipartite svg text{
+.bipartite svg text{
 	font-size:12px;
+}
+.bipartite svg > g > g{
+	transform: translate(0,0);
+}
+.bipartite-btn {
+  margin:auto;
 }
 rect.highlight {
 	color: gray;
@@ -163,6 +175,8 @@ textpath {
 .card {
   background-color: rgba(255,255,255,0.85) !important;
 }
+.card-text {
+}
 footer {
   height: 15em;
   background-color: #003C4B;
@@ -177,4 +191,15 @@ footer {
 .copy {
   padding-top: 8em;
   color: #00BDCB;
+}
+.c3-axis-x .tick {
+  opacity: 0 !important;
+}
+
+.hidden {
+  display: none;
+}
+
+.btn:focus, .btn.focus, .btn:active:focus, .btn:active.focus, .btn.active:focus, .btn.active.focus {
+  outline: 0;
 }
